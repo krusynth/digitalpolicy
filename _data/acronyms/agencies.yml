@@ -1,0 +1,214 @@
+title: Agencies and Offices
+description:
+  There are thousands of individual departments, agencies, and offices, but these are some of the most commonly referenced with regard to government IT.
+
+values:
+  - name: CISA
+    fullname: The Cybersecurity and Infrastructure Security Agency (CISA)
+    notes: Agency under The Department of Homeland Security.
+    url: /info/policymaking-offices/#cisa
+
+  - name: DHS
+    fullname: The Department of Homeland Security (DHS)
+    notes: Not to be confused with the Department of Health and Human Services (HHS).
+    url: /info/policymaking-offices/#dhs
+
+  - name: DOC
+    fullname: The Department of Commerce (DOC)
+    notes:
+    url:
+
+  - name: DOD
+    fullname: The Department of Defense (DOD)
+    notes:
+    url:
+
+  - name: DOE
+    fullname: The Department of Energy (DOE)
+    notes: Not to be confused with DOEd (Education).
+    url:
+
+  - name: DOEd
+    fullname: The Department of Education (DOEd)
+    notes: Most commonly referred to as just "Ed." Not to be confused with DOE (Energy).
+    url:
+
+  - name: DOI
+    fullname: The Department of the Interior (DOI)
+    notes:
+    url:
+
+  - name: DOJ
+    fullname: The Department of Justice (DOJ)
+    notes:
+    url:
+
+  - name: DOL
+    fullname: The Department of Labor (DOL)
+    notes:
+    url:
+
+  - name: DOS
+    fullname: The Department of State (DOS)
+    notes:
+    url:
+
+  - name: DOT
+    fullname: The Department of Transportation (DOT)
+    notes: Not to be mistaken with the Department of the Treasury (USDT)
+    url:
+
+  - name: EOP
+    fullname: The Executive Office of the President (EOP)
+    notes: This is the office more commonly known as The White House.
+    url: /info/policymaking-offices/#eop
+
+  - name: EPA
+    fullname: The Environmental Protection Agency (EPA)
+    notes:
+    url:
+
+  - name: GAO
+    fullname: The Government Accountability Office (GAO)
+    notes:
+    url: /info/policymaking-offices/#gao
+
+  - name: GSA
+    fullname: The General Services Administration (GSA)
+    notes:
+    url: /info/policymaking-offices/#gsa
+
+  - name: HHS
+    fullname: The Department of Health and Human Services (HHS)
+    notes: Not to be confused with the Department of Homeland Security (DHS).
+    url:
+
+  - name: HUD
+    fullname: The Department of Housing and Urban Development (HUD)
+    notes:
+    url:
+
+  - name: NARA
+    fullname: The National Archives and Records Administration (NARA)
+    notes:
+    url: /info/policymaking-offices/#nara
+
+  - name: NASA
+    fullname: The National Aeronautics and Space Administration (NASA)
+    notes:
+    url:
+
+  - name: NIH
+    fullname: National Institutes of Health (NIH)
+    notes: Agency under the Department of Health and Human Services.
+    url:
+
+  - name: NIST
+    fullname: The National Institute of Standards and Technology (NIST)
+    notes: Agency under The Department of Commerce.
+    url: /info/policymaking-offices/#nist
+
+  - name: NRC
+    fullname: The Nuclear Regulatory Commission (NRC)
+    notes:
+    url:
+
+  - name: NSF
+    fullname: The National Science Foundation (NSF)
+    notes:
+    url:
+
+  - name: ODNI
+    fullname: The Office of the Director of National Intelligence (ODNI)
+    notes: Office under the Executive Office of the President.
+    url: /info/policymaking-offices/#odni
+
+  - name: OFCIO
+    fullname: The Office of the Federal Chief Information Officer (OFCIO)
+    notes: Part of The Office of Management and Budget.
+    url: /info/policymaking-offices/#ofcio
+
+  - name: OFFM
+    fullname: The Office of Federal Financial Management (OFFM)
+    notes: Part of The Office of Management and Budget
+    url: /info/policymaking-offices/#offm
+
+  - name: OFPP
+    fullname: The Office of Federal Procurement Policy (OFPP)
+    notes: Part of The Office of Management and Budget
+    url: /info/policymaking-offices/#ofpp
+
+  - name: OIRA
+    fullname: The Office of Information and Regulatory Affairs (OIRA)
+    notes: Part of The Office of Management and Budget
+    url: /info/policymaking-offices/#oira
+
+  - name: OMB
+    fullname: The Office of Management and Budget (OMB)
+    notes: Office under the Executive Office of the President
+    url: /info/policymaking-offices/#omb
+
+  - name: OSTP
+    fullname: The Office of Science and Technology Policy (OSTP)
+    notes: Office under the Executive Office of the President
+    url: /info/policymaking-offices/#ostp
+
+  - name: OPM
+    fullname: The Office of Personnel Management (OPM)
+    notes:
+    url: /info/policymaking-offices/#opm
+
+  - name: PPM
+    fullname: The Office of Performance and Personnel Management (PPM)
+    notes: Part of the Office of Management and Budget
+    url: /info/policymaking-offices/#ppm
+
+  - name: SBA
+    fullname: The Small Business Administration (SBA)
+    notes:
+    url:
+
+  - name: SSA
+    fullname: The Social Security Administration (SSA)
+    notes:
+    url:
+
+  - name: TTS
+    fullname: The Technology Transformation Services (TTS)
+    notes: Part of the General Services Administration
+    url: /info/policymaking-offices/#tts
+
+  - name: USACE
+    fullname: The US Army Corps of Engineers (USACE)
+    notes: Part of the U.S. Army (Department of Defense), but has both civilian and military roles.
+    url:
+
+  - name: USAID
+    fullname: The Agency for International Development (USAID)
+    notes:
+    url:
+
+  - name: USDA
+    fullname: The Department of Agriculture (USDA)
+    notes:
+    url:
+
+  - name: USDS
+    fullname: The United States Digital Service (USDS)
+    notes: Part of The Office of Management and Budget
+    url: /info/policymaking-offices/#usds
+
+  - name: USDT
+    fullname: The Department of the Treasury (USDT)
+    notes:
+    url:
+
+  - name: VA
+    fullname: The Department of Veterans Affairs (VA)
+    notes:
+    url:
+
+  - name: 18F
+    fullname: 18F
+    notes: Not actually an acronym, this is the name of the digital services team at GSA. Part of the Technology Transformation Services in the General Services Administration.
+    url: /info/policymaking-offices/#18f

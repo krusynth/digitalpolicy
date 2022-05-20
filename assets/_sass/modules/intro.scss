@@ -1,0 +1,28 @@
+.authority-pyramid {
+  padding-left: 0;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include media-breakpoint-up(md) {
+    width: 30%;
+  }
+
+  li {
+    background-color: $blue;
+    color: $white;
+    margin: 0 auto 2px;
+    padding: 1rem;
+  }
+
+  li:nth-child(1) {
+    width: 50%;
+  }
+
+  li:nth-child(2) {
+    width: 75%;
+  }
+
+  li:nth-child(3) {
+    width: 100%;
+  }
+}

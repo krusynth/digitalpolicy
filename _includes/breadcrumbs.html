@@ -1,0 +1,23 @@
+{% assign route="" %}
+<ul class="breadcrumb">
+  <li class="breadcrumb-item">
+    <a href="{{ '/' }}">Home</a>
+  </li>
+  {% if page.categories.size > 0 %}111
+    {% for category in page.categories %}
+      {% assign route = route | append: '/' | append: category %}
+      <li class="breadcrumb-item">
+        <a href="{{ route | absolute_url }}/">{{ category | replace: "-", " " }}</a>
+      </li>
+    {% endfor %}
+  {% elsif page.collection %}
+    {% assign route = route | append: '/' | append: page.collection %}
+    <li class="breadcrumb-item">
+      <a href="{{ route | absolute_url }}/">{{ page.collection | replace: "-", " " | capitalize }}</a>
+    </li>
+  {% endif %}
+
+  <li class="breadcrumb-item active" aria-current="page">
+    {{ page.title | replace: "-", " " }}
+  </li>
+</ul>

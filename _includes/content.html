@@ -1,0 +1,7 @@
+{%- capture acronyms -%}
+  {% include filters/acronyms.html html=content %}
+{%- endcapture -%}
+{%- capture glyphs -%}
+  {% include filters/glyphs.html html=acronyms %}
+{%- endcapture -%}
+{{- glyphs -}}

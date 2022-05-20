@@ -1,0 +1,110 @@
+---
+---
+
+@page { size: auto;  margin: 0mm; }
+
+body {
+  margin-top: 0;
+  background-image: none;
+  background-color: #ffffff !important;
+  font-size: 1rem;
+}
+
+a {
+  border-bottom: none;
+  text-decoration: none !important;
+  color: #000000;
+}
+
+.web-only {
+  display: none;
+}
+
+.print-only {
+  display: block;
+}
+
+.section-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  border-bottom: 1px solid #000000;
+}
+
+.job {
+  grid-template-columns: 50% auto;
+
+  page-break-inside: avoid;
+  margin-bottom: 1rem;
+
+  &-title {
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
+    h3 {
+      font-size: 1.25rem;
+    }
+
+    &-position {
+      font-size: 0.9em;
+      font-weight: bold;
+    }
+  }
+
+  &-description {
+    grid-row: 2 / span 1;
+    grid-column: 1 / span 2;
+    margin-bottom: 0;
+  }
+
+  &-timeline {
+    display: block;
+    grid-row: 1 / span 1;
+    grid-column: 2 / span 1;
+    text-align: right;
+
+    &-start{
+      &.job-timeline-overlap {
+        display: inline;
+      }
+    }
+
+    .divider {
+      border: none;
+      content: " - ";
+    }
+  }
+
+  &-accomplishments {
+    margin-top: 0;
+    grid-row: 3;
+    grid-column: 1 / span 2;
+  }
+}
+
+.profile-photo,
+.page-header,
+.page-footer,
+.breadcrumb-container {
+  display: none;
+}
+
+.about-header {
+  justify-content: space-between;
+}
+
+.container, .content {
+  width: 100%;
+  max-width: 100%;
+}
+
+.content {
+  margin-bottom: 0;
+}
+
+.qr-code {
+  float: right;
+
+  &-img {
+    width: 100px;
+    height: 100px;
+  }
+}

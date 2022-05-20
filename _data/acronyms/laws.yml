@@ -1,0 +1,63 @@
+title: Laws and Policies
+description:
+
+values:
+  - name: CPIC
+    fullname: Capital Planning and Investment Control (CPIC)
+    notes: A federal process for IT financial management required by [The Clinger-Cohen Act](/laws/clinger-cohen/)
+    url: /policies/budget-finance/#cpic
+
+  - name: CFO Act
+    fullname: Chief Financial Officers Act of 1990 (CFO Act)
+    notes: A law that established the role of Chief Financial Officers at some agencies.
+    url: /laws/cfo-act/
+
+  - name: DCOI
+    fullname: The Data Center Optimization Initiative (DCOI)
+    notes: A policy from the Office of Management and Budget [directing federal agencies to consolidate data centers](https://datacenters.cio.gov/policy/), as required by [FITARA](/laws/fitara/).
+    url: /policies/cloud-data-centers/#dcoi
+
+  - name: FedRAMP
+    fullname: The Federal Risk and Authorization Management Program (FedRAMP) (FedRAMP)
+    notes: A government-wide program that provides a standardized approach to security assessment.
+    url: /policies/cybersecurity/#fedramp
+
+  - name: FAR
+    fullname: Federal Acquisition Regulations (FAR)
+    notes: Regulations concerning how products and services can be purchased
+    url: /policies/procurement/#far
+
+  - name: FDCCI
+    fullname: The Federal Data Center Consolidation Initiative (FDCCI)
+    notes: The old name for the Data Center Optimization Initiative
+    url: /policies/cloud-data-centers/#fdcci
+
+  - name: FISMA
+    fullname: The Federal Information Security Management Act (FISMA)
+    notes: The main [cybersecurity](/policies/cybersecurity/) law.
+    url: /laws/fisma/
+
+  - name: FITARA
+    fullname: The Federal Information Technology Acquisition Reform Act (FITARA)
+    notes: One of the main laws regarding IT management.
+    url: /laws/fitara/
+
+  - name: HIPAA
+    fullname: The Health Insurance Portability and Accountability Act (HIPAA)
+    notes: A law that includes privacy requirements for personal medical information
+    url: /laws/hipaa/
+
+  - name: NDAA
+    fullname: The National Defense Authorization Act (NDAA)
+    notes: The annual [appropriations](/policies/budget-finance/) bill for the Department of Defense. It usually contains a number of unrelated rider bills, sometimes on IT policy.
+    url: /laws/ndaa/
+
+  - name: PRA
+    fullname: Paperwork Reduction Act (PRA)
+    notes: A law which requires that agencies recieve approval from the Office of Information and Regulatory Affairs before they collect any data from the public.
+    url: /laws/paperwork-reduction-act/
+
+  - name: TIC
+    fullname: Trusted Internet Connections (TIC)
+    notes: A policy regarding how government systems are allowed to connect to the external internet. [Main TIC article.](/policies/cybersecurity/#tic)
+    url:

@@ -1,0 +1,62 @@
+.page-home {
+
+  .main-title {
+    text-align: center;
+
+    padding-bottom: 2rem;
+    border-bottom: 3px solid $dark;
+    margin:  0 auto 2rem;
+
+
+    @include media-breakpoint-up(md) {
+      max-width: 60%;
+      font-size: 2rem;
+    }
+
+    .first, .second, .third {
+      display: block;
+      font-size: 1.5em;
+    }
+  }
+
+  h2 a {
+    color: $blue;
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.key-topics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 0 2rem;
+  padding: 0;
+
+  .btn {
+    width: 10rem;
+    height: 10rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    color: $white;
+    border: none;
+
+    .icon {
+      font-size: 3rem;
+    }
+
+    &.category-info {
+      background-color: $purple;
+      &:hover {
+        background-color: lighten($purple, 5%)
+      }
+    }
+  }
+
+
+}

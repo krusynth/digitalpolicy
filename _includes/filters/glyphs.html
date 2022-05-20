@@ -1,0 +1,22 @@
+{%- capture acronyms -%}
+{%- comment -%}
+  Replaces acronyms in content with info from the acronyms.yml data file.
+
+  E.g. '@OMB' becomes:
+
+  <a href="/info/policymaking-offices/#omb">The Office of Management and Budget (OMB)</a>
+
+  After the first instance, this uses only the acronym for the replacement instead of the full name.
+
+  Usage:
+    {% include acronyms.html html=content %}
+{%- endcomment -%}
+
+{%- assign content = include.html -%}
+{%- for datum in site.data.glyphs -%}
+  {%- assign finder = datum.name | prepend: '@' -%}
+  {%- capture replaceall -%}{{ datum.value }}{%- endcapture -%}
+  {%- assign content = content | replace:       finder, replaceall -%}
+{%- endfor -%}
+
+{%- endcapture -%}{{ content }}

@@ -1,0 +1,72 @@
+.footnotes {
+  li {
+    margin-bottom: 1rem;
+  }
+}
+
+.type-document {
+  table {
+    margin-bottom: 1rem;
+    td, th {
+      border: 1px solid #666;
+      padding: 0.25rem 0.5rem;
+    }
+  }
+}
+
+.toc-accordion {
+  margin: 1rem 0;
+  .accordion-button {
+    color: #0c63e4;
+    background-color: #e7f1ff;
+  }
+
+  @include media-breakpoint-up(md) {
+    width: 50%;
+  }
+}
+
+.meta.card {
+  margin-bottom: 1rem;
+
+  @include media-breakpoint-up(md) {
+    float: right;
+    width: 30%;
+    margin-left: 2rem;
+  }
+  .page-about & {
+    float: none !important;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    margin-bottom: 0;
+  }
+  dt {
+    grid-column-start: 1 1;
+  }
+  dd {
+    grid-column-start: 2 1;
+  }
+}
+
+.tags {
+  ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2rem;
+  }
+
+  li {
+    margin-right: 1rem;
+  }
+
+  a {
+    @extend .btn;
+    @extend .btn-secondary;
+    @extend .btn-sm;
+  }
+}

@@ -1,0 +1,20 @@
+- name: SOAPBOX
+  value: <a href="/intro/#soapbox" title="This statement is an opinion and not based in official documentation! Click this icon for details."><span class="fas fa-bullhorn"></span></a>
+
+- name: WARNING
+  value: <span class="fas fa-circle-exclamation" title="Take note!"></span>
+
+- name: ICON-CYBER
+  value: <span class="icon-cybersecurity"></span>
+
+- name: ICON-DATA
+  value: <span class="icon-data"></span>
+
+- name: ICON-BUDGET
+  value: <span class="icon-budget-finance"></span>
+
+- name: ICON-PROCUREMENT
+  value: <span class="icon-procurement"></span>
+
+- name: ICON-HIRING
+  value: <span class="icon-hiring"></span>

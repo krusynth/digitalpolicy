@@ -1,0 +1,57 @@
+/* this part adds an icon after external links, using FontAwesome */
+a[href^="http://"]:after, a[href^="https://"]:after {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-external-link);
+  padding-left: 3px;
+}
+
+.icon-cybersecurity:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-shield);
+  padding-right: 3px;
+}
+
+.icon-data:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-database);
+  padding-right: 3px;
+}
+
+.icon-budget-finance:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-sack-dollar);
+  padding-right: 3px;
+}
+
+.icon-procurement:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-credit-card);
+  padding-right: 3px;
+}
+
+.icon-hiring:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-user);
+  padding-right: 3px;
+}
+
+
+.icon-dev:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-keyboard);
+  padding-right: 3px;
+}
+
+.icon-offices:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-building-columns);
+  padding-right: 3px;
+}

@@ -1,0 +1,431 @@
+title: Miscellaneous
+description:
+
+values:
+  - name: ARB
+    fullname: Architecture Review Board (ARB)
+    notes: An agency board to review the architecture of software and systems, usually as part of the investment review process. Usually overseen by the Chief Enterprise Architect. Some agencies call this Technology Review Board, or they may be separate boards.
+    url:
+
+  - name: ASL
+    fullname: Approved Software List (ASL)
+    notes: An agency-specific list of software that has been approved (usually) by the Enterprise Architecture and Security teams for general use.
+    url:
+
+  - name: ATT
+    fullname: Authorization to Test (ATT)
+    notes: A security approval that is often a precursor to a full ATO
+    url:
+
+  - name: ATO
+    fullname: Authorization to Operate (ATO)
+    notes: A full security review & approval to use a system.
+    url:
+
+  - name: BOD
+    fullname: Binding Operational Directive (BOD)
+    notes: A policy type, most often issued by the Cybersecurity and Infrastructure Security Agency.
+    url: /info/policy-types/#directives
+
+  - name: BPA
+    fullname: Blanket Purchasing Agreement (BPA)
+    notes: A type of purchasing agreement where multiple orders can be made over time for recurring requests, avoiding the need for multiple small contracts. Contrast with a Indefinite Quantity, Indefinite Delivery contract. (Sometimes called a Bulk Purchasing Agreement.)
+    url: /policies/procurement/#contract-types
+
+  - name: CAC
+    fullname: Common Access Card (CAC)
+    notes: A standard-issue government keycard used to gain access to buildings or computer systems used by the Department of Defense.
+    url:
+
+  - name: CBJ
+    fullname: Congressional Budget Justification (CBJ)
+    notes: The document an agency prepares for Congress outlining their funding needs for appropriations. Part of the Federal budget process.
+    url: /info/budget-finance/#timeline
+
+  - name: CDM
+    fullname: Continuous Diagnostics and Mitigation (CDM)
+    notes: A [CISA](/info/policymaking-offices/#cisa)-run program to monitor network traffic.
+    url: /policies/cybersecurity/#cdm
+
+  - name: CDOC
+    fullname: The Federal Chief Data Officers Council (CDOC)
+    notes: The federal council of Chief Data Officers.
+    url: https://www.cdo.gov/
+
+  - name: CDO
+    fullname: Chief Data Officer (CDO)
+    notes: The officer responsible for data management and practices in an agency.
+    url: /policies/data/#cdo
+
+  - name: CEA
+    fullname: Chief Enterprise Architect (CEA)
+    notes: The officer responsible for overseeing enterprise-wide technology selection and architecture decisions for the agency. Required by Clinger-Cohen.
+    url:
+
+  - name: CFOC
+    fullname: The Chief Financial Officers Council (CFOC)
+    notes: The federal council of Chief Financial Officers.
+    url: https://www.cfo.gov/
+
+  - name: CFO
+    fullname: Chief Financial Officer (CFO)
+    notes: The highest ranking budget officer for a federal agency.
+    url:
+
+  - name: CIGIE
+    fullname: The Council of the Inspectors General on Integrity and Efficiency (CIGIE)
+    notes: The [council for Inspectors General](https://www.ignet.gov/) across the federal government.
+    url:
+
+  - name: CIOC
+    fullname: The Chief Information Officers Council (CIOC)
+    notes: The [federal council of Chief Information Officers.](/info/policymaking-offices/#cioc).
+    url:
+
+  - name: CIO
+    fullname: Chief Information Officer (CIO)
+    notes: The highest ranking technology officer for a federal agency. Not be confused with a Chief Innovation Officer.
+    url:
+
+  - name: CISOC
+    fullname: The Chief Information Security Officer Council (CISOC)
+    notes: The [federal council of Chief Information Security Officers.](/info/policymaking-offices/#cisoc).
+    url:
+
+  - name: CISO
+    fullname: Chief Information Security Officer (CISO)
+    notes: The highest ranking information security officer for a federal agency. Usually reports directly to the Chief Information Officer.
+    url:
+
+  - name: CHCOC
+    fullname: The Chief Human Capital Officers Council (CHCOC)
+    notes: The [federal council of Chief Human Capital Officers.](https://www.chcoc.gov/).
+    url:
+
+  - name: CHCO
+    fullname: Chief Human Capital Officer (CHCO)
+    notes: The highest ranking human resources officer for a federal agency.
+    url:
+
+  - name: COO
+    fullname: Chief Operating Officer (COO)
+    notes: Typically the highest ranking officer overseeing the various administrative offices of an agency. However, the exact nature of the post varies, e.g. at the SEC this is the highest ranking non-political officer.
+    url:
+
+  - name: COR
+    fullname: Contracting Officer's Representative (COR)
+    notes: In a government acquisition, this is the staff member who represents the program office.
+    url: /policies/procurement/#CO
+
+  - name: COTS
+    fullname: Commercial-Off-The-Shelf Software (COTS)
+    notes: A common phrase in procurement for readily-available software that does not need to be customized to be used.
+    url:
+
+  - name: CTO
+    fullname: Chief Technology Officer (CTO)
+    notes: This role varies dramatically from agency to agency, ranging from pure policy roles to directly overseeing technology services. Typically reports directly to the Chief Information Officer.
+    url:
+
+  - name: CUI
+    fullname: Controlled Unclassified Information (CUI)
+    notes: Government-created or -owned information that requires safeguarding or dissemination controls but which is not classified information.
+    url: /policies/data/#cui
+
+  - name: CX
+    fullname: Customer Experience (CX)
+    notes: A broad methodology for comprehensively measuring design & delivery for all services from the perspective of the customer. [Main customer experience article](/policies/customer-experience/)
+    url: /policies/customer-experience/
+
+  - name: EA
+    fullname: Enterprise Architecture (EA)
+    notes: A technology management practice which sets a roadmap across the organization for technology, intended to reduce duplicative purchasing and "shadow IT." Required by law by the Clinger-Cohen Act.
+    url:
+
+  - name: EO
+    fullname: Executive Order (EO)
+    notes: A type of presidential action.
+    url:
+
+  - name: FCIO
+    fullname: Federal Chief Information Officer (FCIO)
+    notes: The political official in charge of issuing technology policy for the whole government, located within the Office of Management and Budget. In law, this role is referred to officially as the Administrator of the Office of E-Government and Information Technology.
+    url:
+
+  - name: FCISO
+    fullname: The Federal Chief Information Security Officer (FCISO)
+    notes: Historically, the political official in charge of issuing cybersecurity policy for the whole government, located within the Office of Management and Budget. Today the National Cyber Director is in charge of cybersecurity policy, with the Federal Chief Information Security Officer as their deputy.
+    url:
+
+  - name: FFP
+    fullname: Firm Fixed Price (FFP)
+    notes: A type of contract that covers the entire cost of the work being done, regardless of labor hours. There are several types of fixed-price contracts but this is the most common. In contrast to a "time-and-materials" or "labor hour" contract, which is based on hours of work done.
+    urL: /policies/procurement/#types-of-contracts
+
+  - name: FIPS
+    fullname: Federal Information Processing Standards (FIPS)
+    notes: The NIST series of documents relating to usage and protection of information in government agencies.
+    url: https://www.nist.gov/itl/publications-0/federal-information-processing-standards-fips
+
+  - name: FOUO
+    fullname: For Official Use Only (FOUO)
+    notes: This is the old term for what is now known as Controlled Unclassified Information. You may still see it on older documents and templates.
+    url:
+
+  - name: HCD
+    fullname: Human-Centered Design (HCD)
+    notes: A design methodology that emphasizes testing with real users of a system or service, either digital or physical.
+    url:
+
+  - name: HCOR
+    fullname: The House Committee on Oversight and Reform (HCOR)
+    notes: The primary government oversight committee for the House of Representatives. The Government Operations subcommittee underneath it is responsible for creating many of the government's technology laws.
+    url:
+
+  - name: HSGAC
+    fullname: The Senate Homeland Security and Governmental Affairs Committee (HSGAC)
+    notes: The Senate committee responsible for creating many federal technology and cyberesecurity laws.
+    url:
+
+  - name: HOGR
+    fullname: The House Committee on Oversight and Government Reform (HOGR)
+    notes: The old name for the House Committee on Oversight and Reform before it was renamed. The Government Operations subcommittee underneath it is responsible for creating many of the government's technology laws.
+    url:
+
+  - name: HVA
+    fullname: High Value Asset (HVA)
+    notes: A type of security categorization for a system.
+    url: /policies/cybersecurity/#hva
+
+  - name: IAA
+    fullname: Interagency Agreement (IAA)
+    notes: A type of policy memo or contract between two federal agencies. In many cases the agreement itself will use the Treasury Department standard form 7600A and 7600B.
+    url: /policies/procurement/#iaa
+
+  - name: IDIQ
+    fullname: Indefinite Delivery, Indefinite Quantity (IDIQ)
+    notes: A type of contract for services that does not have a value limit, only a time limit. Especially useful for agency-wide service contracts that might be used by different programs.
+    url: /policies/procurement/#types-of-contracts
+
+  - name: IGCE
+    fullname: Independent Government Cost Estimate (IGCE)
+    notes: As part of any contract, the government must come up with an initial estimate.
+    url: /policies/procurement/#igce
+
+  - name: IG
+    fullname: Inspector General (IG)
+    notes: An auditor within each federal agency with independent authority to oversee operations and report to Congress & the public. This most often refers to the Office of the Inspector General in an agency, rather than the person who holds the title. Each agency has their own individual Office of Inspector General, this is not a government-wide office.
+    url:
+
+  - name: IRB
+    fullname: Investment Review Board (IRB)
+    notes: An agency board responsible for reviewing investments, usually IT-related, and either approves or rejects them. Frequently has different names at each agency.
+    url:
+
+  - name: ISO
+    fullname: International Organization for Standardization (ISO)
+    notes: An independent, international standards organization. In many ways similar to NIST. Notably, their documents generally must be purchased for a fee. These documents are usually referred to by the number, e.g. ISO 20000 on IT management or 27000 on Cybersecurity management.
+    url: https://www.iso.org/home.html
+
+  - name: ITIL
+    fullname: IT Infrastructure Library (ITIL)
+    notes: A popular framework for IT service management, both in government and the private sector.  A similar framework is [ISO 20000](https://www.iso.org/standard/70636.html).
+    url: https://www.itlibrary.org/
+
+  - name: JAB
+    fullname: The Joint Authorization Board (JAB)
+    notes: The FedRAMP board which approves cloud products for use.
+    url:
+
+  - name: MOU
+    fullname: Memoranda of Understanding (MOU)
+    notes: A type of policy memo or contract between multiple parties; in this context, frequently between two federal agencies. Sometimes MOA, for Memorandum of Agreement.
+    url:
+
+  - name: MFA
+    fullname: Multi-Factor Authentication (MFA)
+    notes: A cybersecurity methodology requiring multiple credentials to gain access to a system. [Main identity article](/policies/cybersecurity/#mfa)
+    url:
+
+  - name: NITAAC
+    fullname: NIH Information Technology Acquisition and Assessment Center (NITAAC)
+    notes: An office under the National Institutes of Health (NIH), but more commonly the procurement vehicle for information technology run by this office.
+    url: /info/procurement/#vehicles
+
+  - name: NOC
+    fullname: Network Operations Center (NOC)
+    notes: A team within the IT office of an agency, responsible for constantly monitoring systems to make sure they're up. Works closely with the Security Operations Center and Help Desk.
+    url:
+
+  - name: OCIO
+    fullname: Office of the Chief Information Officer (OCIO)
+    notes: Each agency has an IT office which the Chief Information Officer is the head of.  The name for this office may vary from agency to agency but OIT and OCIO are the most common names.
+    url:
+
+  - name: OIG
+    fullname: Office of the Inspector General (OIG)
+    notes: Each agency has their own individual Office of Inspector General, this is not a government-wide office.
+    url:
+
+  - name: OIT
+    fullname: Office of Information Technology (OIT)
+    notes: Each agency has an IT office which the Chief Information Officer is the head of.  The name for this office may vary from agency to agency but OIT and OCIO are the most common names.
+    url:
+
+  - name: PIA
+    fullname: Privacy Impact Assessments (PIA)
+    notes: A required assessment for federal systems to determine if personal information is properly protected. [Main privacy article](/policies/data/#pia)
+    url:
+
+  - name: PIV
+    fullname: Personal Identity Verification card (PIV)
+    notes: A standard-issue government keycard used to gain access to buildings or computer systems used in civilian agencies.
+    url:
+
+  - name: POAM
+    fullname: Plan of Action & Milestones (POAM)
+    notes: Most often, an issue with a system found by the cybersecurity team that needs to be fixed. Sometimes appears as POA&M.
+    url:
+
+  - name: PWS
+    fullname: Performance Work Statement (PWS)
+    notes: A document in an acquisition that lists outcomes and measurable standards for evaluation for work to be done by a vendor on a government contract. It generally may be considered a combination of a Statement of Objectives and a Statement of Work.
+    url:
+
+  - name: QSMO
+    fullname: Quality Service Management Offices (QSMOs)
+    notes: An agency that has been designated by the Office of Management and Budget to provide a specific shared service to all other agencies.
+    url: /policies/procurement/#qsmo
+
+  - name: RFI
+    fullname: Request for Information (RFI)
+    notes: An optional part of the acquisition process, where the government requests information from the vendor community about the solution they are considering.
+    url: /policies/procurement/#market-research
+
+  - name: RFQ
+    fullname: Request for Quotation (RFQ)
+    notes: A part of the aquisition process, where the government asks the vendor pool to bid for a contract. An Request for Quotation is used when the agency knows exactly what they want to buy; contrast with a Request for Proposal.
+    url: /policies/procurement/#contract-solicitation
+
+  - name: RFP
+    fullname: Request for Proposal (RFP)
+    notes: A part of the aquisition process, where the government asks the vendor pool to bid for a contract. An Request for Quotation is used when the agency does have a precise item that they want to buy; contrast with a Request for Quotation.
+    url: /policies/procurement/#contract-solicitation
+
+  - name: RPA
+    fullname: Robotic Processing Automation (RPA)
+    notes: A type of technology tool that can be used to automate basic tasks within a piece of software.
+    url:
+
+  - name: SA&A
+    fullname: Security Assessment and Authorization (SA&A)
+    notes: The process by which a cybersecurity team evaluates a product or system.
+    url: /policies/cybersecurity/#security-assessment
+
+  - name: SBOM
+    fullname: Software Bill of Materials (SBOM)
+    notes: A requirement within Supply Chain Risk Management to provide the source of all components of a software product. [Main supply chain article](/policies/cybersecurity/#scrm)
+    url: /policies/cybersecurity/#sbom
+
+  - name: SCIF
+    fullname: Sensitive Compartmented Information Facility (SCIF)
+    notes: A location that has been physically and electronically secured against surveillance where classified or otherwise sensitive documents and data are permitted to be viewed and discussed.
+    url: /policies/data/#scif
+
+  - name: SCRM
+    fullname: Supply Chain Risk Management (SCRM)
+    notes: A cybersecurity requirement to ensure that all components of a given technology hardware or software product are secure and from a reliable source. [Main supply chain article](/policies/cybersecurity/#scrm)
+    url: /policies/cybersecurity/#scrm
+
+  - name: SES
+    fullname: Senior Executive Service (SES)
+    notes: A rank of jobs in the Federal Governement denoting senior officers.  There are special hiring requirements for these roles.
+    urL: /policies/hiring/#ses
+
+  - name: SEWP
+    fullname: NASA Solutions for Enterprise-Wide Procurement (SEWP)
+    notes: A procurement vehicle for information technology.
+    url: /info/procurement/#vehicles
+
+  - name: SDF
+    fullname: Service Delivery Framework (SDF)
+    notes: The commonly-used name for the lifecycle process of getting an application reviewed by the various governance bodies in an agency.
+    url:
+
+  - name: SOC
+    fullname: Security Operations Center (SOC)
+    notes: A team within the cybersecurity division of an IT office, responsible for monitoring systems for intrusion and other cyberattacks. Works closely with the Network Operations Center and Help Desk.
+
+  - name: SOO
+    fullname: Statement of Objectives (SOO)
+    notes: Ahigh-level document in an acquisition that lists the outcomes expected from a vendor performing work on a government contract. It is a more recent replacent for the traditional Statement of Work, and typically a simpler document than a Performance Work Statement.
+    url:
+
+  - name: SOP
+    fullname: Standard Operating Procedures (SOP)
+    notes: The general term for agency-specific policy documents, used to describe the specific implementation of government-wide policies at an agency.
+    url:
+
+  - name: SORN
+    fullname: System of Records Notice (SORN)
+    notes: A public notice that must be filed in the Federal Register whenever an agency wishes to collect data on individuals.
+    url: /policies/data/#sorn
+
+  - name: SOW
+    fullname: Statement of Work (SOW)
+    notes: A document in an acquisition that lists the specific work items to be done by a vendor on a government contract. It is the traditional way of writing a contract, but more modern offices tend to prefer a Statement of Objectives or Performance Work Statement.
+    url:
+
+  - name: SSP
+    fullname: System Security Plan (SSP)
+    notes: Most agencies require this documentation as part of the Authorization to Operate process.
+    url:
+
+  - name: TBM
+    fullname: Technology Business Management (TBM)
+    notes: A framework for IT investment categorization, used in Capital Planning and Investment Control.
+    url: https://www.tbmcouncil.org/
+
+  - name: TRB
+    fullname: Technology Review Board (TRB)
+    notes: An agency board to review the technology choices of software and systems, usually as part of the investment review process. Some agencies call this Architecture Review Board, or they may be separate boards.
+    url:
+
+  - name: TS/SCI
+    fullname: Top Secret / Sensitive Compartmented Information (TS/SCI)
+    notes: A specialized security classification for some types of Top Secret information that require additional controls or special handling due to sensitivity. Also refers to the clearance level a person must have to view these documents.
+    url:
+
+  - name: TS
+    fullname: Top Secret (TS)
+    notes: The highest level of security classification for information in government. Also refers to the clearance level a person must have to view these documents.
+
+  - name: T&M
+    fullname: Time-and-Materials (T&M)
+    notes: A type of contract where a vendor is paid based on labor hours. In contrast to Firm Fixed Price.
+    url: https://www.acquisition.gov/far/part-16#FAR_Subpart_16_6
+
+  - name: UX
+    fullname: User Experience (UX)
+    notes: A digital design methodology that leverages human-centered design. Not to be mistaken with Customer Experience.
+    url:
+
+  - name: VAR
+    fullname: Value Added Reseller (VAR)
+    notes: An intermediary company that resells the services of another. For contracts with large vendors, such as software or cloud companies, most agencies require going through a small business Value Added Reseller instead of contracting directly.
+    url: /policies/procurement/#vendors
+
+  - name: ZTA
+    fullname: Zero Trust Architecture (ZTA)
+    notes: A modern cybersecurity methodology involving re-validating a user's credentials on data access rather than system access. [Main  Zero Trust article](/policies/cybersecurity/#zta)
+    url:
+
+  - name: "2210"
+    fullname: 2210 Cybersecurity Job Code
+    notes: Not technically an acronym, but a common phrase to refer to cyberesecurity job roles, or sometimes any specialized information technology roles.
+    url:
+
+  - name: 3PAO
+    fullname: Third Party Assessment Organization (3PAO)
+    notes: An external-to-government organization that evaluates the security of a product, usually as part of the FedRAMP process.
+    url:

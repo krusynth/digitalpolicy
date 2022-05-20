@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 .bundle/
 vendor/
+yarn.lock
+yarn-error.log
+node_modules

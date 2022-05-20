@@ -1,0 +1,57 @@
+# Jekyll Config
+
+title: Digital Policy Guide
+email: hello@billhunt.email
+description: >- # this means to ignore newlines until "baseurl:"
+  A Digital Servant's Guide to U.S. Federal Information Technology Law and Policy
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: assets
+  load_paths:
+    - assets/_sass
+    - node_modules
+
+markdown: kramdown
+
+permalink: /:categories/:title/
+
+# Collections
+collections_dir: content
+collections:
+  policies:
+    output: true
+  laws:
+    output: true
+  info:
+    output: true
+
+
+# Exclude from processing.
+exclude:
+- README.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - yarn.lock
+  - yarn-error.log
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - Capfile
+  - config
+  - log

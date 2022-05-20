@@ -1,0 +1,148 @@
+/**
+ * Navbar
+ */
+
+
+.site-header {
+  background: $accent-color;
+  // padding-bottom: 0.5em;
+}
+
+.disclaimer {
+  background-color: $white;
+  margin: 1em -0.5*$grid-gutter-width 0;
+
+  &:before, &:after {
+      content: '';
+      display: block;
+      height: 0.75rem;
+    background: $sienna;
+    background: repeating-linear-gradient(
+      -45deg,
+      $sienna,
+      $sienna 12px,
+      transparent 10px,
+      transparent 23px
+    );
+  }
+
+  .text {
+    display: block;
+    padding: 0.5em $grid-gutter-width;
+    font-size: 0.85em;
+  }
+}
+
+
+.navbar {
+  font-family: $accent-font-stack;
+  @extend %bold;
+
+  flex-wrap: wrap;
+
+  @include media-breakpoint-down(sm) {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    flex-wrap: wrap;
+  }
+
+  a {
+    color: $white;
+    border-bottom: none;
+
+    &:hover {
+      color: $white;
+      border-bottom-color: $white;
+    }
+  }
+
+  .navbar-toggle {
+    border: 1px solid $white;
+    .icon-bar {
+      background-color: $white;
+    }
+  }
+}
+
+.navbar-brand {
+  font-size: 1.7rem;
+  line-height: 1;
+  padding: 0px;
+  @extend %header-decoration;
+  // -webkit-text-stroke: 1px $dark;
+  // -webkit-text-fill-color: $main-background;
+
+  @include media-breakpoint-up(md) {
+    font-size: 3rem;
+    // -webkit-text-stroke: 2px $dark;
+    // -webkit-text-fill-color: $main-background;
+  }
+}
+
+.nav-link {
+  padding: 0!important;
+  margin: 0 0.5rem;
+  @extend %header-decoration;
+}
+
+.navbar-toggler {
+  padding: 0.5rem 0.25rem 0rem;
+
+  &:focus {
+    box-shadow: none;
+  }
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 253, 245, 1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  color: $white;
+}
+
+.nav-pages {
+  flex-grow: 1;
+}
+
+.nav-social {
+  margin-left: auto !important;
+
+  .icon {
+    margin-right: 0.5rem;
+  }
+}
+
+.navbar-expand-lg .navbar-collapse {
+  flex-shrink: 0;
+  width: 100%;
+}
+
+.collapse:not(.collapsing):not(.show) {
+  .nav-social {
+    a {
+      font-size: 24px;
+      width: 70px;
+      display: inline-block;
+      position: relative;
+      line-height: 1;
+      overflow: hidden;
+      text-align: center;
+
+      span:not(.icon) {
+        width: 100%;
+        font-size: 14px;
+        @include text-outline($white);
+        transition: top 0.25s ease-in;
+        position: absolute;
+        left: 0;
+        top: 45px;
+      }
+      &:hover span:not(.icon) {
+        top: 5px;
+      }
+    }
+  }
+}

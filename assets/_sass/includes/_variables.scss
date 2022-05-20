@@ -1,0 +1,110 @@
+// This is the place to place Bootstrap's variables overrides.
+// As example you can start by importing the _variables.scss file from one of the
+// theme provided by https://bootswatch.com .
+
+$fa-font-path: '/assets/fonts/fontawesome';
+
+/* Colors */
+$purple : #8255A6;
+$teal : rgba(17, 198, 169, 1);
+$lemon : #ffc107;
+$sienna : #D9503C;
+$skyblue : #4ABAF7;
+$orange : #D97B36;
+$khaki : #F2E3A7;
+$white : #fffcf6;
+$dark: #2f2f35;
+$newblue: #4f9cff;
+
+$accent-color: $newblue;
+
+$link-color: $accent-color;
+$link-hover-color: $accent-color;
+$link-hover-decoration: none;
+
+$main-background: $white;
+
+$nav-link-hover-bg: rgba(#fff, 0.3);
+
+
+/* Fonts */
+
+$main-font: 'Raleway';
+$main-font-stack: $main-font, sans-serif;
+$accent-font: 'Montserrat';
+$accent-font-stack: $accent-font, sans-serif;
+$code-font: monospace;
+
+// $font-weight-normal: normal !default;
+
+// $color-main-bg: #332e2b; // Warm Charcoal
+// $color-content-bg: #fbf7ea; // Parchment
+// $color-main-text: #332e2b; // Warm Charcoal
+// $color-main-link: #086EB1;
+
+// $font-family-serif: 'Merriweather', "Times New Roman", Times, serif !default;
+// $font-family-base: $font-family-serif;
+
+// $body-bg: $color-main-bg;
+// $text-color: $color-main-text;
+// $link-color: $color-main-link;
+// $link-hover-color: lighten($link-color, 15%);
+
+// $navbar-height: 40px;
+// $navbar-default-color: inherit;
+// $navbar-default-bg: $color-content-bg;
+
+%font-normal {
+  font-weight: 400;
+}
+
+%semibold {
+  font-weight: 600;
+}
+%bold {
+  font-weight: 700;
+}
+
+@mixin text-outline($color: #000) {
+  text-shadow:
+    -1px -1px 0 $color,
+    1px -1px 0 $color,
+    -1px 1px 0 $color,
+    1px 1px 0 $color;
+}
+
+
+%shadow {
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+}
+
+%header-decoration {
+  // @extend %shadow;
+  &:hover {
+    border-bottom: 2px solid $dark;
+    margin-bottom: -2px;
+  }
+
+}
+
+%table-to-cards {
+  tbody {
+    display: flex;
+    flex-direction: row;
+  }
+
+  tr {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    margin-right: 1rem;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  td {
+    display: block;
+  }
+}

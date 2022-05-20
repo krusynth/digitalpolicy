@@ -1,0 +1,234 @@
+---
+---
+
+@import "includes/variables";
+@import "@fortawesome/fontawesome-free/scss/fontawesome";
+@import "@fortawesome/fontawesome-free/scss/regular";
+@import "@fortawesome/fontawesome-free/scss/solid";
+@import "@fortawesome/fontawesome-free/scss/brands";
+@import "includes/bootstrap_customization";
+@import "includes/web-fonts";
+
+
+@include web-fonts(
+ ($accent-font: ("600", 700)),
+ ($main-font: ("400", "400 italic", "600", "600 italic"))
+);
+
+@import "modules/navbar";
+@import "modules/home";
+@import "modules/intro";
+@import "modules/document";
+@import "modules/icons";
+
+body {
+  background: #d9d5cd url(/assets/images/bedge_grunge.jpg);
+  font-family: $main-font-stack;
+  @extend %font-normal;
+  line-height: 1.5;
+
+  /* Fixed top
+  margin-top: 75px;
+  @include media-breakpoint-up(md) {
+    margin-top: 111px;
+  } */
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: $accent-font-stack;
+  @extend %font-normal;
+  a {
+    color: inherit;
+  }
+}
+
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+h4 {
+  font-size: 1rem;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+a {
+  color: $link-color;
+}
+
+strong {
+  @extend %semibold;
+}
+
+hr {
+  margin-top: 0;
+  border-top: 3px solid $gray-500;
+  width: 80%;
+}
+
+code {
+  font-family: $code-font;
+}
+
+blockquote {
+  margin-left: 0.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid $gray-500;
+}
+
+.print-only {
+  display: none;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.content {
+  @extend .container;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background: $white;
+  /* Use for fixed-top navbar
+    margin-bottom: 4rem;
+  */
+  min-height: 70vh;
+}
+
+.todo {
+  background-color: #FF9933;
+  padding: 1rem;
+
+  &::after, &::before {
+    display: block;
+    margin: 1rem 0;
+    content: "! Work In Progress !"
+  }
+}
+
+.example {
+  display: none;
+}
+
+.example.active {
+  display: block;
+}
+
+article {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.post-multiple {
+  margin-bottom: 1rem;
+}
+
+.featured, .notes, .soapbox, .pullquote, .quote-author  {
+  background-color: rgba($newblue, 0.1);
+  padding: 1rem;
+  margin-left: 0;
+
+  & + & {
+    margin-top: -1rem;
+    padding-top: 0rem;
+  }
+}
+
+.pullquote {
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  margin: 2rem auto;
+
+  @include media-breakpoint-up(md) {
+    max-width: 50%;
+  }
+}
+
+.divider::before, .divider::after {
+  content: '';
+  height: 1px;
+  background-color: $dark;
+  flex-grow: 1;
+}
+.divider::before {
+  margin-right: 1rem;
+}
+.divider::after {
+  margin-left: 1rem;
+}
+
+.old-warning {
+  @extend .featured;
+  margin-bottom: 1rem;
+}
+
+.featured + .featured {
+  margin-top: -1rem;
+  padding-top: 0;
+}
+
+.content img,
+.content iframe {
+  max-width: 100%;
+  max-height: 40vh;
+}
+
+.spaced-list li {
+  margin-bottom: 1.5rem;
+}
+
+.featured-icon {
+  color: $lemon;
+  font-size: 2rem;
+  float: right;
+  margin-left: 0.5rem;
+}
+
+
+/**
+ * Footer
+ */
+
+ .page-footer {
+  @extend .container;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: $sienna;
+  color: $white;
+  font-size: 0.85em;
+
+  a {
+    color: inherit;
+    border-color: $white;
+  }
+}
+
+/**
+ * Pagination
+ */
+
+.pagination {
+  span.previous {
+    display: none;
+  }
+
+  .page_number, .previous {
+    margin-right: 1rem;
+  }
+}

@@ -1,0 +1,36 @@
+{%- capture acronyms -%}
+{%- comment -%}
+  Replaces acronyms in content with info from the acronyms.yml data file.
+
+  E.g. '@OMB' becomes:
+
+  <a href="/info/policymaking-offices/#omb">The Office of Management and Budget (OMB)</a>
+
+  After the first instance, this uses only the acronym for the replacement instead of the full name.
+
+  Usage:
+    {% include acronyms.html html=content %}
+{%- endcomment -%}
+
+{%- assign content = include.html -%}
+{%- comment -%}
+  We explicitly list the order here, to ensure "misc" is processed last as to not conflict with abbreviations in agencies and laws.
+{%- endcomment -%}
+{%- assign cats = "agencies, laws, misc" | split: ", " -%}
+{%- for cat in cats  -%}
+  {%- assign type = site.data.acronyms[cat] -%}
+  {%- for datum in type.values -%}
+    {%- assign finder = datum.name | prepend: '@' -%}
+    {%- if datum.url -%}
+      {%- capture replaceone -%}<a href="{{ datum.url }}">{{ datum.fullname }}</a>{%- endcapture -%}
+      {%- capture replaceall -%}<a href="{{ datum.url }}"><acronym title="{{ datum.fullname }}">{{ datum.name }}</acronym></a>{%- endcapture -%}
+    {%- else -%}
+      {%- capture replaceone -%}{{ datum.fullname }}{%- endcapture -%}
+      {%- capture replaceall -%}<acronym title="{{ datum.fullname }}">{{ datum.name }}</acronym>{%- endcapture -%}
+    {%- endif -%}
+    {%- assign content = content | replace_first: finder, replaceone -%}
+    {%- assign content = content | replace:       finder, replaceall -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- endcapture -%}{{ content }}

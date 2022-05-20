@@ -1,0 +1,16 @@
+{%- if page.tags -%}
+  <ul class="tags">
+    {%- for tag in page.tags -%}
+      {%- assign tagpage = nil -%}
+      {%- for col in site.collections -%}
+        {%- for pg in site[col.label] -%}
+          {%- if pg.title == tag -%}
+            <li>
+              <a href="{{ pg.url }}" class="icon-{{ pg.slug }}">{{ pg.title }}</a>
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
