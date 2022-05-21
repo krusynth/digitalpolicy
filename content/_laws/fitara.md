@@ -8,7 +8,8 @@ tags:
   - Acquisition
 applies_to: CFO Act Agencies
 enacted: 2014
-link: "[H.R.1232](https://www.congress.gov/bill/113th-congress/house-bill/1232/text)"
+link: "Passed with [2015 NDAA (Pub.L. 113-291)](https://www.congress.gov/bill/113th-congress/house-bill/3979/text/enr)
+  <br>Original law: [H.R.1232](https://www.congress.gov/bill/113th-congress/house-bill/1232/text)"
 ---
 
 FITARA is a law to improve IT management and oversight, which builds upon the [Clinger-Cohen Act](/laws/clinger-cohen). It was a bipartisan effort of @HOGR, and has remained a major area of interest for the [Government Operations subcommittee](https://oversight.house.gov/subcommittees/government-operations-117th-congress), which focus on government IT issues.
@@ -17,7 +18,7 @@ Unlike its predecessor, it only applies to [CFO Act Agencies](/info/agency-scope
 
 For the covered agencies, FITARA gives the top-level agency @CIO responsibility for all IT for that agency, but also gives Congress a single person to blame for agency IT failures of any sort. @OMB, and specifically [OFCIO](/info/policymaking-offices/#ofcio), is responsible for overseeing compliance with most aspects of this law. There are several major aspects that it touches on:
 
-1. All IT investments must be approved by the agency CIO.
+1. All IT investments must be approved by the agency CIO. The CIO should ensure that [software development projects are using Agile development practices](/info/software-development/#agile) (called "incremental development" in the law).
 
 2. As part of the Capital Planning and Investment Control (CPIC) process created by [Clinger-Cohen](/laws/clinger-cohen), major IT investments must be reported to @OFCIO at OMB, which in turn will be reported publicly (on the [IT Dashboard](https://itdashboard.gov/)) on a monthly basis. Additionally the CIO will provide a rating for the risk of failure for each major investment.
 
