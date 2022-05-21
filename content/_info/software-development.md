@@ -121,4 +121,4 @@ All requests for registrations are reviewed by the White House, which may choose
 
 ### Mobile Friendly
 
-The [Connected Government Act](https://uscode.house.gov/statviewer.htm?volume=131&page=2278) ([44 USC 3359](https://uscode.house.gov/view.xhtml?req=%28title:44%20section:3559%20edition:prelim%29)) and the [21st Century IDEA Act](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) ([44 USC 3501 note](https://uscode.house.gov/view.xhtml?req=%28title:44%20section:3501%20edition:prelim%29)) both require that all federal websites must also be mobile-friendly.
+The [Connected Government Act](https://uscode.house.gov/statviewer.htm?volume=131&page=2278) ([44 USC 3359](https://uscode.house.gov/view.xhtml?req=%28title:44%20section:3559%20edition:prelim%29)) and the [21st Century IDEA Act](/laws/21st-century-idea-act/) both require that all federal websites must also be mobile-friendly.

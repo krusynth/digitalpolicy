@@ -7,7 +7,7 @@ tags:
 applies_to: Executive Agencies
 enacted: 2018
 link: "[Pub.L. 115-336](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf)"
-codified: "[44 USC 3501 note](https://uscode.house.gov/view.xhtml?req=(title:44%20section:3501%20edition:prelim)"
+codified: "[44 USC 3501 note](https://uscode.house.gov/view.xhtml?req=%28title:44%20section:3501%20edition:prelim%29)"
 ---
 
 The 21st Century IDEA Act was written to help modernize government processes and systems. It addresses several key that have drawn public attention over the last few years.  @GSA has created a [helpful guide for agencies on how to implement the act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/).
