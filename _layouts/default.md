@@ -89,7 +89,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm">
-            This website is a work-in-progress and <strong>needs your help</strong>! See something wrong? Something missing? <a href="https://github.com/krusynth/digitalpolicy/edit/ghpages/README.md">
+            This website is a work-in-progress and <strong>needs your help</strong>! See something wrong? Something missing? <a href="https://github.com/krusynth/digitalpolicy/">
               Contribute to this project on GitHub.
             </a>
           </div>
