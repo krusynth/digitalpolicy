@@ -23,14 +23,14 @@ values:
     notes:
     url:
 
-  - name: DOE
-    fullname: The Department of Energy (DOE)
-    notes: Not to be confused with DOEd (Education).
-    url:
-
   - name: DOEd
     fullname: The Department of Education (DOEd)
     notes: Most commonly referred to as just "Ed." Not to be confused with DOE (Energy).
+    url:
+
+  - name: DOE
+    fullname: The Department of Energy (DOE)
+    notes: Not to be confused with DOEd (Education).
     url:
 
   - name: DOI

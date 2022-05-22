@@ -32,6 +32,11 @@ values:
     notes: The old name for the Data Center Optimization Initiative
     url: /policies/cloud-data-centers/#fdcci
 
+  - name: FERPA
+    fullname: The Family Educational Rights and Privacy Act of 1974 (FERPA)
+    notes: A law that protects the privacy of student education records.
+    url: /policies/data/#ferpa
+
   - name: FISMA
     fullname: The Federal Information Security Management Act (FISMA)
     notes: The main [cybersecurity](/policies/cybersecurity/) law.

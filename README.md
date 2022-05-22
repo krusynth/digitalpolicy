@@ -25,3 +25,23 @@ There's a couple of helper scripts included in the `package.json` as well:
 * `linkpkg` will copy the needed assets from `node_modules` into the public `assets` folder - but again, you should not need to do this step unless you're updating/adding a node package or something.
 
 (I will admit I have yet to find a decent way of including node packages into GitHub pages sites. Here, I've only included the ones _needed_ to compile the SCSS, while the Javascripts are all static copies in the assets folder. I'm open to suggestions here!)
+
+### Content
+
+We try to strike a balance between creating individual pages for topics and consolidating topics to reduce sprawl.  For instance, individual laws only have separate pages if those laws are complicated or span across multiple concerns, such as @FITARA.  In other cases, we simply refer directly to the laws in the relevant sections.  Laws not related to technology generally won't have their own page unless they are special in some way.
+
+Pages with `toc: true` in the front matter will automatically create a table of contents at the top of the page when combined with `layout: law` or `layout: document` **only**. This is useful for very long pages.
+
+Browsing through the source, you will find stub pages for content that we have not yet completed.  Feel free to add to these as well!
+
+### Acronyms & Icons
+
+To reduce duplicative references, this website uses a series of data files that provide tagged acronyms that are replaced wherever they appear on the site. For instance, using `@FITARA` will expand the first reference on a given page to `The Federal Information Technology Acquisition Reform Act (FITARA)` with a link to the `/aws/fitara/` page.  Subsequential refernces to `@FITARA` will retain the acronym and still provide a link. Acronyms without links simply use the `<abbr>` tag to provide hover-state titles that expand the definition after the first reference on a page.
+
+Additionally, there are a handful of special icons (we call them "glyphs") that can be used, including @SOAPBOX and @WARNING for a megaphone or caution sign respectively.
+
+The `_data` directory contains all of these files. For instance, the [blob/ghpages/_data/acronyms/laws.yml](blob/ghpages/_data/acronyms/laws.yml) file lists commonly referenced laws and policies. These files are processed on page content via the processing directives found in `_includes/filters`.  This uses standard Jekyll/Liquid tags, no plugins needed!
+
+Since these terms are replaced in the order they are listed in the data files, to avoid conflicts **longer terms should be put before shorter terms**; for instance `DOEd` should be listed before `DOE` to avoid replacing the latter _first_ with the wrong term.
+
+If you're adding new acronyms you typically need to restart jekyll between edits, as these are processed when the site is rebuilt.
