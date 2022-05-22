@@ -8,4 +8,5 @@ Joining the United States federal civil service can be daunting, particularly fo
 
 This guide should not be considered official guidance itself, but rather a tool to guide the reader to official sources. This guide should also not be considered comprehensive, and may not be up-to-date. In all cases, it is recommended that one always consider primary official sources.
 
-[**Click here to read a brief introduction to US Federal technology law & policy.**](/about/#introduction)
+[**@WARNING Click here to read a brief introduction to US Federal technology law & policy.**](/about/)
+{:.notes}
