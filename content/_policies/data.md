@@ -31,6 +31,15 @@ HIPAA also does not cover non-healthcare related entities, for instance health i
 @SOAPBOX In short, HIPAA usually does not apply to Federal agencies for most practical purposes.
 {:.soapbox}
 
+### Family Educational Rights and Privacy Act of 1974 (FERPA)
+{:#ferpa}
+
+The @FERPA (20 U.S.C. § 1232g; 34 CFR Part 99) generally protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA gives parents certain rights over their children's education records, which transfer to the student when they reach the age of 18 or attend a school beyond the high school level. 
+
+Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's educational record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under [several exceptions](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html).
+
+@SOAPBOX In short, FERPA usually does not apply to Federal agencies for most practical purposes, but may be a consideration when working the wht U.S. Department of Education.
+{:.soapbox}
 
 ## Data Collection & Privacy
 {:#data-collection}
@@ -101,12 +110,15 @@ The [Freedom Of Information Act (FOIA)](/laws/foia/) requires that all agencies 
 In general, agencies respond to FOIA requests directly back to the requestor. However, for many years many agencies have been pressured by watchdog groups to adopt a "Release to One, Release to All" policy, in which responses to all FOIA requests are made openly available online for the public to review. Although a limited six-month pilot was performed during the Obama administration in 2015, these were not formalized in most agencies.
 
 ## Records Management
+{:#records}
 
 The Federal Records Act of 1950 established a requirement for federal agencies to keep copies of key records. This was augmented by the Presidential Records Act of 1978, which specifically applies to the records of the president and their political appointees. By these laws, @NARA is responsible for overseeing records management, and agencies also send copies of their records to NARA for preservation.
 
 Records may include policies and procedures, emails, and other information. In general, most records are kept for seven years, except for records of historical importance which may be kept permanently. (Refer to [NARA's records schedule](https://www.archives.gov/about/records-schedule) for more details.)  [OMB M-19-21](https://www.whitehouse.gov/wp-content/uploads/2019/08/M-19-21-new-2.pdf) requires all agencies to move away from paper-based records, and by the end of calendar year 2022 they must only submit electronic records to NARA.
 
 [Title 44 of the U.S. Code](http://uscode.house.gov/view.xhtml?path=/prelim@title44&edition=prelim) deals with records management; specifically chapters [29](http://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter29&edition=prelim), [31](http://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter31&edition=prelim), and [33](http://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter33&edition=prelim) deal with federal records and [chapter 22](http://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter22&edition=prelim) deals with presidential records.
+
+[OMB Circular A-130](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf) Managing Information as a Strategic Resource sets forth agency (and particularly, CIO) policy responsibilities for planning, budgeting, governance, acquisition, and management of Federal information, personnel, equipment, funds, IT resources and supporting infrastructure and services.  This document was revised in 2016 to include references to recent changes in law and policy, including the roles of Senior Agency Officials for Privacy (SAOP). Of particular note is Appendix II: Responsibilities for Managing Personally Identifiable Information under [The Privacy Act](/laws/privacy-act/) and [The Fair Information Practice Principles](https://www.dhs.gov/sites/default/files/publications/privacy-policy-guidance-memorandum-2008-01.pdf) (FIPPs). 
 
 ## Chief Data Officer (CDO)
 {:#cdo}
