@@ -32,7 +32,9 @@ We try to strike a balance between creating individual pages for topics and cons
 
 Pages with `toc: true` in the front matter will automatically create a table of contents at the top of the page when combined with `layout: law` or `layout: document` **only**. This is useful for very long pages.
 
-Browsing through the source, you will find stub pages for content that we have not yet completed.  Feel free to add to these as well!
+Browsing through the source, you will find stub pages for content that we have not yet completed. Feel free to add to these as well!
+
+References to laws & policies should generally be linked to official government sources whenever possible. [uscode.house.gov](https://uscode.house.gov/) is the preferred option for the US Code, [www.ecfr.gov](https://www.ecfr.gov/) for federal regulations, [congress.gov](https://www.congress.gov/) for laws, [whitehouse.gov](https://whitehouse.gov) for federal policies/executive orders, and so on.
 
 ### Acronyms & Icons
 
