@@ -1,6 +1,6 @@
 
-layout: page
 title: Cloud & Data Centers
+layout: document
 order: 9
 ---
 

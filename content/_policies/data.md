@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Data
+layout: document
+toc: true
 order: 2
 ---
 
@@ -34,11 +35,11 @@ HIPAA also does not cover non-healthcare related entities, for instance health i
 ### Family Educational Rights and Privacy Act of 1974 (FERPA)
 {:#ferpa}
 
-The @FERPA (20 U.S.C. § 1232g; 34 CFR Part 99) generally protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA gives parents certain rights over their children's education records, which transfer to the student when they reach the age of 18 or attend a school beyond the high school level. 
+The Family Educational Rights and Privacy Act of 1974 (FERPA) ([20 U.S.C. § 1232g](https://uscode.house.gov/view.xhtml?hl=false&edition=prelim&req=granuleid%3AUSC-prelim-title20-section1232g); [34 CFR Part 99](https://www.ecfr.gov/current/title-34/subtitle-A/part-99?toc=1)) generally protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA gives parents certain rights over their children's education records, which transfer to the student when they reach the age of 18 or attend a school beyond the high school level.
 
 Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's educational record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under [several exceptions](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html).
 
-@SOAPBOX In short, FERPA usually does not apply to Federal agencies for most practical purposes, but may be a consideration when working the wht U.S. Department of Education.
+@SOAPBOX In short, FERPA usually does not apply to Federal agencies for most practical purposes, but may be a consideration when working with @DOEd.
 {:.soapbox}
 
 ## Data Collection & Privacy

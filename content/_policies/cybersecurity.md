@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Cybersecurity
+layout: document
+toc: true
 order: 1
 ---
 

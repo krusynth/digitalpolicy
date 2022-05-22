@@ -121,4 +121,8 @@ All requests for registrations are reviewed by the White House, which may choose
 
 ### Mobile Friendly
 
-The [Connected Government Act](https://uscode.house.gov/statviewer.htm?volume=131&page=2278) ([44 USC 3359](https://uscode.house.gov/view.xhtml?req=%28title:44%20section:3559%20edition:prelim%29)) and the [21st Century IDEA Act](/laws/21st-century-idea-act/) both require that all federal websites must also be mobile-friendly.
+The [Connected Government Act](https://uscode.house.gov/statviewer.htm?volume=131&page=2278) ([44 USC 3359](https://uscode.house.gov/view.xhtml?req=%28title:44%20section:3559%20edition:prelim%29)) and the [21st Century IDEA Act](/laws/21st-century-idea-act/) both require that all federal websites **must** also be mobile-friendly.
+
+### Analytics
+
+All public, federal websites **must** register with @GSA's [Digital Analytics Program](https://digital.gov/guides/dap/) and include the relevant tracking code on all pages. The traffic to these sites is then shown on [analytics.usa.gov](https://analytics.usa.gov/).
