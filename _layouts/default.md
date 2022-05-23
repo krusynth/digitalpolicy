@@ -59,7 +59,7 @@
         {%- assign page_paths = site.header_pages -%}
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon far fa-bars"></span>
+          <span class="navbar-toggler-icon"></span>
         </button>
         <div class="navbar-collapse collapse" id="navbarSupportedContent">
           <ul class="nav navbar-nav nav-pages">
