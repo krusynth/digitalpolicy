@@ -9,7 +9,7 @@ toc: true
 > – [Aurynn Shaw](https://cloudisland.nz/@aurynn)
 {:.quote-author}
 
-@WARNING First off, you probably shouldn't be on this page. In general creating an entirely _new_ tool should be the last option in govvernment, you should look for policy solutions first. For instance, instead of digitizing a form, can you remove the policy requirement for the form entirely, and make the service more accessible to everyone?
+@WARNING First off, you probably shouldn't be on this page. In general creating an entirely _new_ tool should be the last option in government, you should look for policy solutions first. For instance, instead of digitizing a form, can you remove the policy requirement for the form entirely, and make the service more accessible to everyone?
 
 If you can't fix it through policy, you should look for [a solution you can buy](/policies/procurement/). Sure, it's tempting to just quickly work up a little demo proof-of-concept, but the @FAR section [12.101](https://www.acquisition.gov/far/part-12#ariaid-title5) requires agencies to "buy before build," meaning you should look for @COTS whenever possible before writing a line of code. ([See the full article on procurement & acquisition for more details.](/info/procurement))
 
@@ -23,7 +23,7 @@ It's not too late to turn back from this dark path - but if you must proceed, he
 
 ## Getting Software Tools
 
-To start, it's a good idea to check your ageny's [Approved Software List](/policies/cybersecurity/#approved-software-list) to see what tools are already allowed to be used. If the tool you want to use is not on that list, you'll either need to choose one that is, or get it added through your agency's governance process. That process can be very lengthy and typically requires a lot of documentation, so you'll need to plan for this in your timelines.
+To start, it's a good idea to check your agency's [Approved Software List](/policies/cybersecurity/#approved-software-list) to see what tools are already allowed to be used. If the tool you want to use is not on that list, you'll either need to choose one that is, or get it added through your agency's governance process. That process can be very lengthy and typically requires a lot of documentation, so you'll need to plan for this in your timelines.
 
 After that, you'll need to make sure [you have funding for any needed licenses or other costs](/policies/procurement/#planning). All tools have some sort of upkeep around them - even just for account management - so in most cases you'll probably need a labor contract to support anything new, or anything you're building.
 
@@ -39,7 +39,7 @@ If you're building a web app of any sort, you should probably be using the [U.S.
 There are several other popular tools from GSA, but most come with a fee:
 
 * [Federalist](https://federalist.18f.gov/) - A simple static website publishing platform
-* [Cloud.gov](https://www.cloud.gov/) - A platfrom-as-a-service offering that wraps AWS, designed to handle security and compliance for the customer.
+* [Cloud.gov](https://www.cloud.gov/) - A platform-as-a-service offering that wraps AWS, designed to handle security and compliance for the customer.
 * [Login.gov](https://login.gov/) - An identity verification service used at many agencies
 * [Touchpoints](https://touchpoints.digital.gov/) - A platform for user surveys that requires no additional authorization to meet @PRA requirements.
 
@@ -48,7 +48,7 @@ There are several other popular tools from GSA, but most come with a fee:
 Although it can be attractive to use SaaS tools that have free options, this can be dangerous in government _without proper approvals and licenses_. Any such tools still must go through governance and approval, to avoid creating shadow IT. You absolutely **should not** sign up for a personal account and use it for government work:
 
 1. [The Antideficiency Act](/laws/antideficiency-act/) prohibits the use of personal resources for government business, or staff to enter into a contract on behalf of the government without the authority to do so
-2. @FISMA requires protection of government data, no matter how innoculous-seeming the content
+2. @FISMA requires protection of government data, no matter how innocuous-seeming the content
 3. [The Federal Records Act](/policies/data/#records-management) requires official copies of government records to be preserved.
 
 Even if it's just a small task-tracking tool, do not use these services without official approval and governance.
@@ -66,7 +66,7 @@ Determining which of these your agency falls into will tell you a lot about how 
 
 ## Requirements
 
-There are a large number of federal requirements for creating any new tools or websites in the governnment.  @GSA maintains [a rather comprehensive list](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/), but a few of the most important topics are covered below. Also note the requirements for websites introduced by the [21st Century IDEA Act](/laws/21st-century-idea-act/).
+There are a large number of federal requirements for creating any new tools or websites in the government.  @GSA maintains [a rather comprehensive list](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/), but a few of the most important topics are covered below. Also note the requirements for websites introduced by the [21st Century IDEA Act](/laws/21st-century-idea-act/).
 
 ### Cybersecurity
 
@@ -117,7 +117,7 @@ Projects should also follow any relevant [Records Management processes](/policie
 
 ### Domain Names
 
-You may determine that you want a custom domain name for the project, particularly if you're working on a website. As a general rule, such projects should be hosted at a `.gov`, `.mil` or similar official address. @CISA manages the [**dotgov** program](https://home.dotgov.gov/) and handles all [registrations of new domain names](https://home.dotgov.gov/registration/) for all government agences - federal, state, tribal, or local. Registration is free.
+You may determine that you want a custom domain name for the project, particularly if you're working on a website. As a general rule, such projects should be hosted at a `.gov`, `.mil` or similar official address. @CISA manages the [**dotgov** program](https://home.dotgov.gov/) and handles all [registrations of new domain names](https://home.dotgov.gov/registration/) for all government agencies - federal, state, tribal, or local. Registration is free.
 
 All requests for registrations are reviewed by the White House, which may choose to deny the request for any reason. Previously there had been a large proliferation of new domain names, and some registrations have recently been rejected in an attempt to reduce the sprawl. Whenever possible, it's generally a better idea to use either a subdomain under the agency's primary domain (e.g. [cloud.cio.gov](https://cloud.cio.gov/)), or at a subdirectory under the agency's main website (e.g. [SBA's EIDL loan program](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/eidl)).
 
