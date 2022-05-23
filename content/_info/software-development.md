@@ -15,6 +15,9 @@ If you can't fix it through policy, you should look for [a solution you can buy]
 
 Building a pilot project is easy, but the long-term costs to sustain a piece of software can be considerable. It's important to remember that most of the "legacy systems" in government started out as someone's personal pet project, years or even decades ago - all the old mainframe-based applications, databases, and other outdated tools. Many of them are still in use today because no one knows them well enough to replace them. Either hiring or contracting for the proper talent to manage upkeep indefinitely can be extremely daunting. Your project will _likely_ join these ranks as yet another piece of technical debt for the organization; without a clear plan for decommissioning, your code will be legacy before it even launches. ([Trust me on this.](https://billhunt.dev/blog/2016/11/23/lessons-from-the-sunset-of-sunlight-labs/))
 
+@SOAPBOX As such, if you're going to build something, I'm **begging** you to choose the simplest possible tools that require the least upkeep. This will help _delay_ the inevitability of becoming legacy software. Spreadsheets and flat HTML work very well and are very easy. Hiring React developers and DevSecOps teams is very expensive and very hard.
+{:.soapbox}
+
 It's not too late to turn back from this dark path - but if you must proceed, here are a few guideposts.
 
 
@@ -24,7 +27,7 @@ To start, it's a good idea to check your ageny's [Approved Software List](/polic
 
 After that, you'll need to make sure [you have funding for any needed licenses or other costs](/policies/procurement/#planning). All tools have some sort of upkeep around them - even just for account management - so in most cases you'll probably need a labor contract to support anything new, or anything you're building.
 
-Open source tools – such as various flavors of unix/linux, or databases like MySQL/MariaDB – can usually be used at most agencies, but some large agencies will only allow them if there's a support contract that can be acquired for them. Again, the standard governance process will apply here. It can be useful to have an agency-hosted repository that only has "secure" versions of packages, or at a minimum a version-control tool that scans for insecure packages in build lists.
+Open source tools – such as various flavors of unix/linux, or databases like MySQL/MariaDB – can usually be used at most agencies, but some large agencies will only allow them if there's a support contract that can be acquired for them. Again, the standard governance process will apply here. It can also be useful to have an agency-hosted repository that only has "secure" versions of open source packages, or at a minimum a version-control tool that scans for insecure versions of packages in build lists.
 
 ### Popular Government Tools
 
@@ -42,14 +45,13 @@ There are several other popular tools from GSA, but most come with a fee:
 
 ### Free Commerical Tools
 
-Although it can be attractive to use SaaS tools that have free options, this can be dangerous in government. Any such tools still must go through governance and approval, to avoid creating shadow IT. You absolutely **should not** sign up for a personal account and use it for government work:
+Although it can be attractive to use SaaS tools that have free options, this can be dangerous in government _without proper approvals and licenses_. Any such tools still must go through governance and approval, to avoid creating shadow IT. You absolutely **should not** sign up for a personal account and use it for government work:
 
 1. [The Antideficiency Act](/laws/antideficiency-act/) prohibits the use of personal resources for government business, or staff to enter into a contract on behalf of the government without the authority to do so
 2. @FISMA requires protection of government data, no matter how innoculous-seeming the content
 3. [The Federal Records Act](/policies/data/#records-management) requires official copies of government records to be preserved.
 
-Even if it's just a small task-tracking tool, do not use these services without official approval.
-
+Even if it's just a small task-tracking tool, do not use these services without official approval and governance.
 
 ### Installing Tools
 {:#developer-tools}
