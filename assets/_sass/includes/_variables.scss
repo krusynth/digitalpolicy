@@ -5,18 +5,19 @@
 $fa-font-path: '/assets/fonts/fontawesome';
 
 /* Colors */
-$purple : #8255A6;
-$teal : rgba(17, 198, 169, 1);
-$lemon : #ffc107;
-$sienna : #D9503C;
-$skyblue : #4ABAF7;
-$orange : #D97B36;
-$khaki : #F2E3A7;
+
 $white : #fffcf6;
 $dark: #2f2f35;
-$newblue: #4f9cff;
+$uswds-red-60v: #b50909;
+$uswds-blue-warm-60v: #0050d8;
+$uswds-indigo-60v: #4a50c4;
 
-$accent-color: $newblue;
+$blue: $uswds-blue-warm-60v;
+$purple: $uswds-indigo-60v;
+$red: $uswds-red-60v;
+
+$accent-color: $blue;
+$footer-color: $red;
 
 $link-color: $accent-color;
 $link-hover-color: $accent-color;

@@ -135,7 +135,7 @@ article {
 }
 
 .featured, .notes, .soapbox, .pullquote, .quote-author  {
-  background-color: rgba($newblue, 0.1);
+  background-color: rgba($accent-color, 0.1);
   padding: 1rem;
   margin-left: 0;
 
@@ -193,14 +193,6 @@ article {
   margin-bottom: 1.5rem;
 }
 
-.featured-icon {
-  color: $lemon;
-  font-size: 2rem;
-  float: right;
-  margin-left: 0.5rem;
-}
-
-
 /**
  * Footer
  */
@@ -209,7 +201,7 @@ article {
   @extend .container;
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color: $sienna;
+  background-color: $footer-color;
   color: $white;
   font-size: 0.85em;
 
