@@ -4,5 +4,3 @@ title: "Information"
 permalink: "/info/"
 group: "info"
 ---
-
-Test header
