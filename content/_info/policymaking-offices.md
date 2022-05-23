@@ -47,7 +47,7 @@ This office also contains the Federal Chief Information Security Officer, who is
 OFCIO oversees most mandated IT data reporting, notably the quarterly Integrated Data Collection (IDC) which is used by the biannual FITARA Scorecard published by the Government Accountability Office. Although it is not a budget office, it also collects the monthly Capital Planning and Investment Control (CPIC) data, which includes data on all major IT investments across the government. Some, but not all, of the data collected by OFCIO is reported publicly in the form of the [IT Dashboard](https://itdashboard.gov/) which OFCIO is responsible for (though [GSA](#gsa) actually runs the website).
 {:#it-data-reporting}
 
-The Federal CIO position and this office were established by [FITARA](/laws/fitara/). Many of the [Federal CIO's assigned legal authorities](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3602&num=0&edition=prelim) state that @OIRA must also be consulted in the creation of policies or requirements.
+The Federal CIO position and this office were established by the [E-Government Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/2458/text). Many of the [Federal CIO's assigned legal authorities](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3602&num=0&edition=prelim) state that @OIRA must also be consulted in the creation of policies or requirements.
 
 #### Office of Information and Regulatory Affairs (OIRA)
 {:#oira}
