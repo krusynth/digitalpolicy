@@ -23,7 +23,7 @@ Most agencies typically expect resumes to be in "government format," a regimente
 
 Jobs typically appear twice on the website, one posting for current [permanent government staff](#permanent-staff) to apply, and separately a posting for the public and non-permanent staff. Current government staff are usually considered first for roles. Additionally, anyone with previous U.S. military or qualified government-sponsored volunteer service (for instance Peace Corps or AmeriCorps) receives additional credit in the evaluation process. The former is known as **Veterans Preference**.
 
-@SOAPBOX Although Veterans Preference and other service preferences are generally a positive thing, the way that they are typically applied at most agencies is to apply additional points in the hiring process at the **beginning** of the evaluation. As a result, candidates with these backgrounds may end up at the "top" of the interview list even if they do not have **any** relevant experience or knowledge of the job in question. The [Subject Matter Expert (SME) Review](#sme-review) alternative process avoids this problem.
+@SOAPBOX Although Veterans Preference and other service preferences are generally a positive thing, the way that they are typically applied at most agencies is to apply additional points in the hiring process at the **beginning** of the evaluation. As a result, candidates with these backgrounds may end up at the "top" of the interview list even if they do not have **any** relevant experience or knowledge of the job in question. This can be a detriment to both the hiring agency and the veteran themselves. The [Subject Matter Expert (SME) Review](#sme-review) alternative process avoids this problem.
 {:.soapbox}
 
 After the application period closes, typically a member of the Human Resources (HR) team in charge of the hiring will review resumes to check if they have the correct keywords listed in the job posting. This usually happens before the actual hiring manager gets the filtered list of resumes. As a result, it can be advantageous to "keyword stuff" key phrases into resumes. Again, a way to avoid this is the Subject Matter Expert (SME) Review process.
@@ -36,8 +36,10 @@ After the application period closes, typically a member of the Human Resources (
 
 Due to the large difficulties the government has experienced in hiring technology talent, the @USDS worked with @OPM to create [a new hiring process](https://www.usds.gov/projects/smeqa) that would better assess candidates for technology-related positions. Any federal agency can use this modified process today. There are a few noteworthy changes in this process:
 
-1. Instead of having HR staff review resumes for keywords, the hiring manager and other designated SMEs can review the resumes to see if they meet the requirements.
-2. Any veterans preference or other relevant service points are added at the _end_ of the evaluation process, rather than the _beginning_ in the standard process.
+1. Resumes are often capped at 2-5 pages to eliminate the need for long lists of information in "government format" resumes.
+2. Instead of having HR staff review resumes for keywords, the hiring manager and any designated SMEs can review the resumes to see if they meet the requirements.
+3. A structured interview (and a written assessment, if desired and applicable) is conducted after resume review in order to determine whether a candidate is qualified to be placed on the hiring certificate(s).
+4. Any veterans preference or other relevant service points are added at the _end_ of the evaluation process after candidates are placed on the hiring certificates, rather than the _beginning_ in the standard process.
 
 ## Job Series
 
@@ -45,11 +47,13 @@ Each position in government is classified under a [job series code number](https
 
 Typically, most cybersecurity positions are classified as **2210**. However, other IT roles are often classified in this category for [Direct Hire Authoriites](#direct-hire-authorities) reasons. For hiring managers, this means that non-cyber roles listed as 2210s will often receive a very large number of cyber-focused applicants (sometimes up to 90%!) who may not have the relevant experience requested.
 
+Other commonly-used job series for hiring IT-related positions include 301 and 343.
+
 ## Pay Grades
 
 The standard pay scale for government is called the [**General Schedule**](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/). These roles are denoted on job postings with a scale number (**GS-##**). Typically, technology roles in governemnt are GS-13 to GS-14, with supervisory or highly-technical roles are often **GS-15**. Each level of the scale has a pay range with ten individual **steps** that staff will move up via pay raises from good performance reviews.
 
-These pay rates are adjusted for **locality** with increases in urban areas. Although GS-15 step 10 is the formal top of the pay range, because there is a pay cap (currently $176,300 in 2022) for the general schedule, staff may hit the top of the range as early as GS-15 step 7. In these cases, staff do not receive any additional pay when moving to higher steps.
+These pay rates are adjusted for [**locality**](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) with increases in urban areas. Although GS-15 step 10 is the formal top of the pay range, because there is a pay cap (currently $176,300 in 2022) for the general schedule, staff may hit the top of the range as early as GS-15 step 7. In these cases, staff do not receive any additional pay when moving to higher steps.
 
 The @SES is not subject to these limits, and the pay rates go much higher, up to $203,700 in 2022.
 
@@ -81,7 +85,8 @@ Agencies may hire staff for either **Permanent** roles without an expiration, or
 
 ## Direct Hire Authoriites
 
-There are several methods to hire through expedited means, skipping steps in the process or just directly appointing staff into positions.  Outside of political positions, there are several common [**Direct Hire Authorities**](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/) used to expediently hire technology staff into government. Staff typically still go through an application and interview process, but it is possible for them to simply be appointed to these roles without any of these steps. These roles are usually **term appointments** in the **Excepted Service**, but not always.
+There are several methods to hire through expedited means, skipping steps in the process or just directly appointing staff into positions. 
+Veterans preference does not apply when selecting individuals under Direct Hire Authority. Outside of political positions, there are several common [**Direct Hire Authorities**](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/) used to expediently hire technology staff into government. Staff typically still go through an application and interview process, but it is possible for them to simply be appointed to these roles without any of these steps. These roles are usually **term appointments** in the **Excepted Service**, but not always.
 
 There are both government-wide direct hire authorities as well as agency-specific or mission-specific ones. These authorities often have a limited period of time for which they can be used. Currently, the most commonly used authority for technology professionals across government is the **Information Technology Management (Information Security), GS-2210** authority.
 
