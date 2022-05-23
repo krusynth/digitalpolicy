@@ -8,7 +8,7 @@ permalink: /about/
 
 If you're new to practicing technology in the Federal Government - welcome!  Government is a strange place with its own rules and ways of doing things. Things that are easy in the private sector, like buying and installing development tools, become an inscrutable series of barriers and gates. These hurdles all exist for specific reasons, and although there are many context-specific strategies to overcome them, it can be helpful to start with the laws and policies that created them.
 
-It can take years – or even decades – to become knowledgable on these topics, and this guide should not be considered a substitute for a more formal education. But it may help you figure out where to look or who to ask for answers.
+It can take months or years to become knowledgable on these topics, and this guide should _not_ be considered a substitute for a more formal education. But it may help you figure out where to look or who to ask for answers.
 
 A few of the most important laws regarding Federal IT include:
 
@@ -18,8 +18,8 @@ A few of the most important laws regarding Federal IT include:
 
 Some of the areas that most frequently cause confusion or friction in government technology include:
 
-* [Data](/policies/data/)
 * [CyberSecurity](/policies/cybersecurity/)
+* [Data](/policies/data/)
 * [Budget & Finance](/policies/budget-finance/)
 * [Procurement](/policies/procurement/)
 * [Hiring](/policies/hiring/)

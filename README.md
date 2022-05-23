@@ -28,6 +28,8 @@ There's a couple of helper scripts included in the `package.json` as well:
 
 ### Content
 
+All of the content pages are located in the `content/` folder (except the main `index.md` file, because GitHub Pages wants it at the root.)
+
 We try to strike a balance between creating individual pages for topics and consolidating topics to reduce sprawl.  For instance, individual laws only have separate pages if those laws are complicated or span across multiple concerns, such as @FITARA.  In other cases, we simply refer directly to the laws in the relevant sections.  Laws not related to technology generally won't have their own page unless they are special in some way.
 
 Pages with `toc: true` in the front matter will automatically create a table of contents at the top of the page when combined with `layout: law` or `layout: document` **only**. This is useful for very long pages.
