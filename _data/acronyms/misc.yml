@@ -114,12 +114,12 @@ values:
 
   - name: COR
     fullname: Contracting Officer's Representative (COR)
-    notes: In a government acquisition, this is the staff member who represents the program office.
+    notes: In a government acquisition, this is the staff member who represents the program office. Pronounced "core," like the middle of an apple.
     url: /policies/procurement/#CO
 
   - name: COTS
     fullname: Commercial-Off-The-Shelf Software (COTS)
-    notes: A common phrase in procurement for readily-available software that does not need to be customized to be used.
+    notes: A common phrase in procurement for readily-available software that does not need to be customized to be used. Pronounced "cots," like small beds.
     url:
 
   - name: CTO
@@ -279,12 +279,12 @@ values:
 
   - name: PIV
     fullname: Personal Identity Verification card (PIV)
-    notes: A standard-issue government keycard used to gain access to buildings or computer systems used in civilian agencies.
+    notes: A standard-issue government keycard used to gain access to buildings or computer systems used in civilian agencies. Sometimes pronounced "PIH-v."
     url:
 
   - name: POAM
     fullname: Plan of Action & Milestones (POAM)
-    notes: Most often, an issue with a system found by the cybersecurity team that needs to be fixed. Sometimes appears as POA&M.
+    notes: Most often, an issue with a system found by the cybersecurity team that needs to be fixed. Sometimes appears as POA&M. Sometimes pronounced "POH-am."
     url:
 
   - name: PWS
@@ -294,7 +294,7 @@ values:
 
   - name: QSMO
     fullname: Quality Service Management Offices (QSMOs)
-    notes: An agency that has been designated by the Office of Management and Budget to provide a specific shared service to all other agencies.
+    notes: An agency that has been designated by the Office of Management and Budget to provide a specific shared service to all other agencies. Sometimes pronounced "QUIZ-moh."
     url: /policies/procurement/#qsmo
 
   - name: RFI
@@ -329,7 +329,7 @@ values:
 
   - name: SCIF
     fullname: Sensitive Compartmented Information Facility (SCIF)
-    notes: A location that has been physically and electronically secured against surveillance where classified or otherwise sensitive documents and data are permitted to be viewed and discussed.
+    notes: A location that has been physically and electronically secured against surveillance where classified or otherwise sensitive documents and data are permitted to be viewed and discussed. Pronounced "SKIFF."
     url: /policies/data/#scif
 
   - name: SCRM
