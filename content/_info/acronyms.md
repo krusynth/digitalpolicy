@@ -8,6 +8,8 @@ One of the most daunting aspects of joining government is the massive amount of 
 
 The summary below contains the most common government-wide terms, but each agency has its own series of abbreviations for various offices, systems, and processes. It's a good idea to ask if your agency has a list documented already - digital service teams also often create one (e.g.s, [IRS](https://github.com/usds/irs-acronyms/blob/main/acronyms.csv), [VA](https://github.com/department-of-veterans-affairs/acronyms/blob/master/acronyms.csv), [EIS](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/ACRONYMS.md)).
 
+Many of these acronyms are initialisms, where each letter is said out loud, but some are pronounced as words - think of the difference between "EPA" and "NASA." Pronunciations are noted below where applicable. 
+
 {% assign cats = "agencies, laws, misc" | split: ", " -%}
 {%- for cat in cats  -%}
   {%- assign type = site.data.acronyms[cat] %}
