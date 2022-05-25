@@ -14,7 +14,7 @@ values:
 
   - name: DCOI
     fullname: The Data Center Optimization Initiative (DCOI)
-    notes: A policy from the Office of Management and Budget [directing federal agencies to consolidate data centers](https://datacenters.cio.gov/policy/), as required by [FITARA](/laws/fitara/).
+    notes: A policy from the Office of Management and Budget [directing federal agencies to consolidate data centers](https://datacenters.cio.gov/policy/), as required by [FITARA](/laws/fitara/). Very rarely, pronounced like the word "DECOY," but far more often spelled out.
     url: /policies/cloud-data-centers/#dcoi
 
   - name: FedRAMP
