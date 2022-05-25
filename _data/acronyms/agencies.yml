@@ -5,7 +5,7 @@ description:
 values:
   - name: CISA
     fullname: The Cybersecurity and Infrastructure Security Agency (CISA)
-    notes: Agency under The Department of Homeland Security.
+    notes: Agency under The Department of Homeland Security. Pronounced "SIH-zha" 
     url: /info/policymaking-offices/#cisa
 
   - name: DHS
@@ -15,7 +15,7 @@ values:
 
   - name: DOC
     fullname: The Department of Commerce (DOC)
-    notes:
+    notes: Also referred to as "Commerce."
     url:
 
   - name: DOD
@@ -35,7 +35,7 @@ values:
 
   - name: DOI
     fullname: The Department of the Interior (DOI)
-    notes:
+    notes: Also referred to as "Interior."
     url:
 
   - name: DOJ
@@ -85,12 +85,12 @@ values:
 
   - name: HUD
     fullname: The Department of Housing and Urban Development (HUD)
-    notes:
+    notes: Pronounced "HUH-d"
     url:
 
   - name: NARA
     fullname: The National Archives and Records Administration (NARA)
-    notes:
+    notes: Pronounced "NAH-rah"
     url: /info/policymaking-offices/#nara
 
   - name: NASA
@@ -105,7 +105,7 @@ values:
 
   - name: NIST
     fullname: The National Institute of Standards and Technology (NIST)
-    notes: Agency under The Department of Commerce.
+    notes: Agency under The Department of Commerce. Pronounced "NIH-st"
     url: /info/policymaking-offices/#nist
 
   - name: NRC
@@ -140,7 +140,7 @@ values:
 
   - name: OIRA
     fullname: The Office of Information and Regulatory Affairs (OIRA)
-    notes: Part of The Office of Management and Budget
+    notes: Part of The Office of Management and Budget. Pronounced "oh-EYE-rah."
     url: /info/policymaking-offices/#oira
 
   - name: OMB
@@ -200,7 +200,7 @@ values:
 
   - name: USDT
     fullname: The Department of the Treasury (USDT)
-    notes:
+    notes: Also referred to as "Treasury."
     url:
 
   - name: VA
@@ -210,5 +210,5 @@ values:
 
   - name: 18F
     fullname: 18F
-    notes: Not actually an acronym, this is the name of the digital services team at GSA. Part of the Technology Transformation Services in the General Services Administration.
+    notes: The digital services team at GSA, part of the Technology Transformation Services. Not an acronym; GSA's headquarters is at 1800 F St NW.
     url: /info/policymaking-offices/#18f
