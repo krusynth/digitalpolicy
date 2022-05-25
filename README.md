@@ -12,6 +12,12 @@ If you see something wrong or missing, please do let us know! The easiest way is
 
 Of course [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests) with direct contributions are always welcome as well!
 
+### Public domain
+
+For detailed license information, see [LICENSE](LICENSE.md).
+
+All contributions to this project will be released under the [CC0 dedication](https://creativecommons.org/share-your-work/public-domain/cc0/). By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+
 ### Installation
 
 This is a standard [Jekyll](https://jekyllrb.com/docs/) / [GitHub Pages](https://pages.github.com/) website.  As such, you'll need the comptible version of Ruby installed (2.7.3) via `rvm` or other means. After that, make sure Bundler is installed, and then `bundle install` the ruby dependencies as usual.
