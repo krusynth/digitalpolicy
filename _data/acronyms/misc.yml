@@ -115,12 +115,17 @@ values:
   - name: COR
     fullname: Contracting Officer's Representative (COR)
     notes: In a government acquisition, this is the staff member who represents the program office. Pronounced "core," like the middle of an apple.
-    url: /policies/procurement/#CO
+    url: /policies/procurement/#co
 
   - name: COTS
     fullname: Commercial-Off-The-Shelf Software (COTS)
     notes: A common phrase in procurement for readily-available software that does not need to be customized to be used. Pronounced "cots," like small beds.
     url:
+
+  - name: CO
+    fullname: Contracting Officer (CO)
+    notes: In a government acquisition, this is the member of the acquisition team who oversees the procurement process.
+    url: /policies/procurement/#co
 
   - name: CTO
     fullname: Chief Technology Officer (CTO)

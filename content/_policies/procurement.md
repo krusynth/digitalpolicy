@@ -45,12 +45,12 @@ Non-Major investments will often feature a subset of reviews from the Major Inve
 ## Phase 2: Contract Initiation
 {:#contract-initiation}
 
-Once all approvals have been made, the actual purchasing process begins. Although requirements have probably been gathered and documented as part of the budget and planning, these will usually need to be translated by the [contracting officer](#co) into formal contract language. There are several different types of contracts that can be generated, but the @SOO, @SOW, or @PWS are the most commonly-used ones in government.
+Once all approvals have been made, the actual purchasing process begins. Although requirements have probably been gathered and documented as part of the budget and planning, these will usually need to be translated by the [Contracting Officer (CO)](#co) into formal contract language. There are several different types of contracts that can be generated, but the @SOO, @SOW, or @PWS are the most commonly-used ones in government.
 
 In most cases, agencies should perform [market research](https://www.acquisition.gov/far/part-10) for the goods and services they are acquiring. This can include issuing a Request for Information (RFI), a document that outlines what the government intends to purchase that is sent to the vendor community. There is no obligation for the government to purchase the services in question from any vendor that responds to an RFI, it is entirely informational-only.
 {:#market-research}
 
-As part of any contract, the government must come up with an initial estimate. For labor contracts, it can be useful to refer to the General Services Administration's published rates ([GSA Pricing Tool](https://buy.gsa.gov/pricing/)).
+As part of any contract, the government must come up with an initial cost estimate, which is called the **Independent Government Cost Estimate (IGCE)**. For labor contracts, it can be useful to refer to the General Services Administration's published rates ([GSA Pricing Tool](https://buy.gsa.gov/pricing/)).
 {:#igce}
 
 
@@ -63,7 +63,7 @@ These requests are posted for a fixed amount of time, during which companies may
 
 Usually these contracts are posted on [SAM.gov](https://sam.gov/content/home), but there are a number of methods to procure things through standard acquisition processes – see [Acquisition Vehicles](#acquisition-vehicles) and [Shared Services](#shared-services) below.
 
-The contract request can be published to either the general vendor community, or a subset of vendors. Most agencies are expected to award a percentage of their contracts to [small businesses](https://www.sba.gov/federal-contracting/contracting-guide), for instance most contracts with large cloud companies (such as Amazon or Microsoft) are passed through a **value-added reseller (VAR)**.
+The solicitation can be published to either the general vendor community, or a subset of vendors. Most agencies are expected to award a percentage of their contracts to [small businesses](https://www.sba.gov/federal-contracting/contracting-guide), for instance most contracts with large cloud companies (such as Amazon or Microsoft) are passed through a **value-added reseller (VAR)**.
 {:#vendors}
 
 It is possible for an agency to skip the evaluation process entirely and make a [**Direct Award** to a small, minority-owned business](https://www.acquisition.gov/far/subpart-19.8) that has [8(a) status](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program), but only with @SBA's explicit approval. However, the entire value of the contract [with options](#contract-extension) cannot exceed $4.5 million dollars, making this path only suitable for small contracts.
@@ -100,7 +100,7 @@ There have been several high-visibility protests in recent years, including the 
 ## Phase 6: Administration
 {:#administration}
 
-After the contract has been awarded, the administration phase begins.  It is the responsibility of the COR to evaluate the performance of the vendor, and ensure that they meet any requirements in the contract. The CO may also assist with any disputes.
+After the contract has been awarded, the administration phase begins.  It is the responsibility of the @COR to evaluate the performance of the vendor, and ensure that they meet any requirements in the contract. The @CO may also assist with any disputes.
 
 Their performance is also reported officially and publicly. As "previous performance" is often a criteria element for contract evaluation in the acquisition process, vendors sometimes protest the evaluation they've been given.
 
@@ -147,13 +147,9 @@ To act as a COR or alternate, the staff member must become COR-certified, known 
 **Note:** The term "vehicle" is used in government to describe existing contracting channels for the procurement of various types of goods and services, not just automobile-vehicles.
 {:.notes}
 
-Category Management (hardware)
+Agencies may acquire software, hardware, labor services, etc. via acquisition vehicles provided by other federal agencies. This gives agencies the ability to shop off of predetermined lists for commonly used items and services. This is a practice known as **Category Management**. The most common vehicles are listed below.
 
-https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m-16-02.pdf
-
-Category Management Policy 15-1: Improving the Acquisition and Management of Common Information Technology: Laptops and Desktops
-
-https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf
+Moreover, for laptops and desktop computers, @OMB has [mandated that agencies _only_ use the three vehicles listed below](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m-16-02.pdf). However, exceptions have been made in the past due to supply shortages, such as during the computer chip shortage during the COVID-19 pandemic. Agencies seeking such an exception should contact OMB.
 
 * [NASA Solutions for Enterprise-Wide Procurement (SEWP)](https://www.sewp.nasa.gov/contract_info.shtml)
 * [General Services Administration (GSA) IT Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/mas-information-technology/buy-from-mas-information-technology/order-desktops-and-laptops-through-mas)
