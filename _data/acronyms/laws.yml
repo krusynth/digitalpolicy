@@ -4,7 +4,7 @@ description:
 values:
   - name: CPIC
     fullname: Capital Planning and Investment Control (CPIC)
-    notes: A federal process for IT financial management required by [The Clinger-Cohen Act](/laws/clinger-cohen/)
+    notes: A federal process for IT financial management required by [The Clinger-Cohen Act](/laws/clinger-cohen/). Pronounced "SEE-pick."
     url: /policies/budget-finance/#cpic
 
   - name: CFO Act
@@ -24,7 +24,7 @@ values:
 
   - name: FAR
     fullname: Federal Acquisition Regulations (FAR)
-    notes: Regulations concerning how products and services can be purchased
+    notes: Regulations concerning how products and services can be purchased. Pronounced like the word "FAR."
     url: /policies/procurement/#far
 
   - name: FDCCI
@@ -34,22 +34,22 @@ values:
 
   - name: FERPA
     fullname: The Family Educational Rights and Privacy Act of 1974 (FERPA)
-    notes: A law that protects the privacy of student education records.
+    notes: A law that protects the privacy of student education records. Pronounced "FUR-pah."
     url: /policies/data/#ferpa
 
   - name: FISMA
     fullname: The Federal Information Security Management Act (FISMA)
-    notes: The main [cybersecurity](/policies/cybersecurity/) law.
+    notes: The main [cybersecurity](/policies/cybersecurity/) law. Pronounced "FISS-mah."
     url: /laws/fisma/
 
   - name: FITARA
     fullname: The Federal Information Technology Acquisition Reform Act (FITARA)
-    notes: One of the main laws regarding IT management.
+    notes: One of the main laws regarding IT management. Pronounced "fih-TAHR-ah."
     url: /laws/fitara/
 
   - name: HIPAA
     fullname: The Health Insurance Portability and Accountability Act (HIPAA)
-    notes: A law that includes privacy requirements for personal medical information
+    notes: A law that includes privacy requirements for personal medical information. Pronounced "HIP-ah."
     url: /laws/hipaa/
 
   - name: NDAA
