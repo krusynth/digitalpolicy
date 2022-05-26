@@ -39,10 +39,10 @@ Offices on the management side of OMB report to the Deputy Director for Manageme
 Legally known as the Office of E-Government & Information Technology (or E-Gov Office), most technology policy and guidance in the executive branch [comes out of this office](https://www.whitehouse.gov/omb/management/egov/), including data and cybersecurity policy. The head of this office is formally known as the Federal Chief Information Officer (Federal CIO), but in law is referred to as the Administrator of the Office of E-Government and Information Technology.
 
 The Federal Chief Information Officer is the chair of the [Federal CIO Council](https://www.cio.gov/about/members-and-leadership/), consisting of the CIOs of the [24 large Federal agencies](/info/agency-scope/#cfo-act-agencies) and a few others.  This organization does not issue official policy, but collaborates on implementation of various initiatives and shared pilot programs.
-{#cioc}
+{:#cioc}
 
 This office also contains the Federal Chief Information Security Officer, who is the chair of the [Federal CISO Council](https://www.cio.gov/about/members-and-leadership/ciso-council/).
-{#cisoc}
+{:#cisoc}
 
 OFCIO oversees most mandated IT data reporting, notably the quarterly Integrated Data Collection (IDC) which is used by the biannual FITARA Scorecard published by the Government Accountability Office. Although it is not a budget office, it also collects the monthly Capital Planning and Investment Control (CPIC) data, which includes data on all major IT investments across the government. Some, but not all, of the data collected by OFCIO is reported publicly in the form of the [IT Dashboard](https://itdashboard.gov/) which OFCIO is responsible for (though [GSA](#gsa) actually runs the website).
 {:#it-data-reporting}
@@ -124,7 +124,7 @@ There are many other smaller organizations under the White House, though most of
 {:.divider}
 
 # Department of Homeland Security (DHS)
-{#dhs}
+{:#dhs}
 
 ## Cybersecurity and Infrastructure Security Agency (CISA)
 {:#cisa}
