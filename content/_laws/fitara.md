@@ -33,7 +33,8 @@ For the covered agencies, FITARA gives the top-level agency @CIO responsibility 
 FITARA was passed as part of the [National Defense Authorization Act for Fiscal Year 2015 (2015 NDAA, Pub.L. 113-291)](https://www.congress.gov/bill/113th-congress/house-bill/3979/text/enr).
 
 The [FITARA Enhancement Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/3243/text?overview=closed)
-{:#fitara-enhancement} extended the sunset date of the @DCOI requirement from 2018 to 2020. This was further extended to 2022 by the [2020 @NDAA](https://www.congress.gov/bill/116th-congress/senate-bill/1790)
+extended the sunset date of the @DCOI requirement from 2018 to 2020. This was further extended to 2022 by the [2020 @NDAA](https://www.congress.gov/bill/116th-congress/senate-bill/1790)
+{:#fitara-enhancement}
 
 ## FITARA Scorecard
 
