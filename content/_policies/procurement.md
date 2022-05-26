@@ -95,7 +95,7 @@ It's important to note that most small business vendors do not keep a large grou
 
 Vendors are legally allowed to protest awards for any number of reasons. If they can provide evidence that things were handled improperly, or that conflicts of interest exist. In these circumstances, @GAO is responsible for [adjudicating the protest](https://www.gao.gov/legal/bid-protests).
 
-There have been several high-visibility protests in recent years, including the @DOD's [massive cloud contract], Joint Enterprise Defense Infrastructure (JEDI)](https://federalnewsnetwork.com/reporters-notebook-jason-miller/2018/09/10b-and-other-reasons-why-there-is-so-much-angst-around-dods-jedi-program/)
+There have been several high-visibility protests in recent years, including the @DOD's massive cloud contract, the Joint Enterprise Defense Infrastructure [(JEDI)](https://federalnewsnetwork.com/reporters-notebook-jason-miller/2018/09/10b-and-other-reasons-why-there-is-so-much-angst-around-dods-jedi-program/)
 
 ## Phase 6: Administration
 {:#administration}
