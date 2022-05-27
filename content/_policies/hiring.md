@@ -45,13 +45,13 @@ Due to the large difficulties the government has experienced in hiring technolog
 
 Each position in government is classified under a [job series code number](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/occupationalhandbook.pdf). Although the definitions of these roles are fixed, there is a lot of flexibility in how a given job may be classified.
 
-Typically, most cybersecurity positions are classified as **2210**. However, other IT roles are often classified in this category for [Direct Hire Authoriites](#direct-hire-authorities) reasons. For hiring managers, this means that non-cyber roles listed as 2210s will often receive a very large number of cyber-focused applicants (sometimes up to 90%!) who may not have the relevant experience requested.
+Typically, most cybersecurity positions are classified as **2210**. However, other IT roles are often classified in this category for [Direct Hire Authorities](#direct-hire-authorities) reasons. For hiring managers, this means that non-cyber roles listed as 2210s will often receive a very large number of cyber-focused applicants (sometimes up to 90%!) who may not have the relevant experience requested.
 
 Other commonly-used job series for hiring IT-related positions include 301 and 343.
 
 ## Pay Grades
 
-The standard pay scale for government is called the [**General Schedule**](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/). These roles are denoted on job postings with a scale number (**GS-##**). Typically, technology roles in governemnt are GS-13 to GS-14, with supervisory or highly-technical roles are often **GS-15**. Each level of the scale has a pay range with ten individual **steps** that staff will move up via pay raises from good performance reviews.
+The standard pay scale for government is called the [**General Schedule**](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/). These roles are denoted on job postings with a scale number (**GS-##**). Typically, technology roles in government are GS-13 to GS-14, with supervisory or highly-technical roles are often **GS-15**. Each level of the scale has a pay range with ten individual **steps** that staff will move up via pay raises from good performance reviews.
 
 These pay rates are adjusted for [**locality**](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) with increases in urban areas. Although GS-15 step 10 is the formal top of the pay range, because there is a pay cap (currently $176,300 in 2022) for the general schedule, staff may hit the top of the range as early as GS-15 step 7. In these cases, staff do not receive any additional pay when moving to higher steps.
 
@@ -61,18 +61,18 @@ Special roles and specific agencies may have higher higher pay rates as well. Fo
 
 ## Categories & Types of Service
 
-There are three "categories" of service in the governemnt: **Competitive Service**, **Excepted Service**, and **Senior Executive Service**.
+There are three "categories" of service in the government: **Competitive Service**, **Excepted Service**, and **Senior Executive Service**.
 
 **Competitive Service** jobs make up the majority of all roles in the government. These roles are "standard" government jobs, with no special requirements or concerns. As suggested by the name, these staff can apply to internal-to-government job postings. Typically there is a 1-year probationary period for these jobs.
 
-**Excepted Service** staff are federal employees without competitive status. These are typically term appointees, and/or those hired via [Direct Hire Authoriites](#direct-hire-authorities). Typically, but not always, these are staff with **term appointments**.
+**Excepted Service** staff are federal employees without competitive status. These are typically term appointees, and/or those hired via [Direct Hire Authorities](#direct-hire-authorities). Typically, but not always, these are staff with **term appointments**.
 
 **Senior Executive Service (SES)** are senior leadership jobs in the government. These staff can be either career staff or **political appointees**.  Applying for SES jobs is especially difficult, and requires a special resume format that includes documentation of the [22 **Executive Core Qualifications (ECQs)**](https://www.opm.gov/policy-data-oversight/senior-executive-service/executive-core-qualifications/). Staff must be reviewed and approved by an SES board as part of the hiring process, but once approved they do not need to repeat the approval process. Existing federal staff must have been GS-15 or equivalent for at least a year beforehand.
 {:#ses}
 
 @CIOs are almost always SES, but other "C-suite" staff may not be. At larger agencies, some or all staff directly beneath the CIO may be SES, but this is not comparatively common. It has [long been noted that the SES is lacking in diversity](https://www.gao.gov/products/gao-04-123t), being predominantly older white men.
 
-All staff are also either categorized as **Career**, meaning regular federal employees, or **Politial**, meaning they have been appointed by the President for that job. Typically political staff leave at the end of a president's term. Most senior leadership in an agency is usually political, but @CIOs may be either career or political.
+All staff are also either categorized as **Career**, meaning regular federal employees, or **Political**, meaning they have been appointed by the President for that job. Typically political staff leave at the end of a president's term. Most senior leadership in an agency is usually political, but @CIOs may be either career or political.
 
 It is possible to move from a political appointee to a career staff position, commonly referred to as "burrowing." This is generally considered to be a bad practice and undermining the purpose of a non-political government, it does still happen.
 
@@ -83,7 +83,7 @@ Agencies may hire staff for either **Permanent** roles without an expiration, or
 @WARNING In most cases, term appointees are Excepted Service members, not Competitive Service, meaning they must apply for any government jobs with the rest of the public.
 {:.notes}
 
-## Direct Hire Authoriites
+## Direct Hire Authorities
 
 There are several methods to hire through expedited means, skipping steps in the process or just directly appointing staff into positions. 
 Veterans preference does not apply when selecting individuals under Direct Hire Authority. Outside of political positions, there are several common [**Direct Hire Authorities**](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/) used to expediently hire technology staff into government. Staff typically still go through an application and interview process, but it is possible for them to simply be appointed to these roles without any of these steps. These roles are usually **term appointments** in the **Excepted Service**, but not always.

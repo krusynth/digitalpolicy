@@ -189,7 +189,7 @@ values:
 
   - name: HSGAC
     fullname: The Senate Homeland Security and Governmental Affairs Committee (HSGAC)
-    notes: The Senate committee responsible for creating many federal technology and cyberesecurity laws.
+    notes: The Senate committee responsible for creating many federal technology and cybersecurity laws.
     url:
 
   - name: HOGR
@@ -309,12 +309,12 @@ values:
 
   - name: RFQ
     fullname: Request for Quotation (RFQ)
-    notes: A part of the aquisition process, where the government asks the vendor pool to bid for a contract. An Request for Quotation is used when the agency knows exactly what they want to buy; contrast with a Request for Proposal.
+    notes: A part of the acquisition process, where the government asks the vendor pool to bid for a contract. An Request for Quotation is used when the agency knows exactly what they want to buy; contrast with a Request for Proposal.
     url: /policies/procurement/#contract-solicitation
 
   - name: RFP
     fullname: Request for Proposal (RFP)
-    notes: A part of the aquisition process, where the government asks the vendor pool to bid for a contract. An Request for Quotation is used when the agency does have a precise item that they want to buy; contrast with a Request for Quotation.
+    notes: A part of the acquisition process, where the government asks the vendor pool to bid for a contract. An Request for Quotation is used when the agency does have a precise item that they want to buy; contrast with a Request for Quotation.
     url: /policies/procurement/#contract-solicitation
 
   - name: RPA
@@ -344,7 +344,7 @@ values:
 
   - name: SES
     fullname: Senior Executive Service (SES)
-    notes: A rank of jobs in the Federal Governement denoting senior officers.  There are special hiring requirements for these roles.
+    notes: A rank of jobs in the Federal Government denoting senior officers.  There are special hiring requirements for these roles.
     urL: /policies/hiring/#ses
 
   - name: SEWP
@@ -363,7 +363,7 @@ values:
 
   - name: SOO
     fullname: Statement of Objectives (SOO)
-    notes: Ahigh-level document in an acquisition that lists the outcomes expected from a vendor performing work on a government contract. It is a more recent replacent for the traditional Statement of Work, and typically a simpler document than a Performance Work Statement.
+    notes: A high-level document in an acquisition that lists the outcomes expected from a vendor performing work on a government contract. It is a more recent replacement for the traditional Statement of Work, and typically a simpler document than a Performance Work Statement.
     url:
 
   - name: SOP
@@ -427,7 +427,7 @@ values:
 
   - name: "2210"
     fullname: 2210 Cybersecurity Job Code
-    notes: Not technically an acronym, but a common phrase to refer to cyberesecurity job roles, or sometimes any specialized information technology roles.
+    notes: Not technically an acronym, but a common phrase to refer to cybersecurity job roles, or sometimes any specialized information technology roles.
     url:
 
   - name: 3PAO
