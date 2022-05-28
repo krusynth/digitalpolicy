@@ -40,7 +40,7 @@ The government Fiscal Year (FY) begins on October 1st and ends on September 30th
 
 In parallel to the President's budget, there are a series of committees in Congress in both the [House](https://appropriations.house.gov/) and [Senate](https://www.appropriations.senate.gov/) which determine what funding the agencies under their purview should receive. The primary method for approving funding for agencies is the Federal Budget, which is the final document that tells @USDT to send money to agencies. Although they receive the President's official request, they are under no obligation to fund any of the requests at the levels requested. They often may fund at higher or lower amounts than requested - or not fund items at all.
 
-The House and Senate committees each come up with their own versions of these appropriations bills, and the chambers compare notes to produce a final version in a process known as **reconcilliation**. The separate appropriations bills can be passed individually or bundled together into an **omnibus** bill. As with all laws, these do not take effect until the President signs them.
+The House and Senate committees each come up with their own versions of these appropriations bills, and the chambers compare notes to produce a final version in a process known as **reconciliation**. The separate appropriations bills can be passed individually or bundled together into an **omnibus** bill. As with all laws, these do not take effect until the President signs them.
 
 The appropriations written into law are divided up into various categories for each agency, the most common being Salaries and Expenses. Particular programs are sometimes given their own funding, for instance usually the @OIG has a dedicated fund, or at the @SBA the disaster loans program receives an independent amount. (At @DOD, program categories are referred to as **"Color of Money."**) Usually there is also language stating how much of this funding can be moved around - "reprogrammed" in budget terms - to other program areas. For instance, a dedicated program may still need to contribute money to the pool for enterprise-wide systems in support of its mission functions, such as telecom service or email licenses. Often this amount is 5-10%, and usually Congress must be notified of any reprogramming.
 
@@ -51,7 +51,7 @@ CRs have an expiration date as well - typically a few months out - but a series 
 @SOAPBOX Continuing resolutions are widely known to be very expensive for the government, as the lack of real funding paired with financial uncertainty forces agencies to make investments that are counterproductive. For instance, they may have to accept less-good terms on short-term contracts to cover immediate needs.
 {:.soapbox}
 
-If a CR is not passed, the [Antideficiency Act (ADA)](/laws/antideficiency-act) states that no money can be spent outside of the year(s) it was budgetted for, so the government **must** shut down if there is no new funding approved. Only **key personnel** report to work during a government shutdown, typically these are senior agency officers and those staff required to keep key areas running, such as data centers.
+If a CR is not passed, the [Antideficiency Act (ADA)](/laws/antideficiency-act) states that no money can be spent outside of the year(s) it was budgeted for, so the government **must** shut down if there is no new funding approved. Only **key personnel** report to work during a government shutdown, typically these are senior agency officers and those staff required to keep key areas running, such as data centers.
 
 Unspent funds at the end of the year must be returned to the Treasury.  As a result, most agencies spend down all remaining funds at the end of the year - often on hardware investments such as servers, laptops, or printers. Unused funds are accounted for by the @CFO and re-allocated, typically in the last month or so of the fiscal year (September).
 
@@ -113,7 +113,7 @@ OMB states that Major IT Investments include those that meet _any_ of the follow
 * has significant program or policy implications;
 * has high development, operating, or maintenance costs;
 * is funded outside of direct appropriations; or
-* is otherwised defined as "major" by the agency's own CPIC process.
+* is otherwise defined as "major" by the agency's own CPIC process.
 
 This definition is rather vague, and generally allows agencies to define for themselves which of their IT investments are major.
 

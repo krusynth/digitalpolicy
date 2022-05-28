@@ -62,7 +62,7 @@ The government spends billions of scarce federal dollars operating obsolete
 inefficient operations, and limited accountability over how taxpayer dollars are spent.
 
 * Outdated Internal Revenue Service (IRS) computer systems have contributed
-to a $70 billion backlog in uncoilected taxes and unreliable financial records
+to a $70 billion backlog in uncollected taxes and unreliable financial records
 which even the General Accounting Office (GAO) could not adequately audit.
 
 * The nation's air traffic control system is wearing out and portions of the
@@ -88,7 +88,7 @@ modernization. Evidence of poorly managed systems is pervasive. Specifically:
 are in serious trouble, resulting in billions of dollars in cost overruns, schedule
 delays, and massive program changes. The IRS is on its third unsuccessful
 attempt since 1968 to modernize its computers. The FAA air traffic control
-compuier modernization, plagued by poor management and billions in costs
+computer modernization, plagued by poor management and billions in costs
 overruns, was recently restructured after é ten year modernization effort came
 to naught.
 
@@ -1465,8 +1465,8 @@ timely delivery of new systems.
 * FAA Airman and Aircraft Registry
 * FAA Information Resources Management
 * FAA Airmen Certification Information System
-* FAA Aircraft Registration Information Systern
-* FAA National Airspace System Pian
+* FAA Aircraft Registration Information System
+* FAA National Airspace System Plan
 * FAA Terminal Radar Approach Control System
 * FAA Automated Radar Terminal System
 * FAA Mode C intruder
@@ -1510,7 +1510,7 @@ timely delivery of new systems.
 * PTO Classified Search and image Retrieval System
 * PTO Text Search System
 * PTO Patent and Trademark Copy Sales System
-* Federal Employees fAetirement System
+* Federal Employees Retirement System
 * OPM Federal Employees Retirement System Automated Processing System
 * Civil Service Retirement System
 * Forest Service Geographic information System
@@ -1615,7 +1615,7 @@ timely delivery of new systems.
 * NASA Occupational Health Management Information System
 * NASA Payroll/Personnel System
 * NASA Standard Agency-wide Accounting System
-* NASA Institutional Environmental! Management System
+* NASA Institutional Environmental Management System
 * NASA Automated Information Management Program
 * FAA Information Resources Management, Agency Wide
 * FAA Airmen and Aircraft Registry Systems
@@ -1711,7 +1711,7 @@ timely delivery of new systems.
 
 # Notes
 
-[^1]: This report includes the findings and recommendations of the Minority Staff of the Senate Subcommitiee on Oversight of Goverment Management. It does not represent either findings or recommendations formally adopted by this Subcommittee.
+[^1]: This report includes the findings and recommendations of the Minority Staff of the Senate Subcommittee on Oversight of Government Management. It does not represent either findings or recommendations formally adopted by this Subcommittee.
 
 [^2]: Throughout this report the term "computer systems” will be used in place of the phrase commonly associated with government regulations, “automated data processing equipment,” which includes computers, software, and telecommunications equipment.
 

@@ -181,7 +181,7 @@ The executive departments are a subset of the CFO Act Agencies. These days, it's
 
 They are often "federated," meaning that specific mission areas are separated into largely-independent bureaus which take direction from the main department. Each bureau will have their own organizational leadership structure, with a Chief Information Officer, etc. For instance, the Department of the Interior contains bureaus such as the National Park Service and U.S. Fish and Wildlife Service, each with their own CIO who receive direction on policy from the Interior CIO, but do not report directly to them. However, this is not always the case; by contrast, the Department of Veterans Affairs (the second-largest federal department) has no bureaus but three organizational units - each in itself bigger than many other agencies - but these units do not have separate leadership, and share one CIO for the agency.
 
-In most cases, policies directed at the Executive Departments also apply to the bureaus under the deparments, and the top level department will be responsible for overseeing the implementation of any such policies. As such, only the main Department offices will generally have a direct connection to the White House.
+In most cases, policies directed at the Executive Departments also apply to the bureaus under the departments, and the top level department will be responsible for overseeing the implementation of any such policies. As such, only the main Department offices will generally have a direct connection to the White House.
 
 Defined in [5 U.S.C. § 101](https://uscode.house.gov/view.xhtml?hl=false&edition=prelim&req=granuleid%3AUSC-prelim-title5-section101&num=0). Currently this includes:
 

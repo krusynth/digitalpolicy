@@ -135,7 +135,7 @@ However, for custom-developed software, [the government can - _and should_ - req
 # Contracting Officers
 {:#co}
 
-The main acquisition phases within an agency are largely run by a dedicated team (or office) of acquisition professionals, known as **Contracing Officers (COs)**.  Usually one CO handles a contract end-to-end, though occasionally there will be a backup CO or two. For larger or more complicated procurements there may be more staff assigned, or leadership in the procurement team may be involved.
+The main acquisition phases within an agency are largely run by a dedicated team (or office) of acquisition professionals, known as **Contracting Officers (COs)**.  Usually one CO handles a contract end-to-end, though occasionally there will be a backup CO or two. For larger or more complicated procurements there may be more staff assigned, or leadership in the procurement team may be involved.
 
 On the program office side, there will be someone who is directly responsible for making decisions about the contract, and after award will evaluate the performance of the vendor against the requirements in that document. This person is known as the **Contracting Officer's Representative (COR)**.  There is also usually at least one Alternate COR on every contract.
 {:#COR}
@@ -170,7 +170,7 @@ As one would expect, GSA provides many shared technology services across the gov
 * [webTA](https://www.doi.gov/ibc/services/human-resources) (@DOI) - personnel time tracking used by most HR departments
 * [SOC-as-a-Service](https://www.justice.gov/jmd/cybersecurity-services) (@DOJ) - a managed Security Operations Center solution.
 
-@SOAPBOX Technically, the Intergovernmental Cooperation Act also allows these providers, once designated by OMB, to provide services to state, tribal, and local governments as well. However, there has been much reluctance to do so for political reasons. Specifically there has been lots of enthusiasm recently for GSA allowing cities and states to use Login.gov, but as of today they will only do so if the requesting department is funded by federal grant money, a provision not explictly included in this law.
+@SOAPBOX Technically, the Intergovernmental Cooperation Act also allows these providers, once designated by OMB, to provide services to state, tribal, and local governments as well. However, there has been much reluctance to do so for political reasons. Specifically there has been lots of enthusiasm recently for GSA allowing cities and states to use Login.gov, but as of today they will only do so if the requesting department is funded by federal grant money, a provision not explicitly included in this law.
 {:.soapbox}
 
 The standard process for providing these services usually is via an Interagency Agreement (IAA), which authorizes the transfer of funds and explains the scope. For technology, these are typically signed by the CIO and CFO.
