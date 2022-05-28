@@ -9,9 +9,10 @@ applies_to: Executive Agencies
 enacted: 1996
 common_name: Clinger-Cohen
 link: "[Pub.L. 104-106](https://www.congress.gov/bill/104th-congress/senate-bill/1124/text)"
+description: The Clinger–Cohen Act of 1996 was created in response to the 1994 Computer Chaos report to Congress, intended to improve federal IT acquisition and management.
 ---
 
-The Clinger–Cohen Act of 1996 was created in response to the [1994 Computer Chaos report to Congress](/info/cohen-report/), intended to improve federal IT acquisition and management. This law was formerly known as the Information Technology Management Reform Act. It repealed and replaced the Brooks ADP Act, and was further expanded upon by [FITARA](/laws/fitara/).
+The Clinger–Cohen Act of 1996 was created in response to the [1994 Computer Chaos report to Congress](/info/cohen-report/), intended to improve federal IT acquisition and management. This law was formerly known as the Information Technology Management Reform Act. It repealed and replaced the Brooks ADP Act, and was further expanded upon by @FITARA.
 
 It was enacted as part of the [National Defense Authorization Act for Fiscal Year 1996](https://www.congress.gov/bill/104th-congress/senate-bill/1124/text). It incorporates two separate, but related, acts:
 

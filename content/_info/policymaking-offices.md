@@ -2,6 +2,7 @@
 title: Policymaking Offices
 layout: document
 toc: true
+description: There are a number of offices tasked with creating and overseeing IT policy in the federal government.
 ---
 
 # Executive Office of the President (EOP, a.k.a. "The White House")
@@ -36,9 +37,9 @@ Offices on the management side of OMB report to the Deputy Director for Manageme
 #### Office of the Federal Chief Information Officer (OFCIO)
 {:#ofcio}
 
-Legally known as the Office of E-Government & Information Technology (or E-Gov Office), most technology policy and guidance in the executive branch [comes out of this office](https://www.whitehouse.gov/omb/management/egov/), including data and cybersecurity policy. The head of this office is formally known as the Federal Chief Information Officer (Federal CIO), but in law is referred to as the Administrator of the Office of E-Government and Information Technology.
+Legally known as the Office of Office of Electronic Government (or E-Gov Office), most technology policy and guidance in the executive branch [comes out of this office](https://www.whitehouse.gov/omb/management/egov/), including data and cybersecurity policy. The head of this office is formally known as the Federal Chief Information Officer (Federal CIO), but in law is referred to as the Administrator of the Office of E-Government and Information Technology.
 
-The Federal Chief Information Officer is the chair of the [Federal CIO Council](https://www.cio.gov/about/members-and-leadership/), consisting of the CIOs of the [24 large Federal agencies](/info/agency-scope/#cfo-act-agencies) and a few others.  This organization does not issue official policy, but collaborates on implementation of various initiatives and shared pilot programs.
+The Federal Chief Information Officer is the chair of the [Federal CIO Council](https://www.cio.gov/about/members-and-leadership/), consisting of the CIOs of the [24 large Federal agencies](/info/agency-scope/#cfo-act-agencies) and a few others.  This organization does not issue official policy, but collaborates on implementation of various initiatives and shared pilot programs. There is also [a separate council](https://www.sac.gov/committees/cio/) for the [Small Agencies](/info/agency-scope/#small-agencies)
 {:#cioc}
 
 This office also contains the Federal Chief Information Security Officer, who is the chair of the [Federal CISO Council](https://www.cio.gov/about/members-and-leadership/ciso-council/).
@@ -47,7 +48,7 @@ This office also contains the Federal Chief Information Security Officer, who is
 OFCIO oversees most mandated IT data reporting, notably the quarterly Integrated Data Collection (IDC) which is used by the biannual FITARA Scorecard published by the Government Accountability Office. Although it is not a budget office, it also collects the monthly Capital Planning and Investment Control (CPIC) data, which includes data on all major IT investments across the government. Some, but not all, of the data collected by OFCIO is reported publicly in the form of the [IT Dashboard](https://itdashboard.gov/) which OFCIO is responsible for (though [GSA](#gsa) actually runs the website).
 {:#it-data-reporting}
 
-The Federal CIO position and this office were established by the [E-Government Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/2458/text). Many of the [Federal CIO's assigned legal authorities](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3602&num=0&edition=prelim) state that @OIRA must also be consulted in the creation of policies or requirements.
+The Federal CIO position and this office were established by the [E-Government Act of 2002](/laws/e-government-act). Many of the [Federal CIO's assigned legal authorities](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3602&num=0&edition=prelim) state that @OIRA must also be consulted in the creation of policies or requirements.
 
 #### Office of Information and Regulatory Affairs (OIRA)
 {:#oira}

@@ -79,8 +79,8 @@ values:
 
   - name: CIOC
     fullname: The Chief Information Officers Council (CIOC)
-    notes: The [federal council of Chief Information Officers.](/info/policymaking-offices/#cioc).
-    url:
+    notes: The federal council of Chief Information Officers.
+    url: /info/policymaking-offices/#cioc
 
   - name: CIO
     fullname: Chief Information Officer (CIO)

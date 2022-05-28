@@ -10,9 +10,10 @@ applies_to: CFO Act Agencies
 enacted: 2014
 link: "Passed with [2015 NDAA (Pub.L. 113-291)](https://www.congress.gov/bill/113th-congress/house-bill/3979/text/enr)
   <br>Original law: [H.R.1232](https://www.congress.gov/bill/113th-congress/house-bill/1232/text)"
+description: The Federal Information Technology Acquisition Reform Act (FITARA) is a law to improve IT management and oversight, which builds upon the Clinger-Cohen Act.
 ---
 
-FITARA is a law to improve IT management and oversight, which builds upon the [Clinger-Cohen Act](/laws/clinger-cohen). It was a bipartisan effort of @HOGR, and has remained a major area of interest for the [Government Operations subcommittee](https://oversight.house.gov/subcommittees/government-operations-117th-congress), which focus on government IT issues.
+The Federal Information Technology Acquisition Reform Act (FITARA) is a law to improve IT management and oversight, which builds upon the [Clinger-Cohen Act](/laws/clinger-cohen). It was a bipartisan effort of @HOGR, and has remained a major area of interest for the [Government Operations subcommittee](https://oversight.house.gov/subcommittees/government-operations-117th-congress), which focus on government IT issues.
 
 Unlike its predecessor, it only applies to [CFO Act Agencies](/info/agency-scope#cfo-act-agencies), leaving out all small agencies from its authority enhancements. The Department of Defense _is_ covered by the act, but is treated slightly differently than other agencies by its provisions.
 

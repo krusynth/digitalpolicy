@@ -3,6 +3,7 @@ title: Data
 layout: document
 toc: true
 order: 2
+description: There are many interrelated aspect of data governance and management that Federal Agencies are responsible for. Here are a few of the most common policy elements that you may encounter in dealing with IT systems.
 ---
 
 There are many interrelated aspect of data governance and management that Federal Agencies are responsible for.  Here are a few of the most common policy elements that you may encounter in dealing with IT systems. Key considerations include how data is **collected, stored, archived** as well as **public access to government data**
@@ -41,6 +42,13 @@ Generally, schools must have written permission from the parent or eligible stud
 
 @SOAPBOX In short, FERPA usually does not apply to Federal agencies for most practical purposes, but may be a consideration when working with @DOEd.
 {:.soapbox}
+
+### Confidential Information Protection and Statistical Efficiency Act (CIPSEA)
+{:#cipsea}
+
+The [Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA)](/laws/e-government-act/#cipsea) sets requirements on [statistical agencies](/info/agency-scope/#statistical-agencies) with regard to the confidential handling of data collected for statistical purposes. This is intended to add confidentiality requirements to things like census data. It does, however, allow for some data sharing between the Census Bureau, the Bureau of Labor Statistics, and the Bureau of Economic Analysis.
+
+The [Evidence-Based Policymaking Act](/laws/evidence-based-policymaking-act) also expanded this law and directed statistical agencies to assess their usage and disclosure of confidential information. It also makes it a felony for staff to deliberately disclose such info. This act also directs statistical agencies to find opportunities to share information with each other to reduce duplicative actions.
 
 ## Data Collection & Privacy
 {:#data-collection}

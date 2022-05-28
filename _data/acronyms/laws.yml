@@ -2,15 +2,20 @@ title: Laws and Policies
 description:
 
 values:
-  - name: CPIC
-    fullname: Capital Planning and Investment Control (CPIC)
-    notes: A federal process for IT financial management required by [The Clinger-Cohen Act](/laws/clinger-cohen/). Pronounced "SEE-pick."
-    url: /policies/budget-finance/#cpic
-
   - name: CFO Act
     fullname: Chief Financial Officers Act of 1990 (CFO Act)
     notes: A law that established the role of Chief Financial Officers at some agencies.
     url: /laws/cfo-act/
+
+  - name: CIPSEA
+    fullname: Confidential Information Protection and Statistical Efficiency Act (CIPSEA)
+    notes: A law that sets requirements on statistical agencies with regard to the confidential handling of data collected for statistical purposes.
+    url: /laws/e-government-act/#cipsea
+
+  - name: CPIC
+    fullname: Capital Planning and Investment Control (CPIC)
+    notes: A federal process for IT financial management required by [The Clinger-Cohen Act](/laws/clinger-cohen/). Pronounced "SEE-pick."
+    url: /policies/budget-finance/#cpic
 
   - name: DCOI
     fullname: The Data Center Optimization Initiative (DCOI)
