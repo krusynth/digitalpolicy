@@ -9,7 +9,7 @@ acquisition and program oversight that the
 [Clinger-Cohen Act](/laws/clinger-cohen/) would attempt to fix two years later.
 However, many of the issues identified still exist today.
 
-The following is an annotated version of the [original report [PDF]](/uploads/Cohen%20Computer%20Chaos%201994.pdf).
+The following is an annotated version of the [original report [PDF]](https://media.githubusercontent.com/media/krusynth/digitalpolicy/ghpages/uploads/Cohen%20Computer%20Chaos%201994.pdf).
 
 # Computer Chaos: Billions Wasted Buying Federal Computer Systems
 
