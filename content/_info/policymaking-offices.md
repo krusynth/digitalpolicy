@@ -37,7 +37,7 @@ Offices on the management side of OMB report to the Deputy Director for Manageme
 #### Office of the Federal Chief Information Officer (OFCIO)
 {:#ofcio}
 
-Legally known as the Office of Office of Electronic Government (or E-Gov Office), most technology policy and guidance in the executive branch [comes out of this office](https://www.whitehouse.gov/omb/management/egov/), including data and cybersecurity policy. The head of this office is formally known as the Federal Chief Information Officer (Federal CIO), but in law is referred to as the Administrator of the Office of E-Government and Information Technology.
+Legally known as the Office of Electronic Government (or E-Gov Office), most technology policy and guidance in the executive branch [comes out of this office](https://www.whitehouse.gov/omb/management/egov/), including data and cybersecurity policy. The head of this office is formally known as the Federal Chief Information Officer (Federal CIO), but in law is referred to as the Administrator of the Office of E-Government and Information Technology.
 
 The Federal Chief Information Officer is the chair of the [Federal CIO Council](https://www.cio.gov/about/members-and-leadership/), consisting of the CIOs of the [24 large Federal agencies](/info/agency-scope/#cfo-act-agencies) and a few others.  This organization does not issue official policy, but collaborates on implementation of various initiatives and shared pilot programs. There is also [a separate council](https://www.sac.gov/committees/cio/) for the [Small Agencies](/info/agency-scope/#small-agencies)
 {:#cioc}
