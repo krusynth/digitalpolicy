@@ -35,6 +35,9 @@ layout: default
         <a href="/policies/hiring/" class="btn btn-primary btn-lg category-policies"><span class="icon icon-hiring"></span><span class="text">Hiring</span></a>
       </li>
       <li>
+        <a href="/policies/ethics/" class="btn btn-primary btn-lg category-policies"><span class="icon icon-ethics"></span><span class="text">Ethics</span></a>
+      </li>
+      <li>
         <a href="/info/software-development/" class="btn btn-primary btn-lg category-info"><span class="icon icon-dev"></span><span class="text">Software Development</span></a>
       </li>
       <li>

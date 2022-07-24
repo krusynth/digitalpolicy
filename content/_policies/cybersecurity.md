@@ -7,7 +7,7 @@ order: 1
 
 Cybersecurity is a massive topic.  It also evolves very rapidly in the government, not just from a constant increase in attack volume and types, but also from a stream of new policies and executive orders creating new requirements for agencies.
 
-**@WARNING That is to say, always assume that this page is 1) a summary at best and 2) already out of date. Go ask your security team what's required.**
+@WARNING **That is to say, always assume that this page is 1) a summary at best and 2) already out of date. Go ask your security team what's required.**
 {:.notes}
 
 Historically, government cybersecurity policy has been focused on networks and systems, but these days there is more attention being paid to data itself. **[Also see the main Data article.](/policies/data/)**

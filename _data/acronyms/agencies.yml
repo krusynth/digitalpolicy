@@ -138,6 +138,11 @@ values:
     notes: Part of The Office of Management and Budget
     url: /info/policymaking-offices/#ofpp
 
+  - name: OGE
+    fullname: The U.S. Office of Government Ethics (OGE)
+    notes:
+    url: https://www.oge.gov/
+
   - name: OIRA
     fullname: The Office of Information and Regulatory Affairs (OIRA)
     notes: Part of The Office of Management and Budget. Pronounced "oh-EYE-rah."

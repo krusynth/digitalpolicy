@@ -41,6 +41,12 @@ a[href^="http://"]:after, a[href^="https://"]:after {
   padding-right: 3px;
 }
 
+.icon-ethics:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-hand-holding-dollar);
+  padding-right: 3px;
+}
 
 .icon-dev:before {
   @extend %fa-icon;
@@ -54,4 +60,8 @@ a[href^="http://"]:after, a[href^="https://"]:after {
   @extend .fas;
   content: fa-content($fa-var-building-columns);
   padding-right: 3px;
+}
+
+h1 .icon {
+  font-size: 0.85em;
 }

@@ -52,6 +52,12 @@ values:
     notes: One of the main laws regarding IT management. Pronounced "fih-TAHR-ah."
     url: /laws/fitara/
 
+
+  - name: FOIA
+    fullname: Freedom of Information Act (FOIA)
+    notes: A law allowing the public to request information and records from federal agencies. This term often is also used to refer to the process of requesting these records as well. Pronounced "FOY-uh."
+    url: /policies/data/#foia
+
   - name: HIPAA
     fullname: The Health Insurance Portability and Accountability Act (HIPAA)
     notes: A law that includes privacy requirements for personal medical information. Pronounced "HIP-ah."

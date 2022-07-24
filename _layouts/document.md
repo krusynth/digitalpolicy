@@ -8,7 +8,7 @@ layout: default
       {% include breadcrumbs.html path=page.path title=page.title %}
     </nav>
 
-    <h1>{{ page.title | escape }}</h1>
+    <h1>{{ page.title | escape }} <span class="icon icon-{{ page.slug }}"></span></h1>
   </header>
 
   {% if page.toc %}
