@@ -69,6 +69,11 @@ Government employees are expected to not show preferential treatment towards any
 
 As such, it can be a great protection to one's available time to not meet with any vendors or lobbyists, even when permitted to do so.
 
+This also means that staff should not be abusing their work access for private companies or lobbying organizations, whether or not they receive compensation.  Hosting meetings with vendors where there is no existing professional relationship should be avoided. Blogging or tweeting about private sector companies even if there _is_ a relationship should also be avoided, as this is effectively advertising the companies at the expense of government resources.
+
+@SOAPBOX One frequent area of abuse is in using flexible authorities. Although these can be used to great effect to streamline technology acquisition and staffing, they can also be easily misused for unethical ends. For instance, in a [procurement](/policies/procurement/) an agency may directly award a contract to a small business without a full evaluation; this is a frequent source of cronyism and corruption in federal agencies, no matter how well-justified the award is. Similarly, the [Direct Hire Authorities](/policies/hiring/#direct-hire-authorities) are often abused to hire folks into key roles without proper interview processes.
+{:.soapbox #abuse}
+
 ## Outside Activities
 
 Any dealings by federal staff in official capacity with their past, current, and potential-future employers or organizations other than their federal employer are also subject to scrutiny. In general, an employee can't work on anything with people or an organization where they have a close _personal or business relationship_, or if it would affect their (or someone in their household's) finances.
