@@ -83,6 +83,14 @@ Agencies may hire staff for either **Permanent** roles without an expiration, or
 @WARNING In most cases, term appointees are Excepted Service members, not Competitive Service, meaning they must apply for any government jobs with the rest of the public.
 {:.notes}
 
+### Other Staffing Methods
+
+There are several other ways that agencies can acquire additional staffing resources. Notably among these are **detail** programs, where a current federal staff member can be temporarily assigned to another agency. This is often how @USDS supplies staff resources to agencies (detailed from @OMB). The salary for the employee may be paid by either their home or host agency, this must be negotiated in advance. The [Intergovernment Personnel Act](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-334) also allows for detailing staff from or to U.S. state, local, or tribal governments as well.
+{:#detail}
+
+Additionally, there are several well-known fellowships, including the [Presidential Innovation Fellows (PIFs)](https://presidentialinnovationfellows.gov/), [Presidential Management Fellows (PMFs)](https://www.pmf.gov/), and the [United States Digital Corps](https://digitalcorps.gsa.gov/) (not to be confused with USDS). Most agencies also have internship programs similar to the private sector as well.
+{:#fellowships}
+
 ## Direct Hire Authorities
 
 There are several methods to hire through expedited means, skipping steps in the process or just directly appointing staff into positions. 
