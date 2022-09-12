@@ -2,6 +2,7 @@
 title: How to Develop Software in Government
 layout: document
 toc: true
+description: Principles for developing software in the federal government.
 ---
 
 > If you think your job is writing code and not understanding politics and the political implications of technology not only are you bad at your job, you are dangerously bad at your job and a threat to others

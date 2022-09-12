@@ -2,6 +2,7 @@
 title: Computer Chaos (1994) (Cohen Report)
 layout: document
 toc: true
+description: The 1994 Computer Chaos report, one of the fundamental documents that would influence all following government IT policy.
 ---
 
 In 1994, the Computer Chaos congressional report highlighted key problems in IT

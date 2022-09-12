@@ -9,6 +9,7 @@ applies_to: Executive Agencies
 enacted: 1870
 link: "[Pub.L. 97-258](https://www.gpo.gov/fdsys/pkg/STATUTE-96/pdf/STATUTE-96-Pg877.pdf)"
 codified: "[31 USC 1341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim)"
+description: The Antideficiency Act is the one of the fundamental laws for the Federal budget and contracting.
 ---
 
 The Antideficiency Act is the one of the fundamental laws for the Federal budget and contracting. @GAO notes that [the law prohibits federal employees from](https://web.archive.org/web/20131006053304/http://www.gao.gov/legal/lawresources/antideficiencybackground.html):

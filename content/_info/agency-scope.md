@@ -2,6 +2,7 @@
 title: Agency Scope
 layout: document
 toc: true
+description: Any law or policy generally sets requirements for a specific group of those agencies, this is a list of the most commonly used groupings.
 ---
 
 Any law or policy generally sets requirements for a specific group of those agencies.  The following groups are the most commonly used.

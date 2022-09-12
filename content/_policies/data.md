@@ -3,7 +3,7 @@ title: Data
 layout: document
 toc: true
 order: 2
-description: There are many interrelated aspect of data governance and management that Federal Agencies are responsible for. Here are a few of the most common policy elements that you may encounter in dealing with IT systems.
+description: There are many interrelated aspect of data governance and management that Federal Agencies are responsible for.
 ---
 
 There are many interrelated aspect of data governance and management that Federal Agencies are responsible for.  Here are a few of the most common policy elements that you may encounter in dealing with IT systems. Key considerations include how data is **collected, stored, archived** as well as **public access to government data**

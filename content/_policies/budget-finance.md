@@ -3,9 +3,10 @@ title: Federal Budget & Finance
 layout: document
 toc: true
 order: 3
+description: "The U.S. Federal Budget process is comprised of three phases: each agency's individual budget, the President's Budget, and the Federal Budget."
 ---
 
-The U.S. Federal Budget process is comprised of three, mostly-siloed processes. The first is each agency's internal budget process to determine what funding is needed. The second is a collaborative effort between each agency, @OMB, and the White House to produce the President’s Budget. The third is the Congressional process to create the actual Federal budget that will be appropriated.  
+The U.S. Federal Budget process is comprised of three, mostly-siloed processes. The first is each agency's internal budget process to determine what funding is needed. The second is a collaborative effort between each agency, @OMB, and the White House to produce the President’s Budget. The third is the Congressional process to create the actual Federal budget that will be appropriated.
 
 In most cases, the budget only contains funding for a single year's activities of the entire government.
 

@@ -3,6 +3,7 @@ title: Procurement & Acquisition
 layout: document
 toc: true
 order: 4
+description: For even the simplest government acquisition, there are an astonishingly large number of rules to follow, approvals to seek, and forms to fill out.
 ---
 
 Purchasing _anything_ in government can be especially daunting. There are an astonishingly large number of rules to follow, approvals to seek, and forms to fill out for even the simplest acquisition.

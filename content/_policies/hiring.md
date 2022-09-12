@@ -3,6 +3,7 @@ title: Hiring
 layout: document
 toc: true
 order: 5
+description: Federal hiring is an extremely complex and lengthy process.
 ---
 
 Another of the most daunting areas of government service is just getting in the door. Federal hiring is an extremely complex and lengthy process.

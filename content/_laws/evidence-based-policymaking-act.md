@@ -7,7 +7,7 @@ tags:
   - Data
 applies_to: Executive Agencies
 enacted: 2018
-description: The Foundations for Evidence-Based Policymaking Act, requires agencies to collect data to drive key agency policy decisions.
+description: The Foundations for Evidence-Based Policymaking Act requires agencies to collect data to drive key agency policy decisions.
 ---
 
 The Foundations for Evidence-Based Policymaking Act, as the title suggests, requires agencies to collect data to drive key agency policy decisions. This act creates a new role at each agency, the Evaluation Officer, who is responsible for reviewing and assessing the use of data for policy-related activities in the agency.

@@ -7,6 +7,7 @@ tags:
 applies_to: CFO Act Agencies
 enacted: 1990
 link: "[Pub.L. 101-576](https://www.congress.gov/bill/101st-congress/house-bill/5687/text)"
+description: The Chief Financial Officers Act of 1990 (CFO Act) established the role of Chief Financial Officers (CFOs) at federal agencies.
 ---
 
 [The Chief Financial Officers Act of 1990 (CFO Act)](https://www.congress.gov/bill/101st-congress/house-bill/5687/text), as the name implies, established the role of Chief Financial Officers (CFOs) at federal agencies. However, it only formalized the role at specific agencies - known as the [CFO Act Agencies](/info/agency-scope/#cfo-act-agencies).  (Many other IT & management laws, such as [FITARA](/laws/fitara/) only target these agencies as a result of this formal assignment of financial officer authority.) At agencies not covered by the CFO Act, including all smaller agencies, there still is almost always a CFO who is delegated authority by the administrator of that agency.

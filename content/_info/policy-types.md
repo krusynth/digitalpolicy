@@ -2,6 +2,7 @@
 title: Policy Types
 layout: document
 toc: true
+description: The most common types of government policy documents.
 ---
 
 All federal policies are built on a basis in law. Executive branch agencies are established by law which sets their mission, and subsequent laws expand the scope of this mission. For instance, the Small Business Act in 1953 created the Small Business Administration to aid & counsel small businesses, and further laws expanded its authorities and abilities, creating different types of loan programs and other assistance, such as the COVID relief programs in the CARES Act.

@@ -2,6 +2,7 @@
 title: Acronyms
 layout: document
 toc: true
+description: The most popular acronyms used in government.
 ---
 
 One of the most daunting aspects of joining government is the massive amount of jargon and acronyms. A simple phrase can contain [a large amount of history](https://memory-alpha.fandom.com/wiki/Darmok_%28episode%29), and the use of these are often ways of separating "in-groups" from "out-groups." As such, it's important to rapidly get up-to-speed on the local language in any given agency environment.

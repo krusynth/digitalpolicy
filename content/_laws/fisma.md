@@ -7,7 +7,7 @@ tags:
 applies_to: Executive Agencies
 enacted: 2002
 link: "[Pub.L. 107–347](https://www.congress.gov/bill/107th-congress/house-bill/3844/text)"
-description: The Federal Information Security Modernization Act (FISMA) created requirements for cybersecurity of federal information systems, including hardware and software, both government-created and vendor-provided.
+description: The Federal Information Security Modernization Act (FISMA) created requirements for cybersecurity of federal information systems.
 ---
 
 The Federal Information Security Modernization Act (FISMA) was passed as part of the [E-Government Act of 2002](/laws/e-government-act/), creating requirements for [cybersecurity](/policies/cybersecurity/) of federal information systems, including hardware and software, both government-created and vendor-provided. It was further updated by the Federal Information Security Modernization Act of 2014.
