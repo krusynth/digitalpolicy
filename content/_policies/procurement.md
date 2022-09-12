@@ -91,6 +91,8 @@ After a vendor is selected, the award is announced and contracts are finalized. 
 
 It's important to note that most small business vendors do not keep a large group of technical staff on-hand just waiting for labor contracts, and often they will be hiring to fill these roles. Additionally, there are often very long delays waiting for background checks and other security reviews that the agency must perform on all new staff (even without requiring a [security clearance](/policies/data/#security-clearance)!), contractors or otherwise. As a result, onboarding can be a lengthy endeavor, and it is advisable to plan up to _6-10 weeks_ for this process, depending on the number of staff.
 
+Also note that all government IT contracts, whether labor or licenses, will have agency-specific cybersecurity language.
+
 ### Protests
 
 Vendors are legally allowed to protest awards for any number of reasons. If they can provide evidence that things were handled improperly, or that conflicts of interest exist. In these circumstances, @GAO is responsible for [adjudicating the protest](https://www.gao.gov/legal/bid-protests).
