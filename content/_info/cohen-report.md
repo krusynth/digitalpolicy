@@ -11,7 +11,7 @@ However, many of the issues identified still exist today.
 
 The following is an annotated version of the [original report [PDF]](https://media.githubusercontent.com/media/krusynth/digitalpolicy/ghpages/uploads/Cohen%20Computer%20Chaos%201994.pdf).
 
-# Computer Chaos: Billions Wasted Buying Federal Computer Systems
+## Computer Chaos: Billions Wasted Buying Federal Computer Systems
 
 **October 12, 1994**
 
@@ -20,7 +20,7 @@ Ranking Minority Member<br>
 Subcommittee On Oversight Of Government Management<br>
 Senate Governmental Affairs Committee**
 
-# Executive Summary
+## Executive Summary
 
 The Minority Staff of the Senate Subcommittee on Oversight of Government
 Management recently completed a comprehensive examination of the federal
@@ -32,7 +32,7 @@ support overhauling the current process for buying major computer and
 communications systems and emphasize the need for earlier and more effective
 oversight of these programs.
 
-# Major Findings
+## Major Findings
 
 Government computer systems affect the daily life of every American--from
 processing tax returns and entitlement benefits to providing weather information for
@@ -55,7 +55,7 @@ to competitively purchase computer technology before it is obsolete. Efforts by 
 government to provide greater efficiency and service to the American people will
 certainly fail unless the process for buying information technology is improved.
 
-## Antiquated and Inefficient Computer Systems Cost the Government Billions
+### Antiquated and Inefficient Computer Systems Cost the Government Billions
 
 The government spends billions of scarce federal dollars operating obsolete
 1960s and 1970s era mainframe computers resulting in lower quality of service,
@@ -78,7 +78,7 @@ systems on archaic computer systems, making it difficult, if not impossible, to
 audit defense expenditures, and forces DOD io rely on contractors to identify
 government overpayments.
 
-## Computer Modernization Efforts Have Failed
+### Computer Modernization Efforts Have Failed
 
 The federal government is wasting billions of dollars trying to buy new systems
 and the inability to efficiently and effectively buy computers has stalled much needed
@@ -104,7 +104,7 @@ made based on the phantom savings to be derived from this program, difficult
 decisions will have to be made in the future on whether to increase defense
 spending or cut critical defense programs and military readiness.
 
-## Government Planning Efforts are Inadequate
+### Government Planning Efforts are Inadequate
 
 The government does a poor job planning its computer purchases. Agencies
 do not spend enough time reviewing their processes and practices before undertaking
@@ -138,7 +138,7 @@ required to do a job. The government also embarks on significantly larger projec
 than the private sector rather than incrementally developing systems by dividing them
 into more manageable and compatible segments.
 
-## The Computer Buying Process Condemns the Government to Pay More for Less
+### The Computer Buying Process Condemns the Government to Pay More for Less
 
 The current approach to federal regulation of computer purchases is outdated
 and takes little account of the competitive and fast changing nature of the now global
@@ -201,7 +201,7 @@ provide oversight, and improve accounting systems cannot be effective unless the
 government learns how to efficiently purchase computers. The system is indeed
 broken and it is time to fix it.
 
-# Recommendations
+## Recommendations
 
 Congress and federal agencies should consider the following options to remedy
 the problems that exist in the way the federal government buys computer systems:
@@ -259,7 +259,7 @@ legislation.
 William S. Cohen
 United States Senator
 
-# Introduction And Scope Of Investigation
+## Introduction And Scope Of Investigation
 
 For the past year, the Minority Staff of the Subcommittee on Oversight of
 Government Management, Senate Committee on Governmental Affairs has
@@ -276,7 +276,7 @@ offices. The officials were asked about problem areas and procurement related
 changes that they believe are necessary at the federal level. The sample included
 both large and small users of computer equipment.
 
-## Background
+### Background
 
 Government computers affect the life of every American. Without modern and
 efficient computers, for example, the Pension Benefit Guaranty Corporation cannot
@@ -344,13 +344,13 @@ global users of this information. While there are many flaws with buying commodi
 products, this report focuses primarily on the more problematic computer systems
 acquisitions.
 
-# Findings
+## Findings
 
 As a result of its investigation, the Minority Staff found that computer purchases are
 poorly managed, the process is unnecessarily burdensome and complex, and
 government efforts to provide effective oversight have failed.
 
-## Finding 1: The failure of the government to effectively buy needed computer equipment and services has wasted billions of dollars.
+### Finding 1: The failure of the government to effectively buy needed computer equipment and services has wasted billions of dollars.
 
 The federal government has spent over $200 billion in the last ten years to buy
 computer systems that are often incompatible, obsolete, and inappropriate for their
@@ -506,7 +506,7 @@ has ballooned in cost from $1.4 billion to $4.6 billion and GAO is concerned tha
 proposed $500 million National Weather Service computer system modernization is
 inadequately planned and will result in higher long-term costs.
 
-## Finding 2: Acquisitions of large computer systems are poorly managed and subject to cost overruns and schedule slippages. Program instability, misplaced incentives, and unrealistic expectations have frustrated efforts to successfully buy computer systems.
+### Finding 2: Acquisitions of large computer systems are poorly managed and subject to cost overruns and schedule slippages. Program instability, misplaced incentives, and unrealistic expectations have frustrated efforts to successfully buy computer systems.
 
 In the 1980s, American taxpayers were outraged by 4 long litany of "The Pentagon
 Horror Stories"--tales of $400 hammers, $600 toilet seats, and billions of dollars in cost
@@ -642,7 +642,7 @@ guiding procurement through the complexities of federal acquisition regulations 
 an impossible task. Attempts to reform the more systemic problems with federal acquisition
 have largely been a Sisyphean effort.
 
-## Finding 3: The federal government has failed to adequately plan its purchases of computer systems. Focusing more effort on the early acquisition phases is imperative to future success.
+### Finding 3: The federal government has failed to adequately plan its purchases of computer systems. Focusing more effort on the early acquisition phases is imperative to future success.
 
 The early phases of computer acquisition are critical. This is the time to define
 requirements and intelligently and rationally decide how to spend billions of dollars of
@@ -756,7 +756,7 @@ are optional and those that are the truly necessary. Unnecessarily detailed requ
 skew decisions towards developing @ unique custom-designed system rather than
 compromising on & commercially available product that meets the majority of agency needs.
 
-## Finding 4: Acquiring computers in the government takes significantly longer than developing new technology. increasing the likelihood that hardware will be obsolete once delivered. Methods to overcome this time-technology dilemma make a mockery of the idea of competition and result in excessive costs.
+### Finding 4: Acquiring computers in the government takes significantly longer than developing new technology. increasing the likelihood that hardware will be obsolete once delivered. Methods to overcome this time-technology dilemma make a mockery of the idea of competition and result in excessive costs.
 
 Computer technology is developing rapidly while the government's acquisition
 process moves al 4 glacial pace. The budgeting, review, and contracting processes are
@@ -878,7 +878,7 @@ the program. Given the track record of federal computer systems development, it 
 lot of sense for the government to scale back its grandiose plans and focus on smaller
 projects.
 
-## Finding 5: The current approach to computer systems procurement is dated and takes little account of the competitive and fast changing nature of the now global computer industry.
+### Finding 5: The current approach to computer systems procurement is dated and takes little account of the competitive and fast changing nature of the now global computer industry.
 
 In addition to operating within the inefficient federal: acquisition process, government
 computer purchasers have an additional bureaucratic system to maneuver through which
@@ -988,7 +988,7 @@ government is designing a system that can achieve the objectives of the Brooks A
 effective oversight, competition, and fairness within the constraints of technology that
 require procurements to be made in less than 18 months.
 
-## Finding 6: The current acquisition process is inflexible, bureaucratic, wasteful, and over-regulated.
+### Finding 6: The current acquisition process is inflexible, bureaucratic, wasteful, and over-regulated.
 
 The Oversight Subcommittee contacted over 50 federal departments, agencies,
 bureaus, or offices for their input on computer related acquisition problems and potential
@@ -1103,7 +1103,7 @@ stand in the way of good procurement and provide for effective rather than illus
 focusing on agency requirements and planning rather than on complying with bureaucratic
 reporting standards.
 
-## Finding 7: Protests and the threat of protests add further delay and costs to purchasing computer systems.
+### Finding 7: Protests and the threat of protests add further delay and costs to purchasing computer systems.
 
 Computer contractor protests are a growth industry, generating much work for
 lawyers and bureaucrats, but exacting a heavy toll on the government's ability to acquire
@@ -1205,7 +1205,7 @@ contractors. Until the protest process is further reformed, computer procurement
 continue to be delayed and taxpayers will continue to pay mounting legal fees and
 opportunity costs.
 
-## Finding 8: The General Services Administration cannot do the job it is mandated to do because of a lack of resources and an emphasis on process.
+### Finding 8: The General Services Administration cannot do the job it is mandated to do because of a lack of resources and an emphasis on process.
 
 GSA has a unique role in Federal computer acquisition-it is the one agency
 designated by the Brooks Act as the federal procurement expert, charged to "coordinate
@@ -1264,7 +1264,7 @@ a delegation. Only 30 people are responsible for $27 billion a year in delegatio
 demands on their time, and multi-million dollar procurements being held up, it is no wonder
 that this has evolved into a process-driven exercise.
 
-# Conclusions
+## Conclusions
 
 The failure to spend federal computer funds in an efficient manner should cause
 Congress to pause before approving any new, large information technology endeavors.
@@ -1350,7 +1350,7 @@ shuffling and little true oversight. Nonetheless, it is imperative to get the mo
 qualified acquisition personnel with the necessary authority to impact program development
 to review programs early in the development process.
 
-# Recommendations
+## Recommendations
 
 Congress should consider the following options to remedy the problems that exist in how
 the federal government buys computer systems:
@@ -1428,9 +1428,9 @@ computer acquisition process and can ensure effective planning, cost effectivene
 timely delivery of new systems.
 
 
-# Appendix A: Problem Adp Programs And Organizations Identified By GAO — 1990-94
+## Appendix A: Problem Adp Programs And Organizations Identified By GAO — 1990-94
 
-## Inadequate Requirements Analysis
+### Inadequate Requirements Analysis
 
 * DOD Corporate information Management
 * Veterans Affairs Information Systems Modernization
@@ -1491,7 +1491,7 @@ timely delivery of new systems.
 * Air Force Space-Based Space Surveillance System
 * DOD Mission Planning System
 
-## Inadequate Cost/Benefit Analysis
+### Inadequate Cost/Benefit Analysis
 
 * Navy's Tactical Advanced Computer-4
 * Army Corporate Data Base Project
@@ -1532,7 +1532,7 @@ timely delivery of new systems.
 * Western Interstate Clearinghouse Project
 * Health Care Financing Administration Common Working File
 
-## Inadequate Information Resources Management
+### Inadequate Information Resources Management
 
 * Army Information Resources Management Program
 * Army Management and Oversight Improvement
@@ -1576,7 +1576,7 @@ timely delivery of new systems.
 * IRS Tax System Modernization
 * National institutes of Health 1988 Computer Procurement Activity
 
-## Inadequate Capacity Planning / Management
+### Inadequate Capacity Planning / Management
 
 * Navy's Tactical Advanced Computer-4
 * Defense Logistics Agency Automated information Systems (Main Frame)
@@ -1592,7 +1592,7 @@ timely delivery of new systems.
 * HHS Office of Child Support Enforcement Network (telecom)
 * HHS Health Care Financing Administration's data center systems
 
-## Failure to Consider Alternatives
+### Failure to Consider Alternatives
 
 * Navy's Tactical Advanced Computer-4
 * Air Force Personnel Concept III system
@@ -1625,7 +1625,7 @@ timely delivery of new systems.
 * GSA Automated Data Processing Procurement
 * HHS Office of Child Support Enforcement Network
 
-## Restricted Competition
+### Restricted Competition
 
 * Navy's Tactical Advanced Computer-4
 * Air Force Standard Systems Center - Phase IV and Standard Base Level contracts
@@ -1633,7 +1633,7 @@ timely delivery of new systems.
 * DOD Lightweight Computer Unit System
 * GSA Automated Data Processing Procurement
 
-## Inadequate Implementation Planning
+### Inadequate Implementation Planning
 
 * Navy Shipboard Non-Tactical Automated Data Processing Program(S)
 * Army Standard Installation/Division Personnel System III
@@ -1652,7 +1652,7 @@ timely delivery of new systems.
 * IRS Electronic Filing System
 * IRS Tax Systems Modernization Program
 
-## Inadequate Testing
+### Inadequate Testing
 
 * Army All Source Analysis System
 * Naval Aviation Logistics Command Management
@@ -1664,7 +1664,7 @@ timely delivery of new systems.
 * FAA National Airspace System Plan
 * IRS Tax Systems Modernization System
 
-## Lack of Internal Controls
+### Lack of Internal Controls
 
 * Army Corporate Data Base Project
 * Army Training and Doctrine Command Decision System
@@ -1692,7 +1692,7 @@ timely delivery of new systems.
 * NIH Information Resources Management, agency-wide
 * NIH National Practitioner Data Bank
 
-## Inadequate Contract Management
+### Inadequate Contract Management
 
 * Navy Tactical Advanced Computer-4
 * Air Force Standard Systems Center - Phase IV and Standard Base Level contracts
@@ -1709,7 +1709,7 @@ timely delivery of new systems.
 * IRS Treasury Multiuser Acquisition Contract
 * NIH National Practitioner Data Bank
 
-# Notes
+## Notes
 
 [^1]: This report includes the findings and recommendations of the Minority Staff of the Senate Subcommittee on Oversight of Government Management. It does not represent either findings or recommendations formally adopted by this Subcommittee.
 

@@ -114,7 +114,7 @@ Since the [Antideficiency Act](/laws/antideficiency-act/) generally only allows 
 As a result, most contracts include **Option Periods**, allowing for agencies to _optionally_ extend the contract.  For larger contracts, these usually are a series of extra years, which individually can be activated. For smaller contracts - or to get through a transition that is not going well - option periods of months are also common.
 
 
-# Federal Acquisition Regulations (FAR)
+## Federal Acquisition Regulations (FAR)
 {:#far}
 
 The [**Federal Acquisition Regulations (FAR)**](https://www.acquisition.gov/browse/index/far) is the primarily legal document that dictates how the government buys everything. Specifically when dealing with technology and software, [FAR part 12](https://www.acquisition.gov/far/part-12) covers the requirements for acquisition of commercial products & services, and [FAR part 39](https://www.acquisition.gov/far/part-39) covers IT.
@@ -134,7 +134,7 @@ Relatedly, this part generally directs agencies to accept existing technical ref
 However, for custom-developed software, [the government can - _and should_ - require the vendor to produce the software as open source in the public domain, without license](https://www.acquisition.gov/far/part-27#FAR_27_405_3). By [U.S. copyright law](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim) all works created by the government are ineligible for copyright protection and thus are public domain assets. Most common open source licenses (GPL, MIT, etc.) rely on copyright and are *not* appropriate for the government to add to any works. ([A thorough discussion on this topic can be found on GitHub regarding the licensing of the Public Sans font.](https://github.com/uswds/public-sans/issues/30))
 {:#open-source}
 
-# Contracting Officers
+## Contracting Officers
 {:#co}
 
 The main acquisition phases within an agency are largely run by a dedicated team (or office) of acquisition professionals, known as **Contracting Officers (COs)**.  Usually one CO handles a contract end-to-end, though occasionally there will be a backup CO or two. For larger or more complicated procurements there may be more staff assigned, or leadership in the procurement team may be involved.
@@ -144,7 +144,7 @@ On the program office side, there will be someone who is directly responsible fo
 
 To act as a COR or alternate, the staff member must become COR-certified, known as [**Federal Acquisition Certification (FAC)**](https://www.fai.gov/certification/fac-cor-certification-requirements).  There are three levels of certification, which map to the maximum dollar amount of a contract that you can oversee as the primary COR. Each progressive level requires both additional training and years of experience as a COR.
 
-# Acquisition Vehicles
+## Acquisition Vehicles
 
 **Note:** The term "vehicle" is used in government to describe existing contracting channels for the procurement of various types of goods and services, not just automobile-vehicles.
 {:.notes}
@@ -158,7 +158,7 @@ Moreover, for laptops and desktop computers, @OMB has [mandated that agencies _o
 * [Department of Health and Human Services (HHS), National Institutes of Health (NIH), NIH Information Technology Acquisition and Assessment Center (NITAAC) Chief Information Officer-Commodities and Solutions (CIO-CS)](https://nitaac.nih.gov/gwacs/cio-cs)
 {:#vehicles}
 
-## Shared Services
+### Shared Services
 {:#shared-services}
 
 As most federal agencies are bound by the same laws & requirements, in many cases it is practical to have a single agency provide a service or platform to most or all of the other agencies. Usually it is within the mission of @GSA to provide these services, for instance most federal buildings are owned and/or managed by GSA.
@@ -178,7 +178,7 @@ As one would expect, GSA provides many shared technology services across the gov
 The standard process for providing these services usually is via an Interagency Agreement (IAA), which authorizes the transfer of funds and explains the scope. For technology, these are typically signed by the CIO and CFO.
 {:#iaa}
 
-## Quality Service Management Offices (QSMOs)
+### Quality Service Management Offices (QSMOs)
 {:#qsmo}
 
 Over the last few years, @OMB has been designating specific agencies to run new or evolving shared service programs, to reduce redundancy in government. The goal is to move agencies over to these shared software platforms over the next few years. These programs are known as QSMOs. There are several programs currently in operation:
