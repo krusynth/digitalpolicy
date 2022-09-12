@@ -135,7 +135,7 @@ article {
 }
 
 .featured, .notes, .soapbox, .pullquote, .quote-author  {
-  background-color: rgba($accent-color, 0.1);
+  background-color: $notes-background;
   padding: 1rem;
   margin-left: 0;
 
