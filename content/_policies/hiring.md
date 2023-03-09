@@ -46,19 +46,21 @@ Due to the large difficulties the government has experienced in hiring technolog
 
 Each position in government is classified under a [job series code number](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/occupationalhandbook.pdf). Although the definitions of these roles are fixed, there is a lot of flexibility in how a given job may be classified.
 
-Typically, most cybersecurity positions are classified as **2210**. However, other IT roles are often classified in this category for [Direct Hire Authorities](#direct-hire-authorities) reasons. For hiring managers, this means that non-cyber roles listed as 2210s will often receive a very large number of cyber-focused applicants (sometimes up to 90%!) who may not have the relevant experience requested.
+Typically, most information technology and cybersecurity positions are classified as **2210**. IT roles are often classified in this category for [Direct Hire Authorities](#direct-hire-authorities). For hiring managers, this means that non-cyber roles listed as 2210s will often receive a very large number of cyber-focused applicants (sometimes up to 90%!) who may not have the relevant experience requested.
 
-Other commonly-used job series for hiring IT-related positions include 301 and 343.
+Other commonly-used job series for hiring IT-related positions include 1550 Computer Science, 1560 Data Science, 0343 Management and Program Analysis Series, and occasionally 0301 Miscellaneous Administration and Program Series.
 
 ## Pay Grades
 
-The standard pay scale for government is called the [**General Schedule**](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/). These roles are denoted on job postings with a scale number (**GS-##**). Typically, technology roles in government are GS-13 to GS-14, with supervisory or highly-technical roles are often **GS-15**. Each level of the scale has a pay range with ten individual **steps** that staff will move up via pay raises from good performance reviews.
+The standard pay scale for government is called the [**General Schedule**](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/). These roles are denoted on job postings with a scale number (**GS ##**). GS 1 is the lowest grade, with GS 15 being the highest in the normal scale, besides the @SES. Each level of the scale has [a pay range with ten individual **steps**](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule) that staff will move up via pay raises from good performance reviews. All pay scales are set by @OPM.
 
-These pay rates are adjusted for [**locality**](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) with increases in urban areas. Although GS-15 step 10 is the formal top of the pay range, because there is a pay cap (currently $176,300 in 2022) for the general schedule, staff may hit the top of the range as early as GS-15 step 7. In these cases, staff do not receive any additional pay when moving to higher steps.
+These pay rates are adjusted for [**locality**](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) with increases in urban areas. Although GS 15 step 10 is the formal top of the pay range, because there is a pay cap (currently $176,300 in 2022) for the general schedule, staff may hit the top of the range as early as GS-15 step 7. In these cases, staff do not receive any additional pay when moving to higher steps.
 
-The @SES is not subject to these limits, and the pay rates go much higher, up to $203,700 in 2022.
+The @SES is outside of the General Schedule and not subject to these limits, as such the pay rates go much higher, up to [$212,100 in 2023](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/executive-senior-level).
 
-Special roles and specific agencies may have higher higher pay rates as well. For instance, there may be special pay grades for [2210 Cybersecurity Roles]. The agencies that regulate financial institutions also typically have higher pay scales, including the [Federal Deposit Insurance Corporation (FDIC)'s CG scale](https://www.fdic.gov/about/careers/benefits/compensation/) which reaches $199,590, and the [U.S. Securities and Exchange Commission's (SEC) SK scale](https://www.sec.gov/ohr/sec-compensation) which has 17 levels (instead of 15) topping out at $213,881 before locality adjustment. As a result, jobs at these agencies are highly competitive.
+Typically, technology roles in government are GS 11 to GS 15. GS 11 and GS 12 roles are often more junior, GS 13 mid-level, and supervisory or highly-technical roles are often GS 14 or GS 15. Non-supervisory GS 15 roles are comparatively rare. However, it is up to an agency's discretion how they grade their positions. E.g., a senior-level technologist at a small agency might only be a GS 12, due to a lower total amount for salary & compensation for the agency. Agencies vary in how these slots are assigned, and may use either a cap on the number of positions at certain grades, a total salary cap per office, or a combination of the two.
+
+On the other hand, high-demand roles and specific agencies may have higher higher pay rates as well. For instance, there may be special pay grades for [Cybersecurity Roles](https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/compensation-flexibilities-to-recruit-and-retain-cybersecurity-professionals.pdf). The agencies that regulate financial institutions also typically have much higher pay scales, including the [Federal Deposit Insurance Corporation (FDIC)'s CG scale](https://www.fdic.gov/about/careers/benefits/compensation/) which reaches $199,590, and the [U.S. Securities and Exchange Commission's (SEC) SK scale](https://www.sec.gov/ohr/sec-compensation) which has 17 levels (instead of 15) topping out at $213,881 before locality adjustment. Combined with [special benefits and incentives](https://www.sec.gov/about/careers/overview-of-sec-benefits) the compensation at these agencies can rival large private-sector technology companies. As a result, jobs at these agencies are extremely competitive and difficult to get into.
 
 ## Categories & Types of Service
 
@@ -66,7 +68,7 @@ There are three "categories" of service in the government: **Competitive Service
 
 **Competitive Service** jobs make up the majority of all roles in the government. These roles are "standard" government jobs, with no special requirements or concerns. As suggested by the name, these staff can apply to internal-to-government job postings. Typically there is a 1-year probationary period for these jobs.
 
-**Excepted Service** staff are federal employees without competitive status. These are typically term appointees, and/or those hired via [Direct Hire Authorities](#direct-hire-authorities). Typically, but not always, these are staff with **term appointments**.
+**Excepted Service** staff are federal employees without competitive status. These are typically, but not always, term appointees and/or those hired via [Direct Hire Authorities](#direct-hire-authorities).
 
 **Senior Executive Service (SES)** are senior leadership jobs in the government. These staff can be either career staff or **political appointees**.  Applying for SES jobs is especially difficult, and requires a special resume format that includes documentation of the [22 **Executive Core Qualifications (ECQs)**](https://www.opm.gov/policy-data-oversight/senior-executive-service/executive-core-qualifications/). Staff must be reviewed and approved by an SES board as part of the hiring process, but once approved they do not need to repeat the approval process. Existing federal staff must have been GS-15 or equivalent for at least a year beforehand.
 {:#ses}
@@ -81,7 +83,13 @@ It is possible to move from a political appointee to a career staff position, co
 
 Agencies may hire staff for either **Permanent** roles without an expiration, or [**Term or Temporary appointments**](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-316). This means that the staff's position expires after a certain period of time.  For government technology positions, it is common to see term appointments for 2 or 4 years, usually with a potential option for the agency to extend the term for the same length of time **once** - these are commonly known as "2+2" or "4+4."  For instance, Cybersecurity 2210s or Digital Services Experts are often hired as term appointees.
 
-@WARNING In most cases, term appointees are Excepted Service members, not Competitive Service, meaning they must apply for any government jobs with the rest of the public.
+Term appointees are typically **Excepted Service**, but not always.
+
+### Tenure
+
+Government jobs sometimes are posted twice on USAJobs - one listing for the public, and another that is only open to government employees with [**tenure**](https://www.opm.gov/policy-data-oversight/hiring-information/reinstatement/). The government requires three years of service to achieve tenure.
+
+**@WARNING In most cases, term appointees are Excepted Service members, not Competitive Service, and no years of tenure are gained. As such they must apply for government jobs listed for the public.**
 {:.notes}
 
 ### Other Staffing Methods
