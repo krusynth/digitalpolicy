@@ -79,7 +79,7 @@
         <span class="text">This project is <strong>not</strong> an official government website. None of the content herein should be considered official law, policy, or guidance.</span>
     </div>
     <div class="notes">
-      Want to stay up-to-date on the latest policy releases? <a href="https://billhunt.dev/blog/2021/01/25/presenting-eopbot/">Check out EOPbot!</a>
+      Want to stay up-to-date on the latest policy releases? <a href="https://botsin.space/@EOPbot/">Check out EOPbot!</a>
     </div>
   </header>
     <div class="container content">
