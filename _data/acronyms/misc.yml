@@ -20,7 +20,7 @@ values:
   - name: ATO
     fullname: Authorization to Operate (ATO)
     notes: A full security review & approval to use a system.
-    url:
+    url: /policies/cybersecurity/#ato
 
   - name: BOD
     fullname: Binding Operational Directive (BOD)
@@ -207,6 +207,11 @@ values:
     notes: A type of policy memo or contract between two federal agencies. In many cases the agreement itself will use the Treasury Department standard form 7600A and 7600B.
     url: /policies/procurement/#iaa
 
+  - name: ICAM
+    fullname: Identity, Credential, and Access Management (ICAM)
+    notes: A collection of security practices to ensure that only the right person with the right privileges can access the right information at the right time.
+    url: /policies/cybersecurity/#icam
+
   - name: IDIQ
     fullname: Indefinite Delivery, Indefinite Quantity (IDIQ)
     notes: A type of contract for services that does not have a value limit, only a time limit. Especially useful for agency-wide service contracts that might be used by different programs.
@@ -250,7 +255,7 @@ values:
   - name: MFA
     fullname: Multi-Factor Authentication (MFA)
     notes: A cybersecurity methodology requiring multiple credentials to gain access to a system. [Main identity article](/policies/cybersecurity/#mfa)
-    url:
+    url: /policies/cybersecurity/#mfa
 
   - name: NITAAC
     fullname: NIH Information Technology Acquisition and Assessment Center (NITAAC)

@@ -62,7 +62,7 @@ Agencies also maintain lists of their most critical systems, known as **High Val
 
 ## Security Assessment
 
-All technology must be inventoried and evaluated by security for use in a government agency. @NIST provides in [FIPS 199](https://csrc.nist.gov/publications/detail/fips/199/final) several baselines of security depending on the level of impact to individuals, businesses, etc., that the exploitation of the system could cause - low, moderate, or high.
+All technology must be inventoried and evaluated by security for use in a government agency. @NIST provides in [Federal Information Processing Standards (FIPS) 199](https://csrc.nist.gov/publications/detail/fips/199/final) several baselines of security depending on the level of impact to individuals, businesses, etc., that the exploitation of the system could cause - low, moderate, or high.
 
 > The potential impact is LOW if − The loss of confidentiality, integrity, or availability could be expected to have a limited adverse
 effect on organizational operations, organizational assets, or individuals.
@@ -73,6 +73,7 @@ effect on organizational operations, organizational assets, or individuals.
 By classifying the impact to each of **confidentiality, integrity, and availability** as defined in @FISMA (codified in [44 U.S.C. 3542](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim)) an overall classification for a system can be determined. @NIST publication [800-53 Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) lists the security controls that should be applied to a system, with an increasing number recommended in the baseline to accommodate each impact level.
 
 This assessment usually involves the creation of a System Security Plan [SSP] by the system owner, listing how various security controls will be implemented, and after reviewing this an Authorization to Operate (ATO) will be issued by the Security team.  Some agencies allow for a partial evaluation in non-production environments, sometimes called a Lightweight ATO (LATO), Progressive ATO, or Authorization to Test (ATT).
+{:#ato}
 
 All systems must be reassessed on a regular basis, which is typically done every three years. However, a few agencies have adopted a monitoring-based assessment approach, referred to as **continuous authorization**.
 
@@ -86,7 +87,7 @@ FedRAMP authorization is a very lengthy process, and it can take a year or two f
 
 @OMB has [mandated the use of FedRAMP for all cloud services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/egov_docs/fedrampmemo.pdf), but an agency can request exemption and annually notify OMB of the cloud products they're using which are not FedRAMP authorized. This is a route that should be considered particularly if the alternative is to build something from scratch, since the @FAR requires agencies to ["Buy Before Build"](/policies/procurement/#cots).
 
-The big three cloud providers generally meet FIPS Moderate requirements for the controls they are responsible for, for a _subset_ of their service offerings in the public cloud. They may also have a separate, dedicated US government-only cloud region which supports up to FIPS High, but with fewer services supported. Each major CSP provides an index showcasing which services and regions have received FedRAMP authorization.
+The big three cloud providers generally meet FIPS Moderate requirements for the controls they are responsible for, for a _subset_ of their service offerings in the public cloud. They may also have a separate, dedicated US government-only cloud region which supports up to FIPS High, but with fewer services supported. Each major Cloud Service Provider (CSP) provides an index showcasing which services and regions have received FedRAMP authorization.
 
 * [Amazon AWS](https://aws.amazon.com/compliance/services-in-scope/FedRAMP/)
 * [Microsoft Azure & O365](https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope)
@@ -117,17 +118,32 @@ A long-standing concern for the federal government has been the purchase of soft
 However, supply chain risk management is about more than just a product's direct origins, as organizations also must take into account the sourcing of all of the individual components of a product. In the case of computer hardware, this includes processor chips and storage devices like hard drives; for software, this includes all dependent libraries that may be compiled in or linked to the primary code (referred to as a Software Bill of Materials (SBOM)).
 {:#sbom}
 
-[Executive Order 14017](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/) generally addressed a variety of supply chain-related concerns for America's industries, but [Executive Order 14028 in 2021](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/) specifically addressed information technology supply chain in the federal government. Agencies are directed to report to @OMB on their plans to manage their supply chains. In accordance with the E.O., in 2022 [NIST issued guidance on software products](https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/software-supply-chain-security-guidance), directing agencies to:
+[Executive Order 14017](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/) generally addressed a variety of supply chain-related concerns for America's industries, but [Executive Order 14028 in 2021](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/) specifically addressed information technology supply chain in the federal government. Agencies are directed to report to @OMB on their plans to manage their supply chains.
+
+In accordance with the E.O., in 2022 [NIST issued guidance on software products](https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/software-supply-chain-security-guidance), directing agencies to:
 
 > Accept first-party attestation of conformity with [Secure Software Development Framework (SSDF)] practices unless a risk-based approach determines that second or third-party attestation is required.
 
-@SOAPBOX There is no question that accounting for all upstream materials in any software or hardware is an **extremely** difficult problem. However the NIST guidance largely punts on the problem entirely, and assumes that all vendors are trustworthy. This is, of course, ridiculous given the current international politics and the very recent issues Russian and Chinese manufacturers.
+@SOAPBOX There is no question that accounting for all upstream materials in any software or hardware is an **extremely** difficult problem. However the NIST guidance largely punts on the problem entirely, and assumes that all vendors are trustworthy. This is, of course, ridiculous given the current international politics and the very recent issues Russian and Chinese manufacturers. It also supposes that such pinky-swear promises from vendors will eliminate threats in software from vulnerabilities in included libraries, though cases like the recent [SolarWinds hack](https://en.wikipedia.org/wiki/SolarWinds#2019%E2%80%932020_supply_chain_attacks) have shown that this is **not** an effective strategy. As such, agencies should perform their due diligence above and beyond the NIST and OMB recommendations.
 {:.soapbox}
 
-@SOAPBOX Moreover, although all agencies generally acquire technology from many of the same providers, OMB has required every agency to duplicate the efforts to communicate with their vendors, and inspect and report on their software and hardware sources. The absence of a FedRAMP-like program for SCRM is a massive, and very expensive, gap.
+OMB codified in [M-22-18 Enhancing the Security of the Software Supply Chain through Secure Software Development Practices](https://www.whitehouse.gov/wp-content/uploads/2022/09/M-22-18.pdf) the requirement for _each agency individually_ to seek a "self-attestation" of security from _every software vendor_. It clarified and set more requirements in [M-23-16 Enhancing the Security of the Software Supply Chain through Secure Software Development Practices](https://www.whitehouse.gov/wp-content/uploads/2023/06/M-23-16-Update-to-M-22-18-Enhancing-Software-Security.pdf).
+
+@SOAPBOX Although all agencies generally acquire technology from many of the same providers, OMB has required every agency to duplicate the efforts to communicate with their vendors, and inspect and report on their software and hardware sources. The absence of a FedRAMP-like program for SCRM is a massive, and very expensive, gap.
 {:.soapbox}
 
 Although [agencies are required to only procure laptops and similar devices from specific government contracts](/policies/procurement/#acquisition-vehicles), these sources are not guaranteed to be secure for the entire supply chain - agencies are still individually responsible for validating the sources.
+
+
+## Data Protection
+
+Historically, federal security practices took a software-centric and network-perimeter approach, but in recent years this has shifted towards data-first protections. [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) recommends a number of security controls specific to securing data as part of the @ATO process.
+
+This includes requiring data be encrypted both [at rest (stored on disk or other device)](https://csf.tools/reference/nist-sp-800-53/r5/sc/sc-28/) and in-transit (transferred over the network).  For data in-transit, different encryption algorithms provide different strengths against decryption attacks, and [agencies are required to use at least TLS 1.2 and migrate to TLS 1.3 by January 1, 2024](https://csrc.nist.gov/pubs/sp/800/52/r2/final). With the increased availability of quantum computing, OMB issued [M-23-02 Migrating to Post-Quantum Cryptography](https://www.whitehouse.gov/wp-content/uploads/2022/11/M-23-02-M-Memo-on-Migrating-to-Post-Quantum-Cryptography.pdf), directing agencies to evaluate their data encryption postures particularly for @HVAs. This memo also establishes interagency working groups on post-quantum cryptography.
+{:#cryptography}
+
+Data protections also involve a variety of **Identity, Credential, and Access Management (ICAM)** practices, to ensure that only the right person with the right privileges can access the right information at the right time.  See also [Identity](#identity) and [Zero Trust](#zero-trust).
+{:#icam}
 
 ## Network Security
 
@@ -145,6 +161,7 @@ With the growth of cloud technologies, the lack of scalability associated with a
 
 [CISA's CDM tools](https://www.cisa.gov/cdm) as a complement to TIC, serving to monitor agencies' network from inside. Although these tools are mandated to be used at every agency, there have been limited pilots by a few agencies to provide CDM-like capabilities without using @CISA's tools. Notably, @SBA's implementation uses only commercial-off-the-shelf, cloud-native tools.
 
+
 ## Identity
 
 There are a number of security controls based on identity. @NIST defines three different areas of concern in [Special Publication 800-63](https://www.nist.gov/special-publication-800-63), each with it's own related document laying out the **levels (1-3)** that can be applied for different purposes and contexts.
@@ -158,5 +175,10 @@ It may be useful to note that as of revision 3 (2017), 800-63B specifically stat
 One key aspect of modern government security is the use of @MFA, which requires multiple credentials to gain access to a system. This may include a username and password, and a keycard (such as a Personal Identity Verification (PIV) card for civilian agencies, or Common Access Card (CAC) for the Department of Defense). Alternatively, agencies may use a secure token generated from an authenticator application.
 {:#mfa}
 
-Identity is the cornerstone of a [Zero Trust Architecture (ZTA)](https://csrc.nist.gov/publications/detail/sp/800-207/final) approach to security, which involves validating a user's credentials each time they attempt to access data.
+## Zero Trust
+
+Identity is the cornerstone of a [Zero Trust Architecture (ZTA)](https://csrc.nist.gov/publications/detail/sp/800-207/final) approach to security, which involves validating a user's credentials each time they attempt to access data, in addition to other principles.
 {:#zta}
+
+Over the last few years, @OMB has codified zero trust requirements for the federal government in [M-22-09 Moving the U.S. Government Toward Zero Trust Cybersecurity Principles](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf). This memorandum sets a variety of requirements including the use of **Multi-Factor Authentication (MFA)**, a mechanism to add additional security for logging into systems beyond just the use of passwords. It also directs agencies to move to **Immutable Infrastructure**, a methodology of application deployment where running virtual servers are destroyed and replaced, rather than updated with the latest version of software.
+{:#mfa}
