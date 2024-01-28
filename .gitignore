@@ -9,3 +9,4 @@ yarn-error.log
 node_modules
 *.sublime-workspace
 *.sublime-project
+Gemfile.lock
