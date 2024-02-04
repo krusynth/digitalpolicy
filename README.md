@@ -32,6 +32,18 @@ There's a couple of helper scripts included in the `package.json` as well:
 
 (I will admit I have yet to find a decent way of including node packages into GitHub pages sites. Here, I've only included the ones _needed_ to compile the SCSS, while the Javascripts are all static copies in the assets folder. I'm open to suggestions here!)
 
+#### Search
+
+The site search is using [Pagefind](https://pagefind.app/). This tool provides a server-free way of doing on-site search for static sites.
+
+To reindex the site after changing the content run:
+
+```
+npx pagefind --site _site --output-subdir ../assets/pagefind
+```
+
+(Using `npx` should prompt you to install Pagefind if it's not already installed.)
+
 ### Content
 
 All of the content pages are located in the `content/` folder (except the main `index.md` file, because GitHub Pages wants it at the root.)

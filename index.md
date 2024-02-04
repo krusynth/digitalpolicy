@@ -2,6 +2,7 @@
 layout: home
 title: "Home"
 permalink: /
+noindex: true
 ---
 
 Joining the United States federal civil service can be daunting, particularly for technology professionals who have not navigated the intricacies of government policy before. This guide is a very brief introduction to key laws, policies, and guidance surrounding the practice of information technology in government.

@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 description: Government is a strange place with its own rules and ways of doing things.
+noindex: true
 ---
 
 ## Introduction

@@ -54,25 +54,20 @@
 <body class="{{ bodyclass }}">
   <header class="site-header container">
     <nav class="navbar navbar-expand-lg">
+      <a class="navbar-brand" rel="author" href="/">{{ site.title | escape }}</a>
       <div class="container-fluid navbar-container">
-        <a class="navbar-brand" rel="author" href="/">{{ site.title | escape }}</a>
-        {%- assign page_paths = site.header_pages -%}
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="navbar-collapse collapse" id="navbarSupportedContent">
-          <ul class="nav navbar-nav nav-pages">
-            <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/about/">About</a>
-            </li>
-          </ul>
-          <ul class="nav navbar-nav nav-social">
-          </ul>
-        </div>
+        <ul class="nav navbar-nav nav-pages">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/about/">About</a>
+          </li>
+        </ul>
+        <form class="search-bar" action="/search/">
+          <input type="text" name="search" class="search-box">
+          <input type="submit" name="submit" value="Search" class="search-button">
+        </form>
       </div>
     </nav>
     <div class="disclaimer">
