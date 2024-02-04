@@ -17,7 +17,7 @@ layout: default
   </section>
 
   <section class="site-tree row">
-    <h2>Key Topics</h1>
+    <h2>Key Topics</h2>
     <ul class="key-topics">
       <li>
         <a href="/policies/cybersecurity/" class="btn btn-primary btn-lg category-policies"><span class="icon icon-cybersecurity"></span><span class="text">Cybersecurity</span></a>
@@ -45,10 +45,10 @@ layout: default
       </li>
     </ul>
 
-    <h2 class="section-title">Site Contents</h1>
+    <h2 class="section-title">Site Contents</h2>
 
     <article class="site-tree-list site-tree-policies col-md-6">
-      <h3>Policy Areas</h2>
+      <h3>Policy Areas</h3>
       <ul>
         {% assign sorted_pages = site.policies | where_exp: "page", "page.order > 0" | sort: "order" %}
         {% for page in sorted_pages %}
@@ -58,7 +58,7 @@ layout: default
     </article>
 
     <article class="site-tree-list site-tree-laws col-md-6">
-      <h3>Laws</h2>
+      <h3>Laws</h3>
       <ul>
         {% for page in site.laws %}
           <li><a href="{{page.url}}" class="icon-{{page.slug}}">{{page.title}}</a></li>
@@ -67,7 +67,7 @@ layout: default
     </article>
 
     <article class="site-tree-list site-tree-info col-md-6">
-      <h3>General Information</h2>
+      <h3>General Information</h3>
       <ul>
         {% for page in site.info %}
           <li><a href="{{page.url}}" class="icon-{{page.slug}}">{{page.title}}</a></li>
