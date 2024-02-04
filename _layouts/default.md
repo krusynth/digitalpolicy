@@ -77,7 +77,7 @@
       Want to stay up-to-date on the latest policy releases? <a href="https://botsin.space/@EOPbot/">Check out EOPbot!</a>
     </div>
   </header>
-    <div class="container content">
+    <div class="container content" {% if page.noindex == nil %}data-pagefind-body{% endif %}>
       {% include content.html html=content %}
     </div>
     <footer class="page-footer">
