@@ -36,7 +36,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Index pages for search with Pagefind
-        run: npx --yes pagefind --site _site --output-subdir ../assets/pagefind
+        run: npx --yes pagefind --site _site --output-subdir assets/pagefind
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
