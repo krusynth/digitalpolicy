@@ -35,6 +35,10 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Index pages for search with Pagefind
+        uses: mikeal/npx@master
+        with:
+          args: pagefind --site _site --output-subdir ../assets/pagefind
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
