@@ -36,7 +36,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Index pages for search with Pagefind
-        run: echo 'Hello World'
+        run: npx pagefind --site _site --output-subdir assets/pagefind
         timeout-minutes: 1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
