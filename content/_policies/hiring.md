@@ -81,6 +81,9 @@ Applying for SES jobs is especially difficult, and requires a special resume for
   * the older format is a stand-alone resume typically 5 pages in length with the ECQs as an attached 5-page document with narratives explaining competency in each specific area.
   * the [new format](https://www.energy.gov/hc/articles/tips-preparing-resume-based-application) requires the ECQs to be documented as part of the main resume. This leads to lots of "keyword-stuffing" of ECQ language into the resume.
 
+**@WARNING Read the job posting carefully to make sure you understand what is required; failure to submit the documentation in the proper way may lead to the agency rejecting your resume without further review!**
+{:.notes}
+
 In addition to ECQs, most agencies also require a job-specific set of Mandatory Technical Qualifications (MTQs) to be documented, similar to the ECQs.
 {:MTQs}
 
