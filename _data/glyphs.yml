@@ -1,5 +1,5 @@
 - name: SOAPBOX
-  value: <a href="/intro/#soapbox" title="This statement is an opinion and not based in official documentation! Click this icon for details."><span class="fas fa-bullhorn"></span></a>
+  value: <a href="/about/#soapbox" title="This statement is an opinion and not based in official documentation! Click this icon for details."><span class="fas fa-bullhorn"></span></a>
 
 - name: WARNING
   value: <span class="fas fa-circle-exclamation" title="Take note!"></span>

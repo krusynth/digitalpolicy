@@ -28,3 +28,6 @@ Notably, this memo *does not* cover the use of open source models which have not
 
 @WARNING It is important to note that almost all of the most popular AI models have End-User License Agreements (EULAs) and/or Terms of Service (TOS) that the federal government cannot legally agree to, as they contain provisions requiring indemnification (a violation of the Anti-Deficiency Act ([31 USC 1341](https://uscode.house.gov/view.xhtml?path=/prelim@title31/subtitle2/chapter13/subchapter3&edition=prelim)), agreeing to arbitration, and other restrictions. Even for open source models, the EULAs and TOS are agreed to simply by being used and would be illegal. It is strongly suggested that agencies consult their general counsels, and negotiate individual terms with their vendors before using any AI models.
 {:.notes}
+
+@SOAPBOX In these memos, OMB once again made the decision to put acqusition requirements on individual agencies, rather than the more practical implementation of having GSA Category Management negotiate the terms with vendors for the government as a whole, as previously was done for cloud-related service providers on Service Level Agreements and Terms of Service. As such, large amounts of effort will be duplicated from agency to agency as each must re-negotiate with each vendor individually.
+{:.soapbox}
