@@ -23,6 +23,9 @@ layout: default
         <a href="/policies/cybersecurity/" class="btn btn-primary btn-lg category-policies"><span class="icon icon-cybersecurity"></span><span class="text">Cybersecurity</span></a>
       </li>
       <li>
+        <a href="/policies/artificial-intelligence/" class="btn btn-primary btn-lg category-policies"><span class="icon icon-artificial-intelligence"></span><span class="text">Artificial Intelligence</span></a>
+      </li>
+      <li>
         <a href="/policies/data/" class="btn btn-primary btn-lg category-policies"><span class="icon icon-data"></span><span class="text">Data</span></a>
       </li>
       <li>

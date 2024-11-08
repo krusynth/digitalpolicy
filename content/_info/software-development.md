@@ -102,13 +102,17 @@ This is all to say, agile methodologies are strongly recommend and generally jus
 
 ### Open Source
 
-In 2016, @OMB directed agencies to [proactively release custom-developed software code as open source](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf).
+There are two separate policy areas for Open Source in the Federal Government: the acquisition and use of open source software, and the release of government-created software as open source code.
 
-GSA maintains a central list of open source projects in government at [code.gov](https://code.gov/) but the list is generally incomplete. It is still recommended that agencies submit their projects to the list, however. Since most federal agencies share their code on GitHub, it can be useful to search for projects there as well.
+In 2016, @OMB released the [Federal Source Code Policy (M-16-21)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf) directed agencies to proactively release custom-developed software code as open source. This policy also directed agencies to consider *using* open source software whenever possible instead of buying software, though many agencies still struggle with this requirement due to it being harder to procure support for open source tools. The 2024 memoranda on [Artificial Intelligence](/policies/artificial-intelligence/) reiterated both of these requirements in the context of AI.
 
-By [U.S. copyright law](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim) all works created by the government are ineligible for copyright protection and thus are public domain assets. Most common open source licenses (GPL, MIT, etc.) rely on copyright and are *not* appropriate for the government to add to any works. ([A thorough discussion on this topic can be found on GitHub regarding the licensing of the Public Sans font.](https://github.com/uswds/public-sans/issues/30)) Instead, agencies should [publish projects explicitly as public domain code](https://github.com/18F/18f.gsa.gov/blob/main/LICENSE.md).
+GSA maintains a central list of open source projects produced by government at [code.gov](https://code.gov/) but the list is generally incomplete. It is still recommended that agencies submit their projects to the list, however. Since most federal agencies share their code on GitHub, it can be useful to search for projects there as well.
+
+By [U.S. copyright law](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim) all works created by the government are ineligible for copyright protection and thus are public domain assets. Most common open source licenses (GPL, MIT, etc.) rely on copyright and are *not* appropriate for the government to add to any works. ([A thorough discussion on this topic can be found on GitHub regarding the [Federal Source Code Policy](https://github.com/WhiteHouse/source-code-policy/issues/258), and the licensing of the Public Sans font](https://github.com/uswds/public-sans/issues/30).) Instead, agencies should [publish projects explicitly as public domain code](https://github.com/18F/18f.gsa.gov/blob/main/LICENSE.md). As mentioned, the AI memoranda **require** agencies to do this for AI-related development.
 
 Note that even if the work is being outsourced to contractors, [the government can still require any custom code to be released as public domain](/policies/procurement/#open-source).
+
+For agencies looking to adopt a policy, GSA has a comprehensive [open source policy](https://open.gsa.gov/oss-policy/) which includes the provision to be **open-by-default**. They also have published a [series of templates](https://github.com/GSA/open-source-policy/) including contribution guidelines, a checklist for publishing code, and a code of conduct.
 
 ### Data & Records
 

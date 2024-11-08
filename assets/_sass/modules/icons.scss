@@ -62,6 +62,14 @@ a[href^="http://"]:after, a[href^="https://"]:after {
   padding-right: 3px;
 }
 
+.icon-artificial-intelligence:before {
+  @extend %fa-icon;
+  @extend .fas;
+  content: fa-content($fa-var-robot);
+  padding-right: 2px;
+  margin-left: -2px;
+}
+
 h1 .icon {
   font-size: 0.85em;
 }
