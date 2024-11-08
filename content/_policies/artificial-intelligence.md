@@ -25,3 +25,6 @@ OMB memorandum [M-24-18](https://www.whitehouse.gov/wp-content/uploads/2024/10/M
 {:#M-24-18}
 
 Notably, this memo *does not* cover the use of open source models which have not been purchased.
+
+@WARNING It is important to note that almost all of the most popular AI models have End-User License Agreements (EULAs) and/or Terms of Service (TOS) that the federal government cannot legally agree to, as they contain provisions requiring indemnification (a violation of the Anti-Deficiency Act ([31 USC 1341](https://uscode.house.gov/view.xhtml?path=/prelim@title31/subtitle2/chapter13/subchapter3&edition=prelim)), agreeing to arbitration, and other restrictions. Even for open source models, the EULAs and TOS are agreed to simply by being used and would be illegal. It is strongly suggested that agencies consult their general counsels, and negotiate individual terms with their vendors before using any AI models.
+{:.notes}
