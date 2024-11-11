@@ -21,6 +21,7 @@ Building a pilot project is easy, but the long-term costs to sustain a piece of 
 
 It's not too late to turn back from this dark path - but if you must proceed, here are a few guideposts.
 
+Since most software development is performed by contractors, also refer to the [procurement page](/policies/procurement/).
 
 ## Getting Software Tools
 
