@@ -21,3 +21,4 @@ There area lots of hurdles to jump when collecting data from the public at a fed
 * requests for feedback such as user surveys, and
 * comments and discussions gathered at public hearings or online meeting.
 
+The Paperwork Reduction Act expands on the [Privacy Act](/laws/privacy-act/).
