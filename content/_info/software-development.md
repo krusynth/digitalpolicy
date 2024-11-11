@@ -39,9 +39,9 @@ If you're building a web app of any sort, you should probably be using the [U.S.
 
 There are several other popular tools from GSA, but most come with a fee:
 
-* [Federalist](https://federalist.18f.gov/) - A simple static website publishing platform
+* [Login.gov](https://login.gov/) - The government-run identity verification service used at many agencies
 * [Cloud.gov](https://www.cloud.gov/) - A platform-as-a-service offering that wraps AWS, designed to handle security and compliance for the customer.
-* [Login.gov](https://login.gov/) - An identity verification service used at many agencies
+* [Cloud.gov Pages](https://cloud.gov/pages/) - A simple static website publishing platform
 * [Touchpoints](https://touchpoints.digital.gov/) - A platform for user surveys that requires no additional authorization to meet @PRA requirements.
 
 ### Free Commerical Tools
@@ -49,7 +49,7 @@ There are several other popular tools from GSA, but most come with a fee:
 Although it can be attractive to use SaaS tools that have free options, this can be dangerous in government _without proper approvals and licenses_. Any such tools still must go through governance and approval, to avoid creating shadow IT. You absolutely **should not** sign up for a personal account and use it for government work:
 
 1. [The Antideficiency Act](/laws/antideficiency-act/) prohibits the use of personal resources for government business, or staff to enter into a contract on behalf of the government without the authority to do so
-2. @FISMA requires protection of government data, no matter how innocuous-seeming the content
+2. @FISMA requires protection of government data, no matter how innocuous-seeming the content, which means you will likely need a full @ATO to use these platforms
 3. [The Federal Records Act](/policies/data/#records-management) requires official copies of government records to be preserved.
 
 Even if it's just a small task-tracking tool, do not use these services without official approval and governance.
@@ -108,15 +108,15 @@ In 2016, @OMB released the [Federal Source Code Policy (M-16-21)](https://www.wh
 
 GSA maintains a central list of open source projects produced by government at [code.gov](https://code.gov/) but the list is generally incomplete. It is still recommended that agencies submit their projects to the list, however. Since most federal agencies share their code on GitHub, it can be useful to search for projects there as well.
 
-By [U.S. copyright law](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim) all works created by the government are ineligible for copyright protection and thus are public domain assets. Most common open source licenses (GPL, MIT, etc.) rely on copyright and are *not* appropriate for the government to add to any works. ([A thorough discussion on this topic can be found on GitHub regarding the [Federal Source Code Policy](https://github.com/WhiteHouse/source-code-policy/issues/258), and the licensing of the Public Sans font](https://github.com/uswds/public-sans/issues/30).) Instead, agencies should [publish projects explicitly as public domain code](https://github.com/18F/18f.gsa.gov/blob/main/LICENSE.md). As mentioned, the AI memoranda **require** agencies to do this for AI-related development.
+By [U.S. copyright law](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim) all works created by the government are ineligible for copyright protection and thus are public domain assets. Most common open source licenses (GPL, MIT, etc.) rely on copyright and are *not* appropriate for the government to add to any works. (A thorough discussion on this topic can be found on GitHub regarding the [Federal Source Code Policy](https://github.com/WhiteHouse/source-code-policy/issues/258), and the [licensing of the Public Sans font](https://github.com/uswds/public-sans/issues/30).) Instead, agencies should [publish projects explicitly as public domain code](https://github.com/18F/18f.gsa.gov/blob/main/LICENSE.md). As mentioned above, the AI memoranda **require** agencies to do this for AI-related development.
 
 Note that even if the work is being outsourced to contractors, [the government can still require any custom code to be released as public domain](/policies/procurement/#open-source).
 
-For agencies looking to adopt a policy, GSA has a comprehensive [open source policy](https://open.gsa.gov/oss-policy/) which includes the provision to be **open-by-default**. They also have published a [series of templates](https://github.com/GSA/open-source-policy/) including contribution guidelines, a checklist for publishing code, and a code of conduct.
+For agencies looking to adopt an open source policy, GSA has a comprehensive [open source policy](https://open.gsa.gov/oss-policy/) which includes the provision to be **open-by-default** - meaning all software created by the agency is released as open source unless there is a justification to not do so (e.g. national security concerns). They also have published a [series of templates](https://github.com/GSA/open-source-policy/) including contribution guidelines, a checklist for publishing code, and a code of conduct.
 
 ### Data & Records
 
-If the project will be collecting data about individuals in the public, you may also need to submit a @SORN.
+If the project will be collecting data about individuals in the public, you may also need to submit a @SORN. You may even need to submit one if you're simply doing user testing!
 
 Projects should also follow any relevant [Records Management processes](/policies/data/#records-management). Since working in a public git repo - committing code, responding to issues, etc. – generally is considered a legal record, your agency may require extra steps when working with GitHub or similar. One common solution is to require the use of a government-specific account with a government-associated email address which receives email notifications for all activity, thereby automatically providing a copy to the official records management tools already enabled for email.
 

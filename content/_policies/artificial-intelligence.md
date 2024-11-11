@@ -31,3 +31,7 @@ Notably, this memo *does not* cover the use of open source models which have not
 
 @SOAPBOX In these memos, OMB once again made the decision to put acqusition requirements on individual agencies, rather than the more practical implementation of having GSA Category Management negotiate the terms with vendors for the government as a whole, as previously was done for cloud-related service providers on Service Level Agreements and Terms of Service. As such, large amounts of effort will be duplicated from agency to agency as each must re-negotiate with each vendor individually.
 {:.soapbox}
+
+## NIST AI Risk Management Framework
+
+In early 2023, NIST published their [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework). This is a high-level framework that describes considerations for the governance, testing, and management of AI systems in general. Unlike many other NIST publicatsion, there are no legal requirements here for federal agencies - these are just guidelines.
