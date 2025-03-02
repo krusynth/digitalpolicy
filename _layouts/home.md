@@ -83,6 +83,7 @@ layout: default
       <h3>Resources</h3>
       <ul>
         <li><a href="/resources/18F/derisking-gov-tech/">GSA 18F De-Risking Government Technology Guide</a></li>
+        <li><a href="https://18f.org/guides/">Other GSA 18F Guides</a></li>
       </ul>
     </article>
 
