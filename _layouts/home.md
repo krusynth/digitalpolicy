@@ -78,6 +78,14 @@ layout: default
       </ul>
     </article>
 
+
+    <article class="site-tree-list site-tree-policies col-md-6">
+      <h3>Resources</h3>
+      <ul>
+        <li><a href="/resources/18F/derisking-gov-tech/">GSA 18F De-Risking Government Technology Guide</a></li>
+      </ul>
+    </article>
+
   </section>
 
 </article>

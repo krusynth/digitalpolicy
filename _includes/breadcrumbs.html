@@ -3,9 +3,10 @@
   <li class="breadcrumb-item">
     <a href="{{ '/' }}">Home</a>
   </li>
-  {% if page.categories.size > 0 %}111
+  {% if page.categories.size > 0 %}
     {% for category in page.categories %}
-      {% assign route = route | append: '/' | append: category %}
+      {% assign category_slug = category | slugify | replace: '18f', '18F' %}
+      {% assign route = route | append: '/' | append: category_slug %}
       <li class="breadcrumb-item">
         <a href="{{ route | absolute_url }}/">{{ category | replace: "-", " " }}</a>
       </li>
@@ -18,6 +19,6 @@
   {% endif %}
 
   <li class="breadcrumb-item active" aria-current="page">
-    {{ page.title | replace: "-", " " }}
+    {{ page.title }}
   </li>
 </ul>
