@@ -351,7 +351,7 @@ However, if an agency is in a position to constantly measure ("inspect and accep
 
 Historically, the process of preparing software for use by its intended audience was complex, time-consuming, and risky. Standard industry practices have been automated making it simple, fast, and routine. Contractors must adhere to this practice ensuring agencies can deploy software themselves, without requiring highly technical staff to perform this trivial task. Allowing deployment to become complicated makes the agency dependent on that contractor, and makes it risky to replace them with a new contractor in the future.
 
-We publish [a sample QASP]({{site.baseurl}}/qasp/) that can be incorporated as-is. We will continue to update this QASP as we discover additional, meaningful, and objective quality metrics.
+We publish [a sample QASP]({{site.baseurl}}/resources/18F/derisking-gov-tech/qasp/) that can be incorporated as-is. We will continue to update this QASP as we discover additional, meaningful, and objective quality metrics.
 
 **Key personnel should include, at a minimum, the lead developer, and quite possibly the project manager.** The agency is buying people's time, and wants to make sure that it's getting the people who were advertised. Be wary of specifying too many key personnel, though --- this requires that the contractors put those people on the project if they get the contract, which can mean that they're functionally benched until the contract is awarded.
 
